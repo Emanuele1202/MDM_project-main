@@ -1,0 +1,3848 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdViewHideStandard.
+~ Command `ProCmdEnvShadedEdges`  1
+!%CI Shaded with edges model will be displayed
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1438 282 0 2 2398 1360 2880 1800 57182
+~ Move `main_dlg_cur` `proe_win` 9 1436 282 0 514 2398 1360 2880 1800 57185
+~ Move `main_dlg_cur` `proe_win` 9 1435 281 0 1538 2398 1360 2880 1800 57194
+~ Move `main_dlg_cur` `proe_win` 9 1434 281 0 514 2398 1360 2880 1800 57201
+~ Move `main_dlg_cur` `proe_win` 9 1432 280 0 1538 2398 1360 2880 1800 57209
+~ Move `main_dlg_cur` `proe_win` 9 1430 280 0 514 2398 1360 2880 1800 57218
+~ Move `main_dlg_cur` `proe_win` 9 1426 280 0 514 2398 1360 2880 1800 57225
+~ Move `main_dlg_cur` `proe_win` 9 1422 279 0 1538 2398 1360 2880 1800 57234
+~ Move `main_dlg_cur` `proe_win` 9 1418 278 0 1538 2398 1360 2880 1800 57242
+~ Move `main_dlg_cur` `proe_win` 9 1417 278 0 514 2398 1360 2880 1800 57249
+~ Move `main_dlg_cur` `proe_win` 9 1416 278 0 514 2398 1360 2880 1800 57259
+~ Move `main_dlg_cur` `proe_win` 9 1415 277 0 1538 2398 1360 2880 1800 57266
+~ Move `main_dlg_cur` `proe_win` 9 1414 277 0 514 2398 1360 2880 1800 57275
+~ Move `main_dlg_cur` `proe_win` 9 1413 277 0 514 2398 1360 2880 1800 57282
+~ Move `main_dlg_cur` `proe_win` 9 1412 276 0 1538 2398 1360 2880 1800 57290
+~ Move `main_dlg_cur` `proe_win` 9 1411 276 0 514 2398 1360 2880 1800 57298
+~ Move `main_dlg_cur` `proe_win` 9 1409 276 0 514 2398 1360 2880 1800 57307
+~ Move `main_dlg_cur` `proe_win` 9 1407 275 0 1538 2398 1360 2880 1800 57315
+~ Move `main_dlg_cur` `proe_win` 9 1404 275 0 514 2398 1360 2880 1800 57323
+~ Move `main_dlg_cur` `proe_win` 9 1402 275 0 514 2398 1360 2880 1800 57331
+~ Move `main_dlg_cur` `proe_win` 9 1398 273 0 1538 2398 1360 2880 1800 57339
+~ Move `main_dlg_cur` `proe_win` 9 1395 273 0 514 2398 1360 2880 1800 57347
+~ Move `main_dlg_cur` `proe_win` 9 1392 272 0 1538 2398 1360 2880 1800 57356
+~ Move `main_dlg_cur` `proe_win` 9 1388 272 0 514 2398 1360 2880 1800 57364
+~ Move `main_dlg_cur` `proe_win` 9 1383 272 0 514 2398 1360 2880 1800 57371
+~ Move `main_dlg_cur` `proe_win` 9 1379 271 0 1538 2398 1360 2880 1800 57380
+~ Move `main_dlg_cur` `proe_win` 9 1377 270 0 1538 2398 1360 2880 1800 57388
+~ Move `main_dlg_cur` `proe_win` 9 1375 270 0 514 2398 1360 2880 1800 57395
+~ Move `main_dlg_cur` `proe_win` 9 1372 268 0 1538 2398 1360 2880 1800 57403
+~ Move `main_dlg_cur` `proe_win` 9 1370 268 0 514 2398 1360 2880 1800 57420
+~ Move `main_dlg_cur` `proe_win` 9 1368 267 0 1538 2398 1360 2880 1800 57427
+~ Move `main_dlg_cur` `proe_win` 9 1367 267 0 514 2398 1360 2880 1800 57436
+~ Move `main_dlg_cur` `proe_win` 9 1366 267 0 514 2398 1360 2880 1800 57443
+~ Move `main_dlg_cur` `proe_win` 9 1364 266 0 1538 2398 1360 2880 1800 57452
+~ Move `main_dlg_cur` `proe_win` 9 1361 266 0 514 2398 1360 2880 1800 57460
+~ Move `main_dlg_cur` `proe_win` 9 1359 265 0 1538 2398 1360 2880 1800 57468
+~ Move `main_dlg_cur` `proe_win` 9 1358 265 0 514 2398 1360 2880 1800 57484
+~ Move `main_dlg_cur` `proe_win` 9 1356 264 0 1538 2398 1360 2880 1800 57493
+~ Move `main_dlg_cur` `proe_win` 9 1355 264 0 514 2398 1360 2880 1800 57500
+~ Move `main_dlg_cur` `proe_win` 9 1354 264 0 514 2398 1360 2880 1800 57509
+~ Move `main_dlg_cur` `proe_win` 9 1352 263 0 1538 2398 1360 2880 1800 57516
+~ Move `main_dlg_cur` `proe_win` 9 1346 263 0 514 2398 1360 2880 1800 57525
+~ Move `main_dlg_cur` `proe_win` 9 1343 263 0 514 2398 1360 2880 1800 57533
+~ Move `main_dlg_cur` `proe_win` 9 1339 261 0 1538 2398 1360 2880 1800 57541
+~ Move `main_dlg_cur` `proe_win` 9 1335 261 0 514 2398 1360 2880 1800 57548
+~ Move `main_dlg_cur` `proe_win` 9 1331 261 0 514 2398 1360 2880 1800 57558
+~ Move `main_dlg_cur` `proe_win` 9 1328 261 0 514 2398 1360 2880 1800 57566
+~ Move `main_dlg_cur` `proe_win` 9 1324 260 0 1538 2398 1360 2880 1800 57573
+~ Move `main_dlg_cur` `proe_win` 9 1320 260 0 514 2398 1360 2880 1800 57581
+~ Move `main_dlg_cur` `proe_win` 9 1316 260 0 514 2398 1360 2880 1800 57589
+~ Move `main_dlg_cur` `proe_win` 9 1311 260 0 514 2398 1360 2880 1800 57597
+~ Move `main_dlg_cur` `proe_win` 9 1306 260 0 514 2398 1360 2880 1800 57606
+~ Move `main_dlg_cur` `proe_win` 9 1302 260 0 514 2398 1360 2880 1800 57614
+~ Move `main_dlg_cur` `proe_win` 9 1297 260 0 514 2398 1360 2880 1800 57622
+~ Move `main_dlg_cur` `proe_win` 9 1292 260 0 514 2398 1360 2880 1800 57630
+~ Move `main_dlg_cur` `proe_win` 9 1286 260 0 514 2398 1360 2880 1800 57637
+~ Move `main_dlg_cur` `proe_win` 9 1281 260 0 514 2398 1360 2880 1800 57645
+~ Move `main_dlg_cur` `proe_win` 9 1276 260 0 514 2398 1360 2880 1800 57654
+~ Move `main_dlg_cur` `proe_win` 9 1271 260 0 514 2398 1360 2880 1800 57663
+~ Move `main_dlg_cur` `proe_win` 9 1265 260 0 514 2398 1360 2880 1800 57670
+~ Move `main_dlg_cur` `proe_win` 9 1260 260 0 514 2398 1360 2880 1800 57679
+~ Move `main_dlg_cur` `proe_win` 9 1255 260 0 514 2398 1360 2880 1800 57686
+~ Move `main_dlg_cur` `proe_win` 9 1250 260 0 514 2398 1360 2880 1800 57695
+~ Move `main_dlg_cur` `proe_win` 9 1243 260 0 514 2398 1360 2880 1800 57703
+~ Move `main_dlg_cur` `proe_win` 9 1242 260 0 514 2398 1360 2880 1800 57705
+~ Move `main_dlg_cur` `proe_win` 9 1240 260 0 514 2398 1360 2880 1800 57713
+~ Move `main_dlg_cur` `proe_win` 9 1236 260 0 514 2398 1360 2880 1800 57721
+~ Move `main_dlg_cur` `proe_win` 9 1231 260 0 514 2398 1360 2880 1800 57729
+~ Move `main_dlg_cur` `proe_win` 9 1225 260 0 514 2398 1360 2880 1800 57737
+~ Move `main_dlg_cur` `proe_win` 9 1220 260 0 514 2398 1360 2880 1800 57745
+~ Move `main_dlg_cur` `proe_win` 9 1215 260 0 514 2398 1360 2880 1800 57753
+~ Move `main_dlg_cur` `proe_win` 9 1208 260 0 514 2398 1360 2880 1800 57760
+~ Move `main_dlg_cur` `proe_win` 9 1207 260 0 514 2398 1360 2880 1800 57763
+~ Move `main_dlg_cur` `proe_win` 9 1206 260 0 514 2398 1360 2880 1800 57771
+~ Move `main_dlg_cur` `proe_win` 9 1203 260 0 514 2398 1360 2880 1800 57779
+~ Move `main_dlg_cur` `proe_win` 9 1199 260 0 514 2398 1360 2880 1800 57788
+~ Move `main_dlg_cur` `proe_win` 9 1195 260 0 514 2398 1360 2880 1800 57796
+~ Move `main_dlg_cur` `proe_win` 9 1190 260 0 514 2398 1360 2880 1800 57803
+~ Move `main_dlg_cur` `proe_win` 9 1186 260 0 514 2398 1360 2880 1800 57812
+~ Move `main_dlg_cur` `proe_win` 9 1184 260 0 514 2398 1360 2880 1800 57819
+~ Move `main_dlg_cur` `proe_win` 9 1182 260 0 514 2398 1360 2880 1800 57828
+~ Move `main_dlg_cur` `proe_win` 9 1178 260 0 514 2398 1360 2880 1800 57836
+~ Move `main_dlg_cur` `proe_win` 9 1174 260 0 514 2398 1360 2880 1800 57843
+~ Move `main_dlg_cur` `proe_win` 9 1172 260 0 514 2398 1360 2880 1800 57852
+~ Move `main_dlg_cur` `proe_win` 9 1167 260 0 514 2398 1360 2880 1800 57860
+~ Move `main_dlg_cur` `proe_win` 9 1161 260 0 514 2398 1360 2880 1800 57868
+~ Move `main_dlg_cur` `proe_win` 9 1158 260 0 514 2398 1360 2880 1800 57876
+~ Move `main_dlg_cur` `proe_win` 9 1152 260 0 514 2398 1360 2880 1800 57884
+~ Move `main_dlg_cur` `proe_win` 9 1149 260 0 514 2398 1360 2880 1800 57892
+~ Move `main_dlg_cur` `proe_win` 9 1145 260 0 514 2398 1360 2880 1800 57901
+~ Move `main_dlg_cur` `proe_win` 9 1140 260 0 514 2398 1360 2880 1800 57909
+~ Move `main_dlg_cur` `proe_win` 9 1135 260 0 514 2398 1360 2880 1800 57917
+~ Move `main_dlg_cur` `proe_win` 9 1131 260 0 514 2398 1360 2880 1800 57924
+~ Move `main_dlg_cur` `proe_win` 9 1127 260 0 514 2398 1360 2880 1800 57933
+~ Move `main_dlg_cur` `proe_win` 9 1123 260 0 514 2398 1360 2880 1800 57940
+~ Move `main_dlg_cur` `proe_win` 9 1122 260 0 514 2398 1360 2880 1800 57948
+~ Move `main_dlg_cur` `proe_win` 9 1120 260 0 514 2398 1360 2880 1800 57957
+~ Move `main_dlg_cur` `proe_win` 9 1119 260 0 514 2398 1360 2880 1800 57972
+~ Move `main_dlg_cur` `proe_win` 9 1118 260 0 514 2398 1360 2880 1800 57980
+~ Move `main_dlg_cur` `proe_win` 9 1116 261 0 1538 2398 1360 2880 1800 57988
+~ Move `main_dlg_cur` `proe_win` 9 1114 264 0 1538 2398 1360 2880 1800 57997
+~ Move `main_dlg_cur` `proe_win` 9 1110 266 0 1538 2398 1360 2880 1800 58006
+~ Move `main_dlg_cur` `proe_win` 9 1107 269 0 1538 2398 1360 2880 1800 58014
+~ Move `main_dlg_cur` `proe_win` 9 1105 271 0 1538 2398 1360 2880 1800 58021
+~ Move `main_dlg_cur` `proe_win` 9 1104 272 0 1538 2398 1360 2880 1800 58029
+~ Move `main_dlg_cur` `proe_win` 9 1101 275 0 1538 2398 1360 2880 1800 58038
+~ Move `main_dlg_cur` `proe_win` 9 1100 277 0 1538 2398 1360 2880 1800 58046
+~ Move `main_dlg_cur` `proe_win` 9 1099 279 0 1538 2398 1360 2880 1800 58054
+~ Move `main_dlg_cur` `proe_win` 9 1096 285 0 1538 2398 1360 2880 1800 58062
+~ Move `main_dlg_cur` `proe_win` 9 1095 286 0 1538 2398 1360 2880 1800 58068
+~ Move `main_dlg_cur` `proe_win` 9 1094 287 0 1538 2398 1360 2880 1800 58075
+~ Move `main_dlg_cur` `proe_win` 9 1093 289 0 1538 2398 1360 2880 1800 58084
+~ Move `main_dlg_cur` `proe_win` 9 1091 292 0 1538 2398 1360 2880 1800 58091
+~ Move `main_dlg_cur` `proe_win` 9 1091 293 0 1026 2398 1360 2880 1800 58099
+~ Move `main_dlg_cur` `proe_win` 9 1091 295 0 1026 2398 1360 2880 1800 58108
+~ Move `main_dlg_cur` `proe_win` 9 1089 297 0 1538 2398 1360 2880 1800 58117
+~ Move `main_dlg_cur` `proe_win` 9 1088 299 0 1538 2398 1360 2880 1800 58126
+~ Move `main_dlg_cur` `proe_win` 9 1088 300 0 1026 2398 1360 2880 1800 58132
+~ Move `main_dlg_cur` `proe_win` 9 1088 301 0 1026 2398 1360 2880 1800 58140
+~ Move `main_dlg_cur` `proe_win` 9 1087 304 0 1538 2398 1360 2880 1800 58149
+~ Move `main_dlg_cur` `proe_win` 9 1087 306 0 1026 2398 1360 2880 1800 58157
+~ Move `main_dlg_cur` `proe_win` 9 1086 307 0 1538 2398 1360 2880 1800 58165
+~ Move `main_dlg_cur` `proe_win` 9 1086 308 0 1026 2398 1360 2880 1800 58173
+~ Move `main_dlg_cur` `proe_win` 9 1086 310 0 1026 2398 1360 2880 1800 58181
+~ Move `main_dlg_cur` `proe_win` 9 1086 311 0 1026 2398 1360 2880 1800 58188
+~ Move `main_dlg_cur` `proe_win` 9 1086 312 0 1026 2398 1360 2880 1800 58197
+~ Move `main_dlg_cur` `proe_win` 9 1086 313 0 1026 2398 1360 2880 1800 58204
+~ Move `main_dlg_cur` `proe_win` 9 1086 314 0 1026 2398 1360 2880 1800 58213
+~ Move `main_dlg_cur` `proe_win` 9 1087 315 0 1538 2398 1360 2880 1800 58222
+~ Move `main_dlg_cur` `proe_win` 9 1088 315 0 514 2398 1360 2880 1800 58238
+~ Move `main_dlg_cur` `proe_win` 9 1089 316 0 1538 2398 1360 2880 1800 58246
+~ Move `main_dlg_cur` `proe_win` 9 1090 316 0 514 2398 1360 2880 1800 58254
+~ Move `main_dlg_cur` `proe_win` 9 1091 316 0 514 2398 1360 2880 1800 58262
+~ Move `main_dlg_cur` `proe_win` 9 1092 317 0 1538 2398 1360 2880 1800 58269
+~ Move `main_dlg_cur` `proe_win` 9 1094 318 0 1538 2398 1360 2880 1800 58277
+~ Move `main_dlg_cur` `proe_win` 9 1097 321 0 1538 2398 1360 2880 1800 58286
+~ Move `main_dlg_cur` `proe_win` 9 1101 322 0 1538 2398 1360 2880 1800 58293
+~ Move `main_dlg_cur` `proe_win` 9 1103 324 0 1538 2398 1360 2880 1800 58301
+~ Move `main_dlg_cur` `proe_win` 9 1107 326 0 1538 2398 1360 2880 1800 58310
+~ Move `main_dlg_cur` `proe_win` 9 1111 327 0 1538 2398 1360 2880 1800 58318
+~ Move `main_dlg_cur` `proe_win` 9 1113 329 0 1538 2398 1360 2880 1800 58326
+~ Move `main_dlg_cur` `proe_win` 9 1117 332 0 1538 2398 1360 2880 1800 58335
+~ Move `main_dlg_cur` `proe_win` 9 1120 333 0 1538 2398 1360 2880 1800 58343
+~ Move `main_dlg_cur` `proe_win` 9 1122 334 0 1538 2398 1360 2880 1800 58351
+~ Move `main_dlg_cur` `proe_win` 9 1125 337 0 1538 2398 1360 2880 1800 58359
+~ Move `main_dlg_cur` `proe_win` 9 1127 338 0 1538 2398 1360 2880 1800 58367
+~ Move `main_dlg_cur` `proe_win` 9 1129 339 0 1538 2398 1360 2880 1800 58374
+~ Move `main_dlg_cur` `proe_win` 9 1130 340 0 1538 2398 1360 2880 1800 58384
+~ Move `main_dlg_cur` `proe_win` 9 1131 341 0 1538 2398 1360 2880 1800 58390
+~ Move `main_dlg_cur` `proe_win` 9 1133 342 0 1538 2398 1360 2880 1800 58399
+~ Move `main_dlg_cur` `proe_win` 9 1136 344 0 1538 2398 1360 2880 1800 58407
+~ Move `main_dlg_cur` `proe_win` 9 1138 345 0 1538 2398 1360 2880 1800 58414
+~ Move `main_dlg_cur` `proe_win` 9 1141 346 0 1538 2398 1360 2880 1800 58422
+~ Move `main_dlg_cur` `proe_win` 9 1145 349 0 1538 2398 1360 2880 1800 58431
+~ Move `main_dlg_cur` `proe_win` 9 1147 351 0 1538 2398 1360 2880 1800 58439
+~ Move `main_dlg_cur` `proe_win` 9 1151 354 0 1538 2398 1360 2880 1800 58448
+~ Move `main_dlg_cur` `proe_win` 9 1152 354 0 514 2398 1360 2880 1800 58456
+~ Move `main_dlg_cur` `proe_win` 9 1153 354 0 514 2398 1360 2880 1800 58464
+~ Move `main_dlg_cur` `proe_win` 9 1154 355 0 1538 2398 1360 2880 1800 58471
+~ Move `main_dlg_cur` `proe_win` 9 1155 355 0 514 2398 1360 2880 1800 58480
+~ Move `main_dlg_cur` `proe_win` 9 1156 356 0 1538 2398 1360 2880 1800 58488
+~ Move `main_dlg_cur` `proe_win` 9 1158 357 0 1538 2398 1360 2880 1800 58496
+~ Move `main_dlg_cur` `proe_win` 9 1161 359 0 1538 2398 1360 2880 1800 58503
+~ Move `main_dlg_cur` `proe_win` 9 1163 360 0 1538 2398 1360 2880 1800 58512
+~ Move `main_dlg_cur` `proe_win` 9 1167 363 0 1538 2398 1360 2880 1800 58519
+~ Move `main_dlg_cur` `proe_win` 9 1168 364 0 1538 2398 1360 2880 1800 58528
+~ Move `main_dlg_cur` `proe_win` 9 1169 364 0 514 2398 1360 2880 1800 58536
+~ Move `main_dlg_cur` `proe_win` 9 1170 365 0 1538 2398 1360 2880 1800 58545
+~ Move `main_dlg_cur` `proe_win` 9 1172 365 0 514 2398 1360 2880 1800 58553
+~ Move `main_dlg_cur` `proe_win` 9 1176 366 0 1538 2398 1360 2880 1800 58561
+~ Move `main_dlg_cur` `proe_win` 9 1178 368 0 1538 2398 1360 2880 1800 58569
+~ Move `main_dlg_cur` `proe_win` 9 1179 369 0 1538 2398 1360 2880 1800 58577
+~ Move `main_dlg_cur` `proe_win` 9 1180 369 0 514 2398 1360 2880 1800 58585
+~ Move `main_dlg_cur` `proe_win` 9 1181 369 0 514 2398 1360 2880 1800 58601
+~ Move `main_dlg_cur` `proe_win` 9 1182 370 0 1538 2398 1360 2880 1800 58617
+~ Move `main_dlg_cur` `proe_win` 9 1183 371 0 1538 2398 1360 2880 1800 58852
+~ Move `main_dlg_cur` `proe_win` 9 1184 371 0 514 2398 1360 2880 1800 58868
+~ Move `main_dlg_cur` `proe_win` 9 1185 372 0 1538 2398 1360 2880 1800 58876
+~ Move `main_dlg_cur` `proe_win` 9 1186 372 0 514 2398 1360 2880 1800 58901
+~ Move `main_dlg_cur` `proe_win` 9 1187 373 0 1538 2398 1360 2880 1800 58908
+~ Move `main_dlg_cur` `proe_win` 9 1188 373 0 514 2398 1360 2880 1800 58924
+~ Move `main_dlg_cur` `proe_win` 9 1189 373 0 514 2398 1360 2880 1800 58941
+~ Move `main_dlg_cur` `proe_win` 9 1189 374 0 1026 2398 1360 2880 1800 58957
+~ Move `main_dlg_cur` `proe_win` 9 1190 374 0 514 2398 1360 2880 1800 59022
+~ Move `main_dlg_cur` `proe_win` 9 1191 374 0 514 2398 1360 2880 1800 59029
+~ Move `main_dlg_cur` `proe_win` 9 1192 375 0 1538 2398 1360 2880 1800 59046
+~ Move `main_dlg_cur` `proe_win` 9 1193 375 0 514 2398 1360 2880 1800 59079
+~ Move `main_dlg_cur` `proe_win` 9 1194 375 0 514 2398 1360 2880 1800 59094
+~ Move `main_dlg_cur` `proe_win` 9 1195 375 0 514 2398 1360 2880 1800 59110
+~ Move `main_dlg_cur` `proe_win` 9 1196 375 0 514 2398 1360 2880 1800 59134
+~ Move `main_dlg_cur` `proe_win` 9 1197 375 0 514 2398 1360 2880 1800 59198
+~ Move `main_dlg_cur` `proe_win` 9 1198 375 0 514 2398 1360 2880 1800 59207
+~ Move `main_dlg_cur` `proe_win` 9 1198 374 0 1026 2398 1360 2880 1800 59442
+~ Move `main_dlg_cur` `proe_win` 9 1198 373 0 1026 2398 1360 2880 1800 59458
+~ Move `main_dlg_cur` `proe_win` 9 1197 373 0 514 2398 1360 2880 1800 59474
+~ Move `main_dlg_cur` `proe_win` 9 1196 372 0 1538 2398 1360 2880 1800 59482
+~ Move `main_dlg_cur` `proe_win` 9 1195 372 0 514 2398 1360 2880 1800 59490
+~ Move `main_dlg_cur` `proe_win` 9 1194 372 0 514 2398 1360 2880 1800 59498
+~ Move `main_dlg_cur` `proe_win` 9 1193 371 0 1538 2398 1360 2880 1800 59506
+~ Move `main_dlg_cur` `proe_win` 9 1192 371 0 514 2398 1360 2880 1800 59514
+~ Move `main_dlg_cur` `proe_win` 9 1191 370 0 1538 2398 1360 2880 1800 59522
+~ Move `main_dlg_cur` `proe_win` 9 1190 369 0 1538 2398 1360 2880 1800 59530
+~ Move `main_dlg_cur` `proe_win` 9 1189 368 0 1538 2398 1360 2880 1800 59548
+~ Move `main_dlg_cur` `proe_win` 9 1187 366 0 1538 2398 1360 2880 1800 59555
+~ Move `main_dlg_cur` `proe_win` 9 1186 365 0 1538 2398 1360 2880 1800 59571
+~ Move `main_dlg_cur` `proe_win` 9 1185 365 0 514 2398 1360 2880 1800 59587
+~ Move `main_dlg_cur` `proe_win` 9 1184 364 0 1538 2398 1360 2880 1800 59595
+~ Move `main_dlg_cur` `proe_win` 9 1183 363 0 1538 2398 1360 2880 1800 59602
+~ Move `main_dlg_cur` `proe_win` 9 1182 363 0 514 2398 1360 2880 1800 59619
+~ Move `main_dlg_cur` `proe_win` 9 1181 362 0 1538 2398 1360 2880 1800 59626
+~ Move `main_dlg_cur` `proe_win` 9 1180 362 0 514 2398 1360 2880 1800 59635
+~ Move `main_dlg_cur` `proe_win` 9 1179 362 0 514 2398 1360 2880 1800 59643
+~ Move `main_dlg_cur` `proe_win` 9 1178 361 0 1538 2398 1360 2880 1800 59652
+~ Move `main_dlg_cur` `proe_win` 9 1177 361 0 514 2398 1360 2880 1800 59660
+~ Move `main_dlg_cur` `proe_win` 9 1175 360 0 1538 2398 1360 2880 1800 59668
+~ Move `main_dlg_cur` `proe_win` 9 1173 360 0 514 2398 1360 2880 1800 59676
+~ Move `main_dlg_cur` `proe_win` 9 1172 359 0 1538 2398 1360 2880 1800 59684
+~ Move `main_dlg_cur` `proe_win` 9 1171 358 0 1538 2398 1360 2880 1800 59691
+~ Move `main_dlg_cur` `proe_win` 9 1169 357 0 1538 2398 1360 2880 1800 59700
+~ Move `main_dlg_cur` `proe_win` 9 1168 357 0 514 2398 1360 2880 1800 59715
+~ Move `main_dlg_cur` `proe_win` 9 1167 356 0 1538 2398 1360 2880 1800 59724
+~ Move `main_dlg_cur` `proe_win` 9 1166 355 0 1538 2398 1360 2880 1800 59731
+~ Move `main_dlg_cur` `proe_win` 9 1165 355 0 514 2398 1360 2880 1800 59740
+~ Move `main_dlg_cur` `proe_win` 9 1164 355 0 514 2398 1360 2880 1800 59748
+~ Move `main_dlg_cur` `proe_win` 9 1163 355 0 514 2398 1360 2880 1800 59756
+~ Move `main_dlg_cur` `proe_win` 9 1160 354 0 1538 2398 1360 2880 1800 59765
+~ Move `main_dlg_cur` `proe_win` 9 1159 353 0 1538 2398 1360 2880 1800 59773
+~ Move `main_dlg_cur` `proe_win` 9 1158 352 0 1538 2398 1360 2880 1800 59789
+~ Move `main_dlg_cur` `proe_win` 9 1157 352 0 514 2398 1360 2880 1800 59797
+~ Move `main_dlg_cur` `proe_win` 9 1156 351 0 1538 2398 1360 2880 1800 59805
+~ Move `main_dlg_cur` `proe_win` 9 1154 350 0 1538 2398 1360 2880 1800 59813
+~ Move `main_dlg_cur` `proe_win` 9 1153 349 0 1538 2398 1360 2880 1800 59821
+~ Move `main_dlg_cur` `proe_win` 9 1152 349 0 514 2398 1360 2880 1800 59829
+~ Move `main_dlg_cur` `proe_win` 9 1151 348 0 1538 2398 1360 2880 1800 59837
+~ Move `main_dlg_cur` `proe_win` 9 1150 348 0 514 2398 1360 2880 1800 59845
+~ Move `main_dlg_cur` `proe_win` 9 1149 348 0 514 2398 1360 2880 1800 59853
+~ Move `main_dlg_cur` `proe_win` 9 1148 347 0 1538 2398 1360 2880 1800 59862
+~ Move `main_dlg_cur` `proe_win` 9 1146 347 0 514 2398 1360 2880 1800 59877
+~ Move `main_dlg_cur` `proe_win` 9 1145 347 0 514 2398 1360 2880 1800 59925
+~ Move `main_dlg_cur` `proe_win` 9 1144 347 0 514 2398 1360 2880 1800 59967
+~ Move `main_dlg_cur` `proe_win` 9 1143 346 0 1538 2398 1360 2880 1800 59975
+~ Move `main_dlg_cur` `proe_win` 9 1142 346 0 514 2398 1360 2880 1800 60073
+~ Move `main_dlg_cur` `proe_win` 9 1141 346 0 514 2398 1360 2880 1800 60088
+~ Move `main_dlg_cur` `proe_win` 9 1140 346 0 514 2398 1360 2880 1800 60096
+~ Move `main_dlg_cur` `proe_win` 9 1138 346 0 514 2398 1360 2880 1800 60103
+~ Move `main_dlg_cur` `proe_win` 9 1136 346 0 514 2398 1360 2880 1800 60112
+~ Move `main_dlg_cur` `proe_win` 9 1134 346 0 514 2398 1360 2880 1800 60120
+~ Move `main_dlg_cur` `proe_win` 9 1131 346 0 514 2398 1360 2880 1800 60128
+~ Move `main_dlg_cur` `proe_win` 9 1128 346 0 514 2398 1360 2880 1800 60136
+~ Move `main_dlg_cur` `proe_win` 9 1127 346 0 514 2398 1360 2880 1800 60153
+~ Move `main_dlg_cur` `proe_win` 9 1126 346 0 514 2398 1360 2880 1800 60161
+~ Move `main_dlg_cur` `proe_win` 9 1123 346 0 514 2398 1360 2880 1800 60169
+~ Move `main_dlg_cur` `proe_win` 9 1121 346 0 514 2398 1360 2880 1800 60176
+~ Move `main_dlg_cur` `proe_win` 9 1120 346 0 514 2398 1360 2880 1800 60209
+~ Move `main_dlg_cur` `proe_win` 9 1118 346 0 514 2398 1360 2880 1800 60241
+~ Move `main_dlg_cur` `proe_win` 9 1117 346 0 514 2398 1360 2880 1800 60258
+~ Move `main_dlg_cur` `proe_win` 9 1116 346 0 514 2398 1360 2880 1800 60371
+~ Move `main_dlg_cur` `proe_win` 9 1115 346 0 514 2398 1360 2880 1800 60387
+~ Move `main_dlg_cur` `proe_win` 9 1115 347 0 1026 2398 1360 2880 1800 60411
+~ Move `main_dlg_cur` `proe_win` 9 1115 348 0 1026 2398 1360 2880 1800 60427
+~ Move `main_dlg_cur` `proe_win` 9 1115 349 0 1026 2398 1360 2880 1800 60452
+~ Move `main_dlg_cur` `proe_win` 9 1115 350 0 1026 2398 1360 2880 1800 60460
+~ Move `main_dlg_cur` `proe_win` 9 1115 351 0 1026 2398 1360 2880 1800 60484
+~ Move `main_dlg_cur` `proe_win` 9 1115 352 0 1026 2398 1360 2880 1800 60492
+~ Move `main_dlg_cur` `proe_win` 9 1115 353 0 1026 2398 1360 2880 1800 60500
+~ Move `main_dlg_cur` `proe_win` 9 1115 354 0 1026 2398 1360 2880 1800 60508
+~ Move `main_dlg_cur` `proe_win` 9 1115 355 0 1026 2398 1360 2880 1800 60516
+~ Move `main_dlg_cur` `proe_win` 9 1116 355 0 514 2398 1360 2880 1800 60531
+~ Move `main_dlg_cur` `proe_win` 9 1117 356 0 1538 2398 1360 2880 1800 60549
+~ Move `main_dlg_cur` `proe_win` 9 1118 356 0 514 2398 1360 2880 1800 60557
+~ Move `main_dlg_cur` `proe_win` 9 1119 356 0 514 2398 1360 2880 1800 60589
+~ Move `main_dlg_cur` `proe_win` 9 1120 357 0 1538 2398 1360 2880 1800 60597
+~ Move `main_dlg_cur` `proe_win` 9 1121 357 0 514 2398 1360 2880 1800 60637
+~ Move `main_dlg_cur` `proe_win` 9 1122 358 0 1538 2398 1360 2880 1800 60678
+~ Move `main_dlg_cur` `proe_win` 9 1123 359 0 1538 2398 1360 2880 1800 60694
+~ Move `main_dlg_cur` `proe_win` 9 1124 360 0 1538 2398 1360 2880 1800 60719
+~ Move `main_dlg_cur` `proe_win` 9 1125 360 0 514 2398 1360 2880 1800 60726
+~ Move `main_dlg_cur` `proe_win` 9 1125 361 0 1026 2398 1360 2880 1800 60751
+~ Move `main_dlg_cur` `proe_win` 9 1126 361 0 514 2398 1360 2880 1800 60767
+~ Move `main_dlg_cur` `proe_win` 9 1127 361 0 514 2398 1360 2880 1800 60792
+~ Move `main_dlg_cur` `proe_win` 9 1128 361 0 514 2398 1360 2880 1800 60865
+~ Move `main_dlg_cur` `proe_win` 9 1129 362 0 1538 2398 1360 2880 1800 60880
+~ Move `main_dlg_cur` `proe_win` 9 1130 363 0 1538 2398 1360 2880 1800 61011
+~ Move `main_dlg_cur` `proe_win` 9 1130 364 0 1026 2398 1360 2880 1800 61050
+~ Move `main_dlg_cur` `proe_win` 9 1131 364 0 514 2398 1360 2880 1800 61091
+~ Move `main_dlg_cur` `proe_win` 9 1132 365 0 1538 2398 1360 2880 1800 61098
+~ Move `main_dlg_cur` `proe_win` 9 1132 366 0 1026 2398 1360 2880 1800 61164
+~ Move `main_dlg_cur` `proe_win` 9 1133 367 0 1538 2398 1360 2880 1800 61203
+~ Move `main_dlg_cur` `proe_win` 9 1134 368 0 1538 2398 1360 2880 1800 61243
+~ Move `main_dlg_cur` `proe_win` 9 1135 369 0 1538 2398 1360 2880 1800 61293
+~ Move `main_dlg_cur` `proe_win` 9 1136 369 0 514 2398 1360 2880 1800 61300
+~ Move `main_dlg_cur` `proe_win` 9 1137 369 0 514 2398 1360 2880 1800 61324
+~ Move `main_dlg_cur` `proe_win` 9 1138 369 0 514 2398 1360 2880 1800 61340
+~ Move `main_dlg_cur` `proe_win` 9 1139 369 0 514 2398 1360 2880 1800 61349
+~ Move `main_dlg_cur` `proe_win` 9 1140 369 0 514 2398 1360 2880 1800 61357
+~ Move `main_dlg_cur` `proe_win` 9 1141 370 0 1538 2398 1360 2880 1800 61373
+~ Move `main_dlg_cur` `proe_win` 9 1142 370 0 514 2398 1360 2880 1800 61389
+~ Move `main_dlg_cur` `proe_win` 9 1143 371 0 1538 2398 1360 2880 1800 61397
+~ Move `main_dlg_cur` `proe_win` 9 1144 372 0 1538 2398 1360 2880 1800 61446
+~ Move `main_dlg_cur` `proe_win` 9 1145 372 0 514 2398 1360 2880 1800 61469
+~ Move `main_dlg_cur` `proe_win` 9 1146 372 0 514 2398 1360 2880 1800 61495
+~ Move `main_dlg_cur` `proe_win` 9 1146 373 0 1026 2398 1360 2880 1800 61510
+~ Move `main_dlg_cur` `proe_win` 9 1147 373 0 514 2398 1360 2880 1800 61534
+~ Move `main_dlg_cur` `proe_win` 9 1148 373 0 514 2398 1360 2880 1800 61551
+~ Move `main_dlg_cur` `proe_win` 9 1149 374 0 1538 2398 1360 2880 1800 61559
+~ Move `main_dlg_cur` `proe_win` 9 1150 375 0 1538 2398 1360 2880 1800 61591
+~ Move `main_dlg_cur` `proe_win` 9 1151 375 0 514 2398 1360 2880 1800 61607
+~ Move `main_dlg_cur` `proe_win` 9 1152 375 0 514 2398 1360 2880 1800 61615
+~ Move `main_dlg_cur` `proe_win` 9 1154 376 0 1538 2398 1360 2880 1800 61623
+~ Move `main_dlg_cur` `proe_win` 9 1155 377 0 1538 2398 1360 2880 1800 61647
+~ Move `main_dlg_cur` `proe_win` 9 1156 378 0 1538 2398 1360 2880 1800 61664
+~ Move `main_dlg_cur` `proe_win` 9 1157 378 0 514 2398 1360 2880 1800 61680
+~ Move `main_dlg_cur` `proe_win` 9 1158 378 0 514 2398 1360 2880 1800 61712
+~ Move `main_dlg_cur` `proe_win` 9 1159 378 0 514 2398 1360 2880 1800 61720
+~ Move `main_dlg_cur` `proe_win` 9 1159 379 0 1026 2398 1360 2880 1800 61736
+~ Move `main_dlg_cur` `proe_win` 9 1160 379 0 514 2398 1360 2880 1800 61752
+~ Move `main_dlg_cur` `proe_win` 9 1161 380 0 1538 2398 1360 2880 1800 61760
+~ Move `main_dlg_cur` `proe_win` 9 1162 380 0 514 2398 1360 2880 1800 61784
+~ Move `main_dlg_cur` `proe_win` 9 1163 381 0 1538 2398 1360 2880 1800 61793
+~ Move `main_dlg_cur` `proe_win` 9 1164 381 0 514 2398 1360 2880 1800 61808
+~ Move `main_dlg_cur` `proe_win` 9 1165 382 0 1538 2398 1360 2880 1800 61816
+~ Move `main_dlg_cur` `proe_win` 9 1166 382 0 514 2398 1360 2880 1800 61874
+~ Move `main_dlg_cur` `proe_win` 9 1167 382 0 514 2398 1360 2880 1800 61905
+~ Move `main_dlg_cur` `proe_win` 9 1168 383 0 1538 2398 1360 2880 1800 61922
+~ Move `main_dlg_cur` `proe_win` 9 1169 383 0 514 2398 1360 2880 1800 62084
+~ Move `main_dlg_cur` `proe_win` 9 1170 384 0 1538 2398 1360 2880 1800 62092
+~ Move `main_dlg_cur` `proe_win` 9 1169 384 0 514 2398 1360 2880 1800 62860
+~ Move `main_dlg_cur` `proe_win` 9 1168 384 0 514 2398 1360 2880 1800 62884
+~ Move `main_dlg_cur` `proe_win` 9 1167 384 0 514 2398 1360 2880 1800 62891
+~ Move `main_dlg_cur` `proe_win` 9 1166 385 0 1538 2398 1360 2880 1800 62949
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1166 385 0 0 2398 1360 2880 1800 63253
+~ Activate `main_dlg_cur` `page_Applications_control_btn` 1
+~ Command `ProCmdUtilAppAnim`  1
+!MT_CUST - Applied settings for mode # 6 : MT Asm Design
+!Design Animation Command Script File
+!	Version: 	P_80_44:spg
+!	Platform:	x86e_win64
+!	Created: 	5/21/2023 at 10:30:04
+< 0 1.156741 2398 0 0 976 2880 0 0 1800 13
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+!Current Animation initialiazed : Animation1 (Asynchronic Explode)
+< 0 1.191111 2398 0 0 1005 2880 0 0 1800 13
+~ RButtonArm `main_dlg_cur` `time_scale` 3 1639 18 0
+~ PopupOver `main_dlg_cur` `pop_zoom_mnu` 1 `time_scale`
+~ Open `main_dlg_cur` `pop_zoom_mnu`
+~ RButtonDisarm `main_dlg_cur` `time_scale` 3 1639 18 0
+~ Close `main_dlg_cur` `pop_zoom_mnu`
+~ Activate `main_dlg_cur` `edit_time_domain`
+~ Update `anim_time_domain` `DurationTextEntry` `20`
+~ Activate `anim_time_domain` `DurationTextEntry`
+~ Update `anim_time_domain` `FrameRateTextEntry` `30`
+~ Activate `anim_time_domain` `FrameRateTextEntry`
+~ Activate `anim_time_domain` `OKButton`
+~ Command `ProCmdViewVisTool` 
+!Command ProCmdViewVisToolExe was pushed from the software.
+~ Select `visual_dlg0` `RadioSelApplMgr` 1 `orientation`
+~ Arm `visual_dlg0` `Table` 2 `back` `name_column`
+~ Select `visual_dlg0` `Table` 2 `back` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `back` `name_column`
+~ Select `visual_dlg0` `Table` 2 `back` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `back` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `back` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Select `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `front` `name_column`
+~ Select `visual_dlg0` `Table` 2 `front` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `front` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `front` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `left` `name_column`
+~ Select `visual_dlg0` `Table` 2 `left` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `left` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `left` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `right` `name_column`
+~ Select `visual_dlg0` `Table` 2 `right` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `right` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `right` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `standard orientation` `name_column`
+~ Select `visual_dlg0` `Table` 2 `standard orientation` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `standard orientation` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `standard orientation` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `default` `name_column`
+~ Select `visual_dlg0` `Table` 2 `default` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `default` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `default` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `back` `name_column`
+~ Select `visual_dlg0` `Table` 2 `back` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `back` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `back` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `top` `name_column`
+~ Select `visual_dlg0` `Table` 2 `top` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `top` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `top` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Select `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `front` `name_column`
+~ Select `visual_dlg0` `Table` 2 `front` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `front` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `front` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `left` `name_column`
+~ Select `visual_dlg0` `Table` 2 `left` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `left` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `left` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `right` `name_column`
+~ Select `visual_dlg0` `Table` 2 `right` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `right` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `right` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Select `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `left` `name_column`
+~ Select `visual_dlg0` `Table` 2 `left` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `left` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `left` `name_column`
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1235 359 0 2 2398 1005 2880 1800 239147
+~ Move `main_dlg_cur` `proe_win` 9 1235 359 0 2 2398 1005 2880 1800 239149
+~ Move `main_dlg_cur` `proe_win` 9 1235 358 0 1026 2398 1005 2880 1800 239166
+~ Move `main_dlg_cur` `proe_win` 9 1235 357 0 1026 2398 1005 2880 1800 239175
+~ Move `main_dlg_cur` `proe_win` 9 1233 356 0 1538 2398 1005 2880 1800 239183
+~ Move `main_dlg_cur` `proe_win` 9 1231 353 0 1538 2398 1005 2880 1800 239192
+~ Move `main_dlg_cur` `proe_win` 9 1227 350 0 1538 2398 1005 2880 1800 239199
+~ Move `main_dlg_cur` `proe_win` 9 1221 349 0 1538 2398 1005 2880 1800 239209
+~ Move `main_dlg_cur` `proe_win` 9 1217 348 0 1538 2398 1005 2880 1800 239217
+~ Move `main_dlg_cur` `proe_win` 9 1215 347 0 1538 2398 1005 2880 1800 239224
+~ Move `main_dlg_cur` `proe_win` 9 1210 345 0 1538 2398 1005 2880 1800 239232
+~ Move `main_dlg_cur` `proe_win` 9 1206 345 0 514 2398 1005 2880 1800 239240
+~ Move `main_dlg_cur` `proe_win` 9 1201 344 0 1538 2398 1005 2880 1800 239248
+~ Move `main_dlg_cur` `proe_win` 9 1197 341 0 1538 2398 1005 2880 1800 239256
+~ Move `main_dlg_cur` `proe_win` 9 1193 340 0 1538 2398 1005 2880 1800 239264
+~ Move `main_dlg_cur` `proe_win` 9 1187 339 0 1538 2398 1005 2880 1800 239272
+~ Move `main_dlg_cur` `proe_win` 9 1182 337 0 1538 2398 1005 2880 1800 239280
+~ Move `main_dlg_cur` `proe_win` 9 1178 337 0 514 2398 1005 2880 1800 239287
+~ Move `main_dlg_cur` `proe_win` 9 1173 336 0 1538 2398 1005 2880 1800 239296
+~ Move `main_dlg_cur` `proe_win` 9 1169 336 0 514 2398 1005 2880 1800 239304
+~ Move `main_dlg_cur` `proe_win` 9 1164 336 0 514 2398 1005 2880 1800 239312
+~ Move `main_dlg_cur` `proe_win` 9 1157 335 0 1538 2398 1005 2880 1800 239321
+~ Move `main_dlg_cur` `proe_win` 9 1152 335 0 514 2398 1005 2880 1800 239329
+~ Move `main_dlg_cur` `proe_win` 9 1148 333 0 1538 2398 1005 2880 1800 239338
+~ Move `main_dlg_cur` `proe_win` 9 1144 333 0 514 2398 1005 2880 1800 239345
+~ Move `main_dlg_cur` `proe_win` 9 1140 333 0 514 2398 1005 2880 1800 239353
+~ Move `main_dlg_cur` `proe_win` 9 1135 332 0 1538 2398 1005 2880 1800 239361
+~ Move `main_dlg_cur` `proe_win` 9 1131 332 0 514 2398 1005 2880 1800 239369
+~ Move `main_dlg_cur` `proe_win` 9 1127 331 0 1538 2398 1005 2880 1800 239377
+~ Move `main_dlg_cur` `proe_win` 9 1126 331 0 514 2398 1005 2880 1800 239386
+~ Move `main_dlg_cur` `proe_win` 9 1125 331 0 514 2398 1005 2880 1800 239393
+~ Move `main_dlg_cur` `proe_win` 9 1123 331 0 514 2398 1005 2880 1800 239401
+~ Move `main_dlg_cur` `proe_win` 9 1121 331 0 514 2398 1005 2880 1800 239409
+~ Move `main_dlg_cur` `proe_win` 9 1119 331 0 514 2398 1005 2880 1800 239417
+~ Move `main_dlg_cur` `proe_win` 9 1118 330 0 1538 2398 1005 2880 1800 239425
+~ Move `main_dlg_cur` `proe_win` 9 1115 329 0 1538 2398 1005 2880 1800 239433
+~ Move `main_dlg_cur` `proe_win` 9 1112 329 0 514 2398 1005 2880 1800 239442
+~ Move `main_dlg_cur` `proe_win` 9 1110 329 0 514 2398 1005 2880 1800 239450
+~ Move `main_dlg_cur` `proe_win` 9 1106 329 0 514 2398 1005 2880 1800 239458
+~ Move `main_dlg_cur` `proe_win` 9 1102 329 0 514 2398 1005 2880 1800 239466
+~ Move `main_dlg_cur` `proe_win` 9 1100 327 0 1538 2398 1005 2880 1800 239474
+~ Move `main_dlg_cur` `proe_win` 9 1096 327 0 514 2398 1005 2880 1800 239481
+~ Move `main_dlg_cur` `proe_win` 9 1094 327 0 514 2398 1005 2880 1800 239490
+~ Move `main_dlg_cur` `proe_win` 9 1091 327 0 514 2398 1005 2880 1800 239499
+~ Move `main_dlg_cur` `proe_win` 9 1090 327 0 514 2398 1005 2880 1800 239506
+~ Move `main_dlg_cur` `proe_win` 9 1089 326 0 1538 2398 1005 2880 1800 239515
+~ Move `main_dlg_cur` `proe_win` 9 1088 326 0 514 2398 1005 2880 1800 239530
+~ Move `main_dlg_cur` `proe_win` 9 1087 326 0 514 2398 1005 2880 1800 239539
+~ Move `main_dlg_cur` `proe_win` 9 1086 326 0 514 2398 1005 2880 1800 239546
+~ Move `main_dlg_cur` `proe_win` 9 1084 325 0 1538 2398 1005 2880 1800 239554
+~ Move `main_dlg_cur` `proe_win` 9 1083 325 0 514 2398 1005 2880 1800 239563
+~ Move `main_dlg_cur` `proe_win` 9 1081 324 0 1538 2398 1005 2880 1800 239579
+~ Move `main_dlg_cur` `proe_win` 9 1080 324 0 514 2398 1005 2880 1800 239587
+~ Move `main_dlg_cur` `proe_win` 9 1079 324 0 514 2398 1005 2880 1800 239595
+~ Move `main_dlg_cur` `proe_win` 9 1078 324 0 514 2398 1005 2880 1800 239602
+~ Move `main_dlg_cur` `proe_win` 9 1077 324 0 514 2398 1005 2880 1800 239611
+~ Move `main_dlg_cur` `proe_win` 9 1076 323 0 1538 2398 1005 2880 1800 239619
+~ Move `main_dlg_cur` `proe_win` 9 1075 323 0 514 2398 1005 2880 1800 239725
+~ Move `main_dlg_cur` `proe_win` 9 1074 323 0 514 2398 1005 2880 1800 239732
+~ Move `main_dlg_cur` `proe_win` 9 1073 322 0 1538 2398 1005 2880 1800 239740
+~ Move `main_dlg_cur` `proe_win` 9 1072 322 0 514 2398 1005 2880 1800 239756
+~ Move `main_dlg_cur` `proe_win` 9 1071 322 0 514 2398 1005 2880 1800 239764
+~ Move `main_dlg_cur` `proe_win` 9 1069 321 0 1538 2398 1005 2880 1800 239772
+~ Move `main_dlg_cur` `proe_win` 9 1067 321 0 514 2398 1005 2880 1800 239780
+~ Move `main_dlg_cur` `proe_win` 9 1064 320 0 1538 2398 1005 2880 1800 239788
+~ Move `main_dlg_cur` `proe_win` 9 1062 319 0 1538 2398 1005 2880 1800 239796
+~ Move `main_dlg_cur` `proe_win` 9 1060 318 0 1538 2398 1005 2880 1800 239805
+~ Move `main_dlg_cur` `proe_win` 9 1059 318 0 514 2398 1005 2880 1800 239813
+~ Move `main_dlg_cur` `proe_win` 9 1058 318 0 514 2398 1005 2880 1800 239821
+~ Move `main_dlg_cur` `proe_win` 9 1057 317 0 1538 2398 1005 2880 1800 239829
+~ Move `main_dlg_cur` `proe_win` 9 1056 317 0 514 2398 1005 2880 1800 239845
+~ Move `main_dlg_cur` `proe_win` 9 1055 317 0 514 2398 1005 2880 1800 239853
+~ Move `main_dlg_cur` `proe_win` 9 1052 317 0 514 2398 1005 2880 1800 239901
+~ Move `main_dlg_cur` `proe_win` 9 1051 316 0 1538 2398 1005 2880 1800 239934
+~ Move `main_dlg_cur` `proe_win` 9 1050 316 0 514 2398 1005 2880 1800 239975
+~ Move `main_dlg_cur` `proe_win` 9 1049 315 0 1538 2398 1005 2880 1800 239983
+~ Move `main_dlg_cur` `proe_win` 9 1048 314 0 1538 2398 1005 2880 1800 239998
+~ Move `main_dlg_cur` `proe_win` 9 1047 314 0 514 2398 1005 2880 1800 240014
+~ Move `main_dlg_cur` `proe_win` 9 1046 313 0 1538 2398 1005 2880 1800 240031
+~ Move `main_dlg_cur` `proe_win` 9 1046 312 0 1026 2398 1005 2880 1800 240266
+~ Move `main_dlg_cur` `proe_win` 9 1047 312 0 514 2398 1005 2880 1800 240305
+~ Move `main_dlg_cur` `proe_win` 9 1048 312 0 514 2398 1005 2880 1800 240322
+~ Move `main_dlg_cur` `proe_win` 9 1049 312 0 514 2398 1005 2880 1800 240329
+~ Move `main_dlg_cur` `proe_win` 9 1050 312 0 514 2398 1005 2880 1800 240338
+~ Move `main_dlg_cur` `proe_win` 9 1051 312 0 514 2398 1005 2880 1800 240346
+~ Move `main_dlg_cur` `proe_win` 9 1052 312 0 514 2398 1005 2880 1800 240354
+~ Move `main_dlg_cur` `proe_win` 9 1053 312 0 514 2398 1005 2880 1800 240362
+~ Move `main_dlg_cur` `proe_win` 9 1054 312 0 514 2398 1005 2880 1800 240370
+~ Move `main_dlg_cur` `proe_win` 9 1055 312 0 514 2398 1005 2880 1800 240378
+~ Move `main_dlg_cur` `proe_win` 9 1056 312 0 514 2398 1005 2880 1800 240386
+~ Move `main_dlg_cur` `proe_win` 9 1057 312 0 514 2398 1005 2880 1800 240394
+~ Move `main_dlg_cur` `proe_win` 9 1060 312 0 514 2398 1005 2880 1800 240403
+~ Move `main_dlg_cur` `proe_win` 9 1062 312 0 514 2398 1005 2880 1800 240410
+~ Move `main_dlg_cur` `proe_win` 9 1064 312 0 514 2398 1005 2880 1800 240419
+~ Move `main_dlg_cur` `proe_win` 9 1066 312 0 514 2398 1005 2880 1800 240427
+~ Move `main_dlg_cur` `proe_win` 9 1068 312 0 514 2398 1005 2880 1800 240434
+~ Move `main_dlg_cur` `proe_win` 9 1069 312 0 514 2398 1005 2880 1800 240451
+~ Move `main_dlg_cur` `proe_win` 9 1070 312 0 514 2398 1005 2880 1800 240459
+~ Move `main_dlg_cur` `proe_win` 9 1071 312 0 514 2398 1005 2880 1800 240467
+~ Move `main_dlg_cur` `proe_win` 9 1072 312 0 514 2398 1005 2880 1800 240475
+~ Move `main_dlg_cur` `proe_win` 9 1073 312 0 514 2398 1005 2880 1800 240492
+~ Move `main_dlg_cur` `proe_win` 9 1074 312 0 514 2398 1005 2880 1800 240515
+~ Move `main_dlg_cur` `proe_win` 9 1075 312 0 514 2398 1005 2880 1800 240653
+~ Move `main_dlg_cur` `proe_win` 9 1076 312 0 514 2398 1005 2880 1800 240661
+~ Move `main_dlg_cur` `proe_win` 9 1077 312 0 514 2398 1005 2880 1800 240670
+~ Move `main_dlg_cur` `proe_win` 9 1078 312 0 514 2398 1005 2880 1800 240677
+~ Move `main_dlg_cur` `proe_win` 9 1079 312 0 514 2398 1005 2880 1800 240685
+~ Move `main_dlg_cur` `proe_win` 9 1080 312 0 514 2398 1005 2880 1800 240693
+~ Move `main_dlg_cur` `proe_win` 9 1081 312 0 514 2398 1005 2880 1800 240709
+~ Move `main_dlg_cur` `proe_win` 9 1082 312 0 514 2398 1005 2880 1800 240717
+~ Move `main_dlg_cur` `proe_win` 9 1085 312 0 514 2398 1005 2880 1800 240725
+~ Move `main_dlg_cur` `proe_win` 9 1087 312 0 514 2398 1005 2880 1800 240734
+~ Move `main_dlg_cur` `proe_win` 9 1089 312 0 514 2398 1005 2880 1800 240741
+~ Move `main_dlg_cur` `proe_win` 9 1091 312 0 514 2398 1005 2880 1800 240749
+~ Move `main_dlg_cur` `proe_win` 9 1095 312 0 514 2398 1005 2880 1800 240759
+~ Move `main_dlg_cur` `proe_win` 9 1099 312 0 514 2398 1005 2880 1800 240766
+~ Move `main_dlg_cur` `proe_win` 9 1102 312 0 514 2398 1005 2880 1800 240774
+~ Move `main_dlg_cur` `proe_win` 9 1106 312 0 514 2398 1005 2880 1800 240782
+~ Move `main_dlg_cur` `proe_win` 9 1110 310 0 1538 2398 1005 2880 1800 240790
+~ Move `main_dlg_cur` `proe_win` 9 1115 309 0 1538 2398 1005 2880 1800 240798
+~ Move `main_dlg_cur` `proe_win` 9 1119 308 0 1538 2398 1005 2880 1800 240806
+~ Move `main_dlg_cur` `proe_win` 9 1123 306 0 1538 2398 1005 2880 1800 240814
+~ Move `main_dlg_cur` `proe_win` 9 1128 305 0 1538 2398 1005 2880 1800 240823
+~ Move `main_dlg_cur` `proe_win` 9 1132 302 0 1538 2398 1005 2880 1800 240830
+~ Move `main_dlg_cur` `proe_win` 9 1136 301 0 1538 2398 1005 2880 1800 240838
+~ Move `main_dlg_cur` `proe_win` 9 1142 298 0 1538 2398 1005 2880 1800 240846
+~ Move `main_dlg_cur` `proe_win` 9 1143 297 0 1538 2398 1005 2880 1800 240852
+~ Move `main_dlg_cur` `proe_win` 9 1144 296 0 1538 2398 1005 2880 1800 240860
+~ Move `main_dlg_cur` `proe_win` 9 1146 295 0 1538 2398 1005 2880 1800 240869
+~ Move `main_dlg_cur` `proe_win` 9 1148 294 0 1538 2398 1005 2880 1800 240877
+~ Move `main_dlg_cur` `proe_win` 9 1152 293 0 1538 2398 1005 2880 1800 240885
+~ Move `main_dlg_cur` `proe_win` 9 1153 293 0 514 2398 1005 2880 1800 240887
+~ Move `main_dlg_cur` `proe_win` 9 1155 291 0 1538 2398 1005 2880 1800 240895
+~ Move `main_dlg_cur` `proe_win` 9 1158 289 0 1538 2398 1005 2880 1800 240903
+~ Move `main_dlg_cur` `proe_win` 9 1162 288 0 1538 2398 1005 2880 1800 240911
+~ Move `main_dlg_cur` `proe_win` 9 1167 285 0 1538 2398 1005 2880 1800 240919
+~ Move `main_dlg_cur` `proe_win` 9 1168 285 0 514 2398 1005 2880 1800 240922
+~ Move `main_dlg_cur` `proe_win` 9 1170 284 0 1538 2398 1005 2880 1800 240929
+~ Move `main_dlg_cur` `proe_win` 9 1173 282 0 1538 2398 1005 2880 1800 240937
+~ Move `main_dlg_cur` `proe_win` 9 1179 279 0 1538 2398 1005 2880 1800 240945
+~ Move `main_dlg_cur` `proe_win` 9 1180 278 0 1538 2398 1005 2880 1800 240949
+~ Move `main_dlg_cur` `proe_win` 9 1183 277 0 1538 2398 1005 2880 1800 240957
+~ Move `main_dlg_cur` `proe_win` 9 1189 274 0 1538 2398 1005 2880 1800 240965
+~ Move `main_dlg_cur` `proe_win` 9 1192 271 0 1538 2398 1005 2880 1800 240967
+~ Move `main_dlg_cur` `proe_win` 9 1200 268 0 1538 2398 1005 2880 1800 240975
+~ Move `main_dlg_cur` `proe_win` 9 1201 268 0 514 2398 1005 2880 1800 240979
+~ Move `main_dlg_cur` `proe_win` 9 1203 267 0 1538 2398 1005 2880 1800 240988
+~ Move `main_dlg_cur` `proe_win` 9 1207 266 0 1538 2398 1005 2880 1800 240997
+~ Move `main_dlg_cur` `proe_win` 9 1211 265 0 1538 2398 1005 2880 1800 241004
+~ Move `main_dlg_cur` `proe_win` 9 1215 262 0 1538 2398 1005 2880 1800 241013
+~ Move `main_dlg_cur` `proe_win` 9 1220 259 0 1538 2398 1005 2880 1800 241020
+~ Move `main_dlg_cur` `proe_win` 9 1221 258 0 1538 2398 1005 2880 1800 241024
+~ Move `main_dlg_cur` `proe_win` 9 1225 256 0 1538 2398 1005 2880 1800 241032
+~ Move `main_dlg_cur` `proe_win` 9 1229 255 0 1538 2398 1005 2880 1800 241033
+~ Move `main_dlg_cur` `proe_win` 9 1232 252 0 1538 2398 1005 2880 1800 241042
+~ Move `main_dlg_cur` `proe_win` 9 1236 251 0 1538 2398 1005 2880 1800 241050
+~ Move `main_dlg_cur` `proe_win` 9 1244 248 0 1538 2398 1005 2880 1800 241058
+~ Move `main_dlg_cur` `proe_win` 9 1245 248 0 514 2398 1005 2880 1800 241062
+~ Move `main_dlg_cur` `proe_win` 9 1248 247 0 1538 2398 1005 2880 1800 241070
+~ Move `main_dlg_cur` `proe_win` 9 1250 246 0 1538 2398 1005 2880 1800 241072
+~ Move `main_dlg_cur` `proe_win` 9 1254 244 0 1538 2398 1005 2880 1800 241080
+~ Move `main_dlg_cur` `proe_win` 9 1260 243 0 1538 2398 1005 2880 1800 241088
+~ Move `main_dlg_cur` `proe_win` 9 1264 242 0 1538 2398 1005 2880 1800 241090
+~ Move `main_dlg_cur` `proe_win` 9 1267 240 0 1538 2398 1005 2880 1800 241098
+~ Move `main_dlg_cur` `proe_win` 9 1273 239 0 1538 2398 1005 2880 1800 241107
+~ Move `main_dlg_cur` `proe_win` 9 1277 238 0 1538 2398 1005 2880 1800 241109
+~ Move `main_dlg_cur` `proe_win` 9 1280 236 0 1538 2398 1005 2880 1800 241117
+~ Move `main_dlg_cur` `proe_win` 9 1284 235 0 1538 2398 1005 2880 1800 241125
+~ Move `main_dlg_cur` `proe_win` 9 1291 234 0 1538 2398 1005 2880 1800 241133
+~ Move `main_dlg_cur` `proe_win` 9 1297 231 0 1538 2398 1005 2880 1800 241135
+~ Move `main_dlg_cur` `proe_win` 9 1305 228 0 1538 2398 1005 2880 1800 241143
+~ Move `main_dlg_cur` `proe_win` 9 1306 228 0 514 2398 1005 2880 1800 241145
+~ Move `main_dlg_cur` `proe_win` 9 1308 227 0 1538 2398 1005 2880 1800 241153
+~ Move `main_dlg_cur` `proe_win` 9 1314 225 0 1538 2398 1005 2880 1800 241161
+~ Move `main_dlg_cur` `proe_win` 9 1315 224 0 1538 2398 1005 2880 1800 241165
+~ Move `main_dlg_cur` `proe_win` 9 1318 223 0 1538 2398 1005 2880 1800 241174
+~ Move `main_dlg_cur` `proe_win` 9 1323 222 0 1538 2398 1005 2880 1800 241181
+~ Move `main_dlg_cur` `proe_win` 9 1327 221 0 1538 2398 1005 2880 1800 241183
+~ Move `main_dlg_cur` `proe_win` 9 1331 219 0 1538 2398 1005 2880 1800 241191
+~ Move `main_dlg_cur` `proe_win` 9 1337 216 0 1538 2398 1005 2880 1800 241199
+~ Move `main_dlg_cur` `proe_win` 9 1338 215 0 1538 2398 1005 2880 1800 241203
+~ Move `main_dlg_cur` `proe_win` 9 1341 214 0 1538 2398 1005 2880 1800 241211
+~ Move `main_dlg_cur` `proe_win` 9 1344 213 0 1538 2398 1005 2880 1800 241213
+~ Move `main_dlg_cur` `proe_win` 9 1349 210 0 1538 2398 1005 2880 1800 241221
+~ Move `main_dlg_cur` `proe_win` 9 1353 209 0 1538 2398 1005 2880 1800 241223
+~ Move `main_dlg_cur` `proe_win` 9 1357 206 0 1538 2398 1005 2880 1800 241232
+~ Move `main_dlg_cur` `proe_win` 9 1361 204 0 1538 2398 1005 2880 1800 241240
+~ Move `main_dlg_cur` `proe_win` 9 1365 200 0 1538 2398 1005 2880 1800 241248
+~ Move `main_dlg_cur` `proe_win` 9 1371 195 0 1538 2398 1005 2880 1800 241256
+~ Move `main_dlg_cur` `proe_win` 9 1375 193 0 1538 2398 1005 2880 1800 241264
+~ Move `main_dlg_cur` `proe_win` 9 1379 190 0 1538 2398 1005 2880 1800 241273
+~ Move `main_dlg_cur` `proe_win` 9 1383 186 0 1538 2398 1005 2880 1800 241280
+~ Move `main_dlg_cur` `proe_win` 9 1389 181 0 1538 2398 1005 2880 1800 241288
+~ Move `main_dlg_cur` `proe_win` 9 1395 177 0 1538 2398 1005 2880 1800 241296
+~ Move `main_dlg_cur` `proe_win` 9 1401 172 0 1538 2398 1005 2880 1800 241304
+~ Move `main_dlg_cur` `proe_win` 9 1405 168 0 1538 2398 1005 2880 1800 241312
+~ Move `main_dlg_cur` `proe_win` 9 1408 166 0 1538 2398 1005 2880 1800 241320
+~ Move `main_dlg_cur` `proe_win` 9 1412 162 0 1538 2398 1005 2880 1800 241328
+~ Move `main_dlg_cur` `proe_win` 9 1414 159 0 1538 2398 1005 2880 1800 241337
+~ Move `main_dlg_cur` `proe_win` 9 1417 157 0 1538 2398 1005 2880 1800 241345
+~ Move `main_dlg_cur` `proe_win` 9 1419 154 0 1538 2398 1005 2880 1800 241353
+~ Move `main_dlg_cur` `proe_win` 9 1420 153 0 1538 2398 1005 2880 1800 241361
+~ Move `main_dlg_cur` `proe_win` 9 1420 152 0 1026 2398 1005 2880 1800 241377
+~ Move `main_dlg_cur` `proe_win` 9 1421 150 0 1538 2398 1005 2880 1800 241385
+~ Move `main_dlg_cur` `proe_win` 9 1422 149 0 1538 2398 1005 2880 1800 241393
+~ Move `main_dlg_cur` `proe_win` 9 1422 148 0 1026 2398 1005 2880 1800 241409
+~ Move `main_dlg_cur` `proe_win` 9 1423 147 0 1538 2398 1005 2880 1800 241417
+~ Move `main_dlg_cur` `proe_win` 9 1423 145 0 1026 2398 1005 2880 1800 241434
+~ Move `main_dlg_cur` `proe_win` 9 1423 143 0 1026 2398 1005 2880 1800 241441
+~ Move `main_dlg_cur` `proe_win` 9 1423 140 0 1026 2398 1005 2880 1800 241449
+~ Move `main_dlg_cur` `proe_win` 9 1423 138 0 1026 2398 1005 2880 1800 241459
+~ Move `main_dlg_cur` `proe_win` 9 1423 135 0 1026 2398 1005 2880 1800 241466
+~ Move `main_dlg_cur` `proe_win` 9 1423 131 0 1026 2398 1005 2880 1800 241474
+~ Move `main_dlg_cur` `proe_win` 9 1423 127 0 1026 2398 1005 2880 1800 241483
+~ Move `main_dlg_cur` `proe_win` 9 1423 123 0 1026 2398 1005 2880 1800 241490
+~ Move `main_dlg_cur` `proe_win` 9 1423 118 0 1026 2398 1005 2880 1800 241499
+~ Move `main_dlg_cur` `proe_win` 9 1423 114 0 1026 2398 1005 2880 1800 241506
+~ Move `main_dlg_cur` `proe_win` 9 1423 109 0 1026 2398 1005 2880 1800 241513
+~ Move `main_dlg_cur` `proe_win` 9 1423 105 0 1026 2398 1005 2880 1800 241523
+~ Move `main_dlg_cur` `proe_win` 9 1423 100 0 1026 2398 1005 2880 1800 241530
+~ Move `main_dlg_cur` `proe_win` 9 1423 95 0 1026 2398 1005 2880 1800 241538
+~ Move `main_dlg_cur` `proe_win` 9 1423 90 0 1026 2398 1005 2880 1800 241545
+~ Move `main_dlg_cur` `proe_win` 9 1423 86 0 1026 2398 1005 2880 1800 241554
+~ Move `main_dlg_cur` `proe_win` 9 1423 81 0 1026 2398 1005 2880 1800 241563
+~ Move `main_dlg_cur` `proe_win` 9 1422 77 0 1538 2398 1005 2880 1800 241571
+~ Move `main_dlg_cur` `proe_win` 9 1420 71 0 1538 2398 1005 2880 1800 241579
+~ Move `main_dlg_cur` `proe_win` 9 1419 67 0 1538 2398 1005 2880 1800 241587
+~ Move `main_dlg_cur` `proe_win` 9 1418 64 0 1538 2398 1005 2880 1800 241596
+~ Move `main_dlg_cur` `proe_win` 9 1415 60 0 1538 2398 1005 2880 1800 241604
+~ Move `main_dlg_cur` `proe_win` 9 1413 57 0 1538 2398 1005 2880 1800 241611
+~ Move `main_dlg_cur` `proe_win` 9 1410 53 0 1538 2398 1005 2880 1800 241619
+~ Move `main_dlg_cur` `proe_win` 9 1409 51 0 1538 2398 1005 2880 1800 241627
+~ Move `main_dlg_cur` `proe_win` 9 1406 48 0 1538 2398 1005 2880 1800 241635
+~ Move `main_dlg_cur` `proe_win` 9 1405 46 0 1538 2398 1005 2880 1800 241643
+~ Move `main_dlg_cur` `proe_win` 9 1404 44 0 1538 2398 1005 2880 1800 241651
+~ Move `main_dlg_cur` `proe_win` 9 1401 41 0 1538 2398 1005 2880 1800 241659
+~ Move `main_dlg_cur` `proe_win` 9 1400 40 0 1538 2398 1005 2880 1800 241667
+~ Move `main_dlg_cur` `proe_win` 9 1399 39 0 1538 2398 1005 2880 1800 241676
+~ Move `main_dlg_cur` `proe_win` 9 1399 38 0 1026 2398 1005 2880 1800 241684
+~ Move `main_dlg_cur` `proe_win` 9 1398 37 0 1538 2398 1005 2880 1800 241692
+~ Move `main_dlg_cur` `proe_win` 9 1397 36 0 1538 2398 1005 2880 1800 241700
+~ Move `main_dlg_cur` `proe_win` 9 1396 35 0 1538 2398 1005 2880 1800 241724
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1396 35 0 0 2398 1005 2880 1800 241800
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1455 298 0 2 2398 1005 2880 1800 242224
+~ Move `main_dlg_cur` `proe_win` 9 1454 298 0 514 2398 1005 2880 1800 242236
+~ Move `main_dlg_cur` `proe_win` 9 1453 298 0 514 2398 1005 2880 1800 242244
+~ Move `main_dlg_cur` `proe_win` 9 1452 298 0 514 2398 1005 2880 1800 242252
+~ Move `main_dlg_cur` `proe_win` 9 1450 298 0 514 2398 1005 2880 1800 242260
+~ Move `main_dlg_cur` `proe_win` 9 1448 298 0 514 2398 1005 2880 1800 242268
+~ Move `main_dlg_cur` `proe_win` 9 1444 298 0 514 2398 1005 2880 1800 242276
+~ Move `main_dlg_cur` `proe_win` 9 1441 298 0 514 2398 1005 2880 1800 242284
+~ Move `main_dlg_cur` `proe_win` 9 1437 298 0 514 2398 1005 2880 1800 242292
+~ Move `main_dlg_cur` `proe_win` 9 1436 297 0 1538 2398 1005 2880 1800 242300
+~ Move `main_dlg_cur` `proe_win` 9 1435 297 0 514 2398 1005 2880 1800 242310
+~ Move `main_dlg_cur` `proe_win` 9 1433 296 0 1538 2398 1005 2880 1800 242317
+~ Move `main_dlg_cur` `proe_win` 9 1429 296 0 514 2398 1005 2880 1800 242325
+~ Move `main_dlg_cur` `proe_win` 9 1425 294 0 1538 2398 1005 2880 1800 242333
+~ Move `main_dlg_cur` `proe_win` 9 1421 293 0 1538 2398 1005 2880 1800 242341
+~ Move `main_dlg_cur` `proe_win` 9 1419 293 0 514 2398 1005 2880 1800 242349
+~ Move `main_dlg_cur` `proe_win` 9 1416 291 0 1538 2398 1005 2880 1800 242357
+~ Move `main_dlg_cur` `proe_win` 9 1415 291 0 514 2398 1005 2880 1800 242365
+~ Move `main_dlg_cur` `proe_win` 9 1414 291 0 514 2398 1005 2880 1800 242374
+~ Move `main_dlg_cur` `proe_win` 9 1412 291 0 514 2398 1005 2880 1800 242381
+~ Move `main_dlg_cur` `proe_win` 9 1410 291 0 514 2398 1005 2880 1800 242390
+~ Move `main_dlg_cur` `proe_win` 9 1409 290 0 1538 2398 1005 2880 1800 242397
+~ Move `main_dlg_cur` `proe_win` 9 1408 289 0 1538 2398 1005 2880 1800 242405
+~ Move `main_dlg_cur` `proe_win` 9 1407 289 0 514 2398 1005 2880 1800 242414
+~ Move `main_dlg_cur` `proe_win` 9 1405 288 0 1538 2398 1005 2880 1800 242421
+~ Move `main_dlg_cur` `proe_win` 9 1404 288 0 514 2398 1005 2880 1800 242438
+~ Move `main_dlg_cur` `proe_win` 9 1403 287 0 1538 2398 1005 2880 1800 242454
+~ Move `main_dlg_cur` `proe_win` 9 1402 286 0 1538 2398 1005 2880 1800 242479
+~ Move `main_dlg_cur` `proe_win` 9 1401 286 0 514 2398 1005 2880 1800 242503
+~ Move `main_dlg_cur` `proe_win` 9 1399 286 0 514 2398 1005 2880 1800 242518
+~ Move `main_dlg_cur` `proe_win` 9 1398 286 0 514 2398 1005 2880 1800 242526
+~ Move `main_dlg_cur` `proe_win` 9 1397 285 0 1538 2398 1005 2880 1800 242534
+~ Move `main_dlg_cur` `proe_win` 9 1396 284 0 1538 2398 1005 2880 1800 242550
+~ Move `main_dlg_cur` `proe_win` 9 1395 284 0 514 2398 1005 2880 1800 242558
+~ Move `main_dlg_cur` `proe_win` 9 1394 284 0 514 2398 1005 2880 1800 242567
+~ Move `main_dlg_cur` `proe_win` 9 1392 283 0 1538 2398 1005 2880 1800 242576
+~ Move `main_dlg_cur` `proe_win` 9 1391 283 0 514 2398 1005 2880 1800 242583
+~ Move `main_dlg_cur` `proe_win` 9 1390 282 0 1538 2398 1005 2880 1800 242591
+~ Move `main_dlg_cur` `proe_win` 9 1389 282 0 514 2398 1005 2880 1800 242600
+~ Move `main_dlg_cur` `proe_win` 9 1386 280 0 1538 2398 1005 2880 1800 242607
+~ Move `main_dlg_cur` `proe_win` 9 1385 280 0 514 2398 1005 2880 1800 242624
+~ Move `main_dlg_cur` `proe_win` 9 1384 279 0 1538 2398 1005 2880 1800 242631
+~ Move `main_dlg_cur` `proe_win` 9 1383 279 0 514 2398 1005 2880 1800 242648
+~ Move `main_dlg_cur` `proe_win` 9 1382 278 0 1538 2398 1005 2880 1800 242663
+~ Move `main_dlg_cur` `proe_win` 9 1379 278 0 514 2398 1005 2880 1800 242679
+~ Move `main_dlg_cur` `proe_win` 9 1378 278 0 514 2398 1005 2880 1800 242688
+~ Move `main_dlg_cur` `proe_win` 9 1377 277 0 1538 2398 1005 2880 1800 242696
+~ Move `main_dlg_cur` `proe_win` 9 1376 277 0 514 2398 1005 2880 1800 242704
+~ Move `main_dlg_cur` `proe_win` 9 1374 277 0 514 2398 1005 2880 1800 242712
+~ Move `main_dlg_cur` `proe_win` 9 1373 277 0 514 2398 1005 2880 1800 242720
+~ Move `main_dlg_cur` `proe_win` 9 1372 276 0 1538 2398 1005 2880 1800 242728
+~ Move `main_dlg_cur` `proe_win` 9 1371 276 0 514 2398 1005 2880 1800 242745
+~ Move `main_dlg_cur` `proe_win` 9 1370 276 0 514 2398 1005 2880 1800 242752
+~ Move `main_dlg_cur` `proe_win` 9 1369 276 0 514 2398 1005 2880 1800 242760
+~ Move `main_dlg_cur` `proe_win` 9 1368 276 0 514 2398 1005 2880 1800 242768
+~ Move `main_dlg_cur` `proe_win` 9 1367 276 0 514 2398 1005 2880 1800 242776
+~ Move `main_dlg_cur` `proe_win` 9 1365 276 0 514 2398 1005 2880 1800 242784
+~ Move `main_dlg_cur` `proe_win` 9 1364 276 0 514 2398 1005 2880 1800 242801
+~ Move `main_dlg_cur` `proe_win` 9 1363 275 0 1538 2398 1005 2880 1800 242809
+~ Move `main_dlg_cur` `proe_win` 9 1361 275 0 514 2398 1005 2880 1800 242834
+~ Move `main_dlg_cur` `proe_win` 9 1360 275 0 514 2398 1005 2880 1800 242857
+~ Move `main_dlg_cur` `proe_win` 9 1359 274 0 1538 2398 1005 2880 1800 242865
+~ Move `main_dlg_cur` `proe_win` 9 1358 273 0 1538 2398 1005 2880 1800 242881
+~ Move `main_dlg_cur` `proe_win` 9 1357 272 0 1538 2398 1005 2880 1800 242906
+~ Move `main_dlg_cur` `proe_win` 9 1356 272 0 514 2398 1005 2880 1800 242923
+~ Move `main_dlg_cur` `proe_win` 9 1355 272 0 514 2398 1005 2880 1800 242930
+~ Move `main_dlg_cur` `proe_win` 9 1354 272 0 514 2398 1005 2880 1800 242938
+~ Move `main_dlg_cur` `proe_win` 9 1353 272 0 514 2398 1005 2880 1800 242955
+~ Move `main_dlg_cur` `proe_win` 9 1352 272 0 514 2398 1005 2880 1800 242962
+~ Move `main_dlg_cur` `proe_win` 9 1351 272 0 514 2398 1005 2880 1800 242979
+~ Move `main_dlg_cur` `proe_win` 9 1350 272 0 514 2398 1005 2880 1800 242994
+~ Move `main_dlg_cur` `proe_win` 9 1349 272 0 514 2398 1005 2880 1800 243164
+~ Move `main_dlg_cur` `proe_win` 9 1348 272 0 514 2398 1005 2880 1800 243180
+~ Move `main_dlg_cur` `proe_win` 9 1347 272 0 514 2398 1005 2880 1800 243188
+~ Move `main_dlg_cur` `proe_win` 9 1346 273 0 1538 2398 1005 2880 1800 243213
+~ Move `main_dlg_cur` `proe_win` 9 1345 274 0 1538 2398 1005 2880 1800 243252
+~ Move `main_dlg_cur` `proe_win` 9 1345 275 0 1026 2398 1005 2880 1800 243287
+~ Move `main_dlg_cur` `proe_win` 9 1345 276 0 1026 2398 1005 2880 1800 243293
+~ Move `main_dlg_cur` `proe_win` 9 1346 277 0 1538 2398 1005 2880 1800 243302
+~ Move `main_dlg_cur` `proe_win` 9 1347 277 0 514 2398 1005 2880 1800 243310
+~ Move `main_dlg_cur` `proe_win` 9 1347 278 0 1026 2398 1005 2880 1800 243326
+~ Move `main_dlg_cur` `proe_win` 9 1348 278 0 514 2398 1005 2880 1800 243333
+~ Move `main_dlg_cur` `proe_win` 9 1349 279 0 1538 2398 1005 2880 1800 243350
+~ Move `main_dlg_cur` `proe_win` 9 1350 279 0 514 2398 1005 2880 1800 243374
+~ Move `main_dlg_cur` `proe_win` 9 1351 279 0 514 2398 1005 2880 1800 243390
+~ Move `main_dlg_cur` `proe_win` 9 1352 279 0 514 2398 1005 2880 1800 243407
+~ Move `main_dlg_cur` `proe_win` 9 1353 280 0 1538 2398 1005 2880 1800 243415
+~ Move `main_dlg_cur` `proe_win` 9 1354 281 0 1538 2398 1005 2880 1800 243422
+~ Move `main_dlg_cur` `proe_win` 9 1355 281 0 514 2398 1005 2880 1800 243431
+~ Move `main_dlg_cur` `proe_win` 9 1356 281 0 514 2398 1005 2880 1800 243438
+~ Move `main_dlg_cur` `proe_win` 9 1357 282 0 1538 2398 1005 2880 1800 243446
+~ Move `main_dlg_cur` `proe_win` 9 1358 282 0 514 2398 1005 2880 1800 243454
+~ Move `main_dlg_cur` `proe_win` 9 1359 282 0 514 2398 1005 2880 1800 243462
+~ Move `main_dlg_cur` `proe_win` 9 1360 282 0 514 2398 1005 2880 1800 243486
+~ Move `main_dlg_cur` `proe_win` 9 1361 283 0 1538 2398 1005 2880 1800 243502
+~ Move `main_dlg_cur` `proe_win` 9 1362 283 0 514 2398 1005 2880 1800 243527
+~ Move `main_dlg_cur` `proe_win` 9 1363 283 0 514 2398 1005 2880 1800 243544
+~ Move `main_dlg_cur` `proe_win` 9 1364 283 0 514 2398 1005 2880 1800 243559
+~ Move `main_dlg_cur` `proe_win` 9 1365 283 0 514 2398 1005 2880 1800 243567
+~ Move `main_dlg_cur` `proe_win` 9 1366 284 0 1538 2398 1005 2880 1800 243575
+~ Move `main_dlg_cur` `proe_win` 9 1367 285 0 1538 2398 1005 2880 1800 243591
+~ Move `main_dlg_cur` `proe_win` 9 1368 285 0 514 2398 1005 2880 1800 243624
+~ Move `main_dlg_cur` `proe_win` 9 1369 285 0 514 2398 1005 2880 1800 243632
+~ Move `main_dlg_cur` `proe_win` 9 1370 285 0 514 2398 1005 2880 1800 243640
+~ Move `main_dlg_cur` `proe_win` 9 1371 286 0 1538 2398 1005 2880 1800 243648
+~ Move `main_dlg_cur` `proe_win` 9 1372 287 0 1538 2398 1005 2880 1800 243665
+~ Move `main_dlg_cur` `proe_win` 9 1373 287 0 514 2398 1005 2880 1800 243681
+~ Move `main_dlg_cur` `proe_win` 9 1373 288 0 1026 2398 1005 2880 1800 243689
+~ Move `main_dlg_cur` `proe_win` 9 1374 289 0 1538 2398 1005 2880 1800 243704
+~ Move `main_dlg_cur` `proe_win` 9 1375 289 0 514 2398 1005 2880 1800 243712
+~ Move `main_dlg_cur` `proe_win` 9 1376 290 0 1538 2398 1005 2880 1800 243728
+~ Move `main_dlg_cur` `proe_win` 9 1377 290 0 514 2398 1005 2880 1800 243738
+~ Move `main_dlg_cur` `proe_win` 9 1378 291 0 1538 2398 1005 2880 1800 243745
+~ Move `main_dlg_cur` `proe_win` 9 1379 292 0 1538 2398 1005 2880 1800 243753
+~ Move `main_dlg_cur` `proe_win` 9 1380 292 0 514 2398 1005 2880 1800 243777
+~ Move `main_dlg_cur` `proe_win` 9 1381 292 0 514 2398 1005 2880 1800 243785
+~ Move `main_dlg_cur` `proe_win` 9 1383 293 0 1538 2398 1005 2880 1800 243793
+~ Move `main_dlg_cur` `proe_win` 9 1384 293 0 514 2398 1005 2880 1800 243801
+~ Move `main_dlg_cur` `proe_win` 9 1385 294 0 1538 2398 1005 2880 1800 243809
+~ Move `main_dlg_cur` `proe_win` 9 1386 294 0 514 2398 1005 2880 1800 243817
+~ Move `main_dlg_cur` `proe_win` 9 1387 295 0 1538 2398 1005 2880 1800 243825
+~ Move `main_dlg_cur` `proe_win` 9 1388 296 0 1538 2398 1005 2880 1800 243841
+~ Move `main_dlg_cur` `proe_win` 9 1389 296 0 514 2398 1005 2880 1800 243866
+~ Move `main_dlg_cur` `proe_win` 9 1390 297 0 1538 2398 1005 2880 1800 243891
+~ Move `main_dlg_cur` `proe_win` 9 1391 297 0 514 2398 1005 2880 1800 243914
+~ Move `main_dlg_cur` `proe_win` 9 1391 298 0 1026 2398 1005 2880 1800 244197
+~ Move `main_dlg_cur` `proe_win` 9 1389 298 0 514 2398 1005 2880 1800 244238
+~ Move `main_dlg_cur` `proe_win` 9 1388 298 0 514 2398 1005 2880 1800 244261
+~ Move `main_dlg_cur` `proe_win` 9 1386 298 0 514 2398 1005 2880 1800 244269
+~ Move `main_dlg_cur` `proe_win` 9 1385 298 0 514 2398 1005 2880 1800 244277
+~ Move `main_dlg_cur` `proe_win` 9 1384 298 0 514 2398 1005 2880 1800 244285
+~ Move `main_dlg_cur` `proe_win` 9 1382 298 0 514 2398 1005 2880 1800 244294
+~ Move `main_dlg_cur` `proe_win` 9 1381 299 0 1538 2398 1005 2880 1800 244302
+~ Move `main_dlg_cur` `proe_win` 9 1380 299 0 514 2398 1005 2880 1800 244311
+~ Move `main_dlg_cur` `proe_win` 9 1379 299 0 514 2398 1005 2880 1800 244318
+~ Move `main_dlg_cur` `proe_win` 9 1378 299 0 514 2398 1005 2880 1800 244326
+~ Move `main_dlg_cur` `proe_win` 9 1377 299 0 514 2398 1005 2880 1800 244342
+~ Move `main_dlg_cur` `proe_win` 9 1376 299 0 514 2398 1005 2880 1800 244350
+~ Move `main_dlg_cur` `proe_win` 9 1375 299 0 514 2398 1005 2880 1800 244358
+~ Move `main_dlg_cur` `proe_win` 9 1374 299 0 514 2398 1005 2880 1800 244375
+~ Move `main_dlg_cur` `proe_win` 9 1373 299 0 514 2398 1005 2880 1800 244399
+~ Move `main_dlg_cur` `proe_win` 9 1372 299 0 514 2398 1005 2880 1800 244423
+~ Move `main_dlg_cur` `proe_win` 9 1370 299 0 514 2398 1005 2880 1800 244440
+~ Move `main_dlg_cur` `proe_win` 9 1369 299 0 514 2398 1005 2880 1800 244455
+~ Move `main_dlg_cur` `proe_win` 9 1368 299 0 514 2398 1005 2880 1800 244463
+~ Move `main_dlg_cur` `proe_win` 9 1367 299 0 514 2398 1005 2880 1800 244479
+~ Move `main_dlg_cur` `proe_win` 9 1366 299 0 514 2398 1005 2880 1800 244487
+~ Move `main_dlg_cur` `proe_win` 9 1365 299 0 514 2398 1005 2880 1800 244503
+~ Move `main_dlg_cur` `proe_win` 9 1364 299 0 514 2398 1005 2880 1800 244520
+~ Move `main_dlg_cur` `proe_win` 9 1363 299 0 514 2398 1005 2880 1800 244528
+~ Move `main_dlg_cur` `proe_win` 9 1362 299 0 514 2398 1005 2880 1800 244536
+~ Move `main_dlg_cur` `proe_win` 9 1361 299 0 514 2398 1005 2880 1800 244553
+~ Move `main_dlg_cur` `proe_win` 9 1360 299 0 514 2398 1005 2880 1800 244568
+~ Move `main_dlg_cur` `proe_win` 9 1358 299 0 514 2398 1005 2880 1800 244610
+~ Move `main_dlg_cur` `proe_win` 9 1357 299 0 514 2398 1005 2880 1800 244626
+~ Move `main_dlg_cur` `proe_win` 9 1356 299 0 514 2398 1005 2880 1800 244649
+~ Move `main_dlg_cur` `proe_win` 9 1355 299 0 514 2398 1005 2880 1800 244666
+~ Move `main_dlg_cur` `proe_win` 9 1354 299 0 514 2398 1005 2880 1800 244673
+~ Move `main_dlg_cur` `proe_win` 9 1353 299 0 514 2398 1005 2880 1800 244681
+~ Move `main_dlg_cur` `proe_win` 9 1352 299 0 514 2398 1005 2880 1800 244705
+~ Move `main_dlg_cur` `proe_win` 9 1351 299 0 514 2398 1005 2880 1800 244713
+~ Move `main_dlg_cur` `proe_win` 9 1350 299 0 514 2398 1005 2880 1800 244730
+~ Move `main_dlg_cur` `proe_win` 9 1349 299 0 514 2398 1005 2880 1800 244737
+~ Move `main_dlg_cur` `proe_win` 9 1348 299 0 514 2398 1005 2880 1800 244754
+~ Move `main_dlg_cur` `proe_win` 9 1347 299 0 514 2398 1005 2880 1800 244770
+~ Move `main_dlg_cur` `proe_win` 9 1346 299 0 514 2398 1005 2880 1800 244810
+~ Move `main_dlg_cur` `proe_win` 9 1345 299 0 514 2398 1005 2880 1800 244925
+~ Move `main_dlg_cur` `proe_win` 9 1344 299 0 514 2398 1005 2880 1800 244947
+~ Move `main_dlg_cur` `proe_win` 9 1343 299 0 514 2398 1005 2880 1800 244964
+~ Move `main_dlg_cur` `proe_win` 9 1342 299 0 514 2398 1005 2880 1800 244988
+~ Move `main_dlg_cur` `proe_win` 9 1341 299 0 514 2398 1005 2880 1800 245223
+~ Move `main_dlg_cur` `proe_win` 9 1340 299 0 514 2398 1005 2880 1800 245247
+~ Move `main_dlg_cur` `proe_win` 9 1339 299 0 514 2398 1005 2880 1800 245254
+~ Move `main_dlg_cur` `proe_win` 9 1338 299 0 514 2398 1005 2880 1800 245262
+~ Move `main_dlg_cur` `proe_win` 9 1337 299 0 514 2398 1005 2880 1800 245279
+~ Move `main_dlg_cur` `proe_win` 9 1336 299 0 514 2398 1005 2880 1800 245286
+~ Move `main_dlg_cur` `proe_win` 9 1335 299 0 514 2398 1005 2880 1800 245294
+~ Move `main_dlg_cur` `proe_win` 9 1334 299 0 514 2398 1005 2880 1800 245302
+~ Move `main_dlg_cur` `proe_win` 9 1333 299 0 514 2398 1005 2880 1800 245310
+~ Move `main_dlg_cur` `proe_win` 9 1332 299 0 514 2398 1005 2880 1800 245318
+~ Move `main_dlg_cur` `proe_win` 9 1331 299 0 514 2398 1005 2880 1800 245335
+~ Move `main_dlg_cur` `proe_win` 9 1329 299 0 514 2398 1005 2880 1800 245351
+~ Move `main_dlg_cur` `proe_win` 9 1328 299 0 514 2398 1005 2880 1800 245383
+~ Move `main_dlg_cur` `proe_win` 9 1327 299 0 514 2398 1005 2880 1800 245392
+~ Move `main_dlg_cur` `proe_win` 9 1326 299 0 514 2398 1005 2880 1800 245407
+~ Move `main_dlg_cur` `proe_win` 9 1325 299 0 514 2398 1005 2880 1800 245415
+~ Move `main_dlg_cur` `proe_win` 9 1324 299 0 514 2398 1005 2880 1800 245432
+~ Move `main_dlg_cur` `proe_win` 9 1323 299 0 514 2398 1005 2880 1800 245439
+~ Move `main_dlg_cur` `proe_win` 9 1322 299 0 514 2398 1005 2880 1800 245457
+~ Move `main_dlg_cur` `proe_win` 9 1321 299 0 514 2398 1005 2880 1800 245472
+~ Move `main_dlg_cur` `proe_win` 9 1320 299 0 514 2398 1005 2880 1800 245488
+~ Move `main_dlg_cur` `proe_win` 9 1319 299 0 514 2398 1005 2880 1800 245521
+~ Move `main_dlg_cur` `proe_win` 9 1318 298 0 1538 2398 1005 2880 1800 245536
+~ Move `main_dlg_cur` `proe_win` 9 1317 298 0 514 2398 1005 2880 1800 245544
+~ Move `main_dlg_cur` `proe_win` 9 1316 298 0 514 2398 1005 2880 1800 245552
+~ Move `main_dlg_cur` `proe_win` 9 1315 298 0 514 2398 1005 2880 1800 245561
+~ Move `main_dlg_cur` `proe_win` 9 1313 298 0 514 2398 1005 2880 1800 245577
+~ Move `main_dlg_cur` `proe_win` 9 1312 298 0 514 2398 1005 2880 1800 245594
+~ Move `main_dlg_cur` `proe_win` 9 1311 298 0 514 2398 1005 2880 1800 245602
+~ Move `main_dlg_cur` `proe_win` 9 1310 298 0 514 2398 1005 2880 1800 245609
+~ Move `main_dlg_cur` `proe_win` 9 1309 298 0 514 2398 1005 2880 1800 245617
+~ Move `main_dlg_cur` `proe_win` 9 1308 298 0 514 2398 1005 2880 1800 245625
+~ Move `main_dlg_cur` `proe_win` 9 1307 298 0 514 2398 1005 2880 1800 245641
+~ Move `main_dlg_cur` `proe_win` 9 1306 298 0 514 2398 1005 2880 1800 245658
+~ Move `main_dlg_cur` `proe_win` 9 1305 298 0 514 2398 1005 2880 1800 245673
+~ Move `main_dlg_cur` `proe_win` 9 1304 298 0 514 2398 1005 2880 1800 245681
+~ Move `main_dlg_cur` `proe_win` 9 1303 298 0 514 2398 1005 2880 1800 245690
+~ Move `main_dlg_cur` `proe_win` 9 1302 298 0 514 2398 1005 2880 1800 245697
+~ Move `main_dlg_cur` `proe_win` 9 1301 298 0 514 2398 1005 2880 1800 245707
+~ Move `main_dlg_cur` `proe_win` 9 1300 298 0 514 2398 1005 2880 1800 245714
+~ Move `main_dlg_cur` `proe_win` 9 1299 298 0 514 2398 1005 2880 1800 245722
+~ Move `main_dlg_cur` `proe_win` 9 1298 298 0 514 2398 1005 2880 1800 245730
+~ Move `main_dlg_cur` `proe_win` 9 1297 297 0 1538 2398 1005 2880 1800 245737
+~ Move `main_dlg_cur` `proe_win` 9 1296 297 0 514 2398 1005 2880 1800 245786
+~ Move `main_dlg_cur` `proe_win` 9 1295 297 0 514 2398 1005 2880 1800 245804
+~ Move `main_dlg_cur` `proe_win` 9 1294 297 0 514 2398 1005 2880 1800 245812
+~ Move `main_dlg_cur` `proe_win` 9 1293 297 0 514 2398 1005 2880 1800 245827
+~ Move `main_dlg_cur` `proe_win` 9 1292 297 0 514 2398 1005 2880 1800 245836
+~ Move `main_dlg_cur` `proe_win` 9 1291 297 0 514 2398 1005 2880 1800 245851
+~ Move `main_dlg_cur` `proe_win` 9 1290 297 0 514 2398 1005 2880 1800 245875
+~ Move `main_dlg_cur` `proe_win` 9 1289 297 0 514 2398 1005 2880 1800 245883
+~ Move `main_dlg_cur` `proe_win` 9 1290 297 0 514 2398 1005 2880 1800 246215
+~ Move `main_dlg_cur` `proe_win` 9 1291 297 0 514 2398 1005 2880 1800 246231
+~ Move `main_dlg_cur` `proe_win` 9 1292 297 0 514 2398 1005 2880 1800 246296
+~ Move `main_dlg_cur` `proe_win` 9 1293 297 0 514 2398 1005 2880 1800 246335
+~ Move `main_dlg_cur` `proe_win` 9 1294 297 0 514 2398 1005 2880 1800 246376
+~ Move `main_dlg_cur` `proe_win` 9 1295 297 0 514 2398 1005 2880 1800 246417
+~ Move `main_dlg_cur` `proe_win` 9 1296 297 0 514 2398 1005 2880 1800 246424
+~ Move `main_dlg_cur` `proe_win` 9 1297 297 0 514 2398 1005 2880 1800 246432
+~ Move `main_dlg_cur` `proe_win` 9 1298 297 0 514 2398 1005 2880 1800 246464
+~ Move `main_dlg_cur` `proe_win` 9 1299 297 0 514 2398 1005 2880 1800 246490
+~ Move `main_dlg_cur` `proe_win` 9 1300 297 0 514 2398 1005 2880 1800 246514
+~ Move `main_dlg_cur` `proe_win` 9 1301 297 0 514 2398 1005 2880 1800 246521
+~ Move `main_dlg_cur` `proe_win` 9 1302 297 0 514 2398 1005 2880 1800 246537
+~ Move `main_dlg_cur` `proe_win` 9 1303 297 0 514 2398 1005 2880 1800 246553
+~ Move `main_dlg_cur` `proe_win` 9 1304 297 0 514 2398 1005 2880 1800 246570
+~ Move `main_dlg_cur` `proe_win` 9 1305 297 0 514 2398 1005 2880 1800 246577
+~ Move `main_dlg_cur` `proe_win` 9 1306 297 0 514 2398 1005 2880 1800 246747
+~ Move `main_dlg_cur` `proe_win` 9 1307 297 0 514 2398 1005 2880 1800 246771
+~ Move `main_dlg_cur` `proe_win` 9 1308 297 0 514 2398 1005 2880 1800 246796
+~ Move `main_dlg_cur` `proe_win` 9 1309 297 0 514 2398 1005 2880 1800 246805
+~ Move `main_dlg_cur` `proe_win` 9 1310 297 0 514 2398 1005 2880 1800 246820
+~ Move `main_dlg_cur` `proe_win` 9 1311 297 0 514 2398 1005 2880 1800 246845
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1311 297 0 0 2398 1005 2880 1800 247129
+~ Wheel `main_dlg_cur` `proe_win` 9 1313 325 458752 0 2398 1005 2880 1800 247678
+~ Wheel `main_dlg_cur` `proe_win` 9 1314 326 458752 0 2398 1005 2880 1800 247853
+~ Wheel `main_dlg_cur` `proe_win` 9 1313 327 393216 0 2398 1005 2880 1800 248762
+~ Wheel `main_dlg_cur` `proe_win` 9 1312 327 393216 0 2398 1005 2880 1800 249667
+~ Arm `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Select `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `bottom` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `standard orientation` `name_column`
+~ Select `visual_dlg0` `Table` 2 `standard orientation` `name_column`
+~ Arm `visual_dlg0` `Table` 2 `standard orientation` `name_column`
+~ Activate `visual_dlg0` `Table` 2 `standard orientation` `name_column`
+~ Activate `visual_dlg0` `CloseBtn`
+~ Command `AnimCmdViewAtTime` 
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `36`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `38`
+~ Activate `anim_view` `apply`
+!%CIView added to the current animation.
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `36`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `36`
+~ Update `anim_view` `time_value` `3`
+~ Activate `anim_view` `time_value`
+~ Update `anim_view` `time_value` `3`
+~ Activate `anim_view` `apply`
+!%CIView added to the current animation.
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `1073741828`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `38`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `33`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `36`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `33`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `37`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `1073741828`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `35`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `36`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `33`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `35`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `33`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `36`
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `33`
+~ Update `anim_view` `time_value` `6`
+~ Activate `anim_view` `apply`
+!%CIView added to the current animation.
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `35`
+~ Update `anim_view` `time_value` `9`
+~ Activate `anim_view` `apply`
+!%CIView added to the current animation.
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `37`
+~ Update `anim_view` `time_value` `12`
+~ Activate `anim_view` `apply`
+!%CIView added to the current animation.
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `34`
+~ Update `anim_view` `time_value` `15`
+~ Activate `anim_view` `apply`
+!%CIView added to the current animation.
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `1073741828`
+~ Update `anim_view` `time_value` `18`
+~ Activate `anim_view` `apply`
+!%CIView added to the current animation.
+~ Open `anim_view` `saved_views`
+~ Close `anim_view` `saved_views`
+~ Select `anim_view` `saved_views` 1 `38`
+~ Update `anim_view` `time_value` `20`
+~ Activate `anim_view` `apply`
+!%CEAbsolute end time is more than current animation duration.
+~ Activate `anim_view` `apply`
+!%CEAbsolute end time is more than current animation duration.
+~ Activate `anim_view` `apply`
+!%CEAbsolute end time is more than current animation duration.
+~ Update `anim_view` `time_value` `19.9`
+~ Activate `anim_view` `apply`
+!%CIView added to the current animation.
+~ Activate `anim_view` `close`
+~ Command `AnimCmdStart` 
+~ Command `AnimCmdStart` 
+~ Activate `confirm` `no_btn`
+~ Command `AnimCmdPbkMode`  1
+< 0 1.160296 2398 0 0 979 2880 0 0 1800 13
+!%CIProcessing Frame at time 0.0000
+!%CIProcessing Frame at time 0.0333
+!%CIProcessing Frame at time 0.0667
+!%CIProcessing Frame at time 0.1000
+!%CIProcessing Frame at time 0.1333
+!%CIProcessing Frame at time 0.1667
+!%CIProcessing Frame at time 0.2000
+!%CIProcessing Frame at time 0.2333
+!%CIProcessing Frame at time 0.2667
+!%CIProcessing Frame at time 0.3000
+!%CIProcessing Frame at time 0.3333
+!%CIProcessing Frame at time 0.3667
+!%CIProcessing Frame at time 0.4000
+!%CIProcessing Frame at time 0.4333
+!%CIProcessing Frame at time 0.4667
+!%CIProcessing Frame at time 0.5000
+!%CIProcessing Frame at time 0.5333
+!%CIProcessing Frame at time 0.5667
+!%CIProcessing Frame at time 0.6000
+!%CIProcessing Frame at time 0.6333
+!%CIProcessing Frame at time 0.6667
+!%CIProcessing Frame at time 0.7000
+!%CIProcessing Frame at time 0.7333
+!%CIProcessing Frame at time 0.7667
+!%CIProcessing Frame at time 0.8000
+!%CIProcessing Frame at time 0.8333
+!%CIProcessing Frame at time 0.8667
+!%CIProcessing Frame at time 0.9000
+!%CIProcessing Frame at time 0.9333
+!%CIProcessing Frame at time 0.9667
+!%CIProcessing Frame at time 1.0000
+!%CIProcessing Frame at time 1.0333
+!%CIProcessing Frame at time 1.0667
+!%CIProcessing Frame at time 1.1000
+!%CIProcessing Frame at time 1.1333
+!%CIProcessing Frame at time 1.1667
+!%CIProcessing Frame at time 1.2000
+!%CIProcessing Frame at time 1.2333
+!%CIProcessing Frame at time 1.2667
+!%CIProcessing Frame at time 1.3000
+!%CIProcessing Frame at time 1.3333
+!%CIProcessing Frame at time 1.3667
+!%CIProcessing Frame at time 1.4000
+!%CIProcessing Frame at time 1.4333
+!%CIProcessing Frame at time 1.4667
+!%CIProcessing Frame at time 1.5000
+!%CIProcessing Frame at time 1.5333
+!%CIProcessing Frame at time 1.5667
+!%CIProcessing Frame at time 1.6000
+!%CIProcessing Frame at time 1.6333
+!%CIProcessing Frame at time 1.6666
+!%CIProcessing Frame at time 1.7000
+!%CIProcessing Frame at time 1.7333
+!%CIProcessing Frame at time 1.7666
+!%CIProcessing Frame at time 1.8000
+!%CIProcessing Frame at time 1.8333
+!%CIProcessing Frame at time 1.8666
+!%CIProcessing Frame at time 1.9000
+!%CIProcessing Frame at time 1.9333
+!%CIProcessing Frame at time 1.9666
+!%CIProcessing Frame at time 2.0000
+!%CIProcessing Frame at time 2.0333
+!%CIProcessing Frame at time 2.0666
+!%CIProcessing Frame at time 2.1000
+!%CIProcessing Frame at time 2.1333
+!%CIProcessing Frame at time 2.1666
+!%CIProcessing Frame at time 2.2000
+!%CIProcessing Frame at time 2.2333
+!%CIProcessing Frame at time 2.2666
+!%CIProcessing Frame at time 2.3000
+!%CIProcessing Frame at time 2.3333
+!%CIProcessing Frame at time 2.3666
+!%CIProcessing Frame at time 2.4000
+!%CIProcessing Frame at time 2.4333
+!%CIProcessing Frame at time 2.4666
+!%CIProcessing Frame at time 2.5000
+!%CIProcessing Frame at time 2.5333
+!%CIProcessing Frame at time 2.5666
+!%CIProcessing Frame at time 2.6000
+!%CIProcessing Frame at time 2.6333
+!%CIProcessing Frame at time 2.6666
+!%CIProcessing Frame at time 2.7000
+!%CIProcessing Frame at time 2.7333
+!%CIProcessing Frame at time 2.7666
+!%CIProcessing Frame at time 2.8000
+!%CIProcessing Frame at time 2.8333
+!%CIProcessing Frame at time 2.8666
+!%CIProcessing Frame at time 2.9000
+!%CIProcessing Frame at time 2.9333
+!%CIProcessing Frame at time 2.9666
+!%CIProcessing Frame at time 3.0000
+!%CIProcessing Frame at time 3.0333
+!%CIProcessing Frame at time 3.0666
+!%CIProcessing Frame at time 3.1000
+!%CIProcessing Frame at time 3.1333
+!%CIProcessing Frame at time 3.1666
+!%CIProcessing Frame at time 3.2000
+!%CIProcessing Frame at time 3.2333
+!%CIProcessing Frame at time 3.2666
+!%CIProcessing Frame at time 3.3000
+!%CIProcessing Frame at time 3.3333
+!%CIProcessing Frame at time 3.3666
+!%CIProcessing Frame at time 3.4000
+!%CIProcessing Frame at time 3.4333
+!%CIProcessing Frame at time 3.4666
+!%CIProcessing Frame at time 3.5000
+!%CIProcessing Frame at time 3.5333
+!%CIProcessing Frame at time 3.5666
+!%CIProcessing Frame at time 3.6000
+!%CIProcessing Frame at time 3.6333
+!%CIProcessing Frame at time 3.6666
+!%CIProcessing Frame at time 3.7000
+!%CIProcessing Frame at time 3.7333
+!%CIProcessing Frame at time 3.7666
+!%CIProcessing Frame at time 3.8000
+!%CIProcessing Frame at time 3.8333
+!%CIProcessing Frame at time 3.8666
+!%CIProcessing Frame at time 3.9000
+!%CIProcessing Frame at time 3.9333
+!%CIProcessing Frame at time 3.9666
+!%CIProcessing Frame at time 4.0000
+!%CIProcessing Frame at time 4.0333
+!%CIProcessing Frame at time 4.0666
+!%CIProcessing Frame at time 4.1000
+!%CIProcessing Frame at time 4.1333
+!%CIProcessing Frame at time 4.1666
+!%CIProcessing Frame at time 4.2000
+!%CIProcessing Frame at time 4.2333
+!%CIProcessing Frame at time 4.2666
+!%CIProcessing Frame at time 4.3000
+!%CIProcessing Frame at time 4.3333
+!%CIProcessing Frame at time 4.3666
+!%CIProcessing Frame at time 4.4000
+!%CIProcessing Frame at time 4.4333
+!%CIProcessing Frame at time 4.4666
+!%CIProcessing Frame at time 4.5000
+!%CIProcessing Frame at time 4.5333
+!%CIProcessing Frame at time 4.5666
+!%CIProcessing Frame at time 4.6000
+!%CIProcessing Frame at time 4.6333
+!%CIProcessing Frame at time 4.6666
+!%CIProcessing Frame at time 4.7000
+!%CIProcessing Frame at time 4.7333
+!%CIProcessing Frame at time 4.7666
+!%CIProcessing Frame at time 4.8000
+!%CIProcessing Frame at time 4.8333
+!%CIProcessing Frame at time 4.8666
+!%CIProcessing Frame at time 4.9000
+!%CIProcessing Frame at time 4.9333
+!%CIProcessing Frame at time 4.9666
+!%CIProcessing Frame at time 5.0000
+!%CIProcessing Frame at time 5.0333
+!%CIProcessing Frame at time 5.0666
+!%CIProcessing Frame at time 5.0999
+!%CIProcessing Frame at time 5.1333
+!%CIProcessing Frame at time 5.1666
+!%CIProcessing Frame at time 5.1999
+!%CIProcessing Frame at time 5.2333
+!%CIProcessing Frame at time 5.2666
+!%CIProcessing Frame at time 5.2999
+!%CIProcessing Frame at time 5.3333
+!%CIProcessing Frame at time 5.3666
+!%CIProcessing Frame at time 5.3999
+!%CIProcessing Frame at time 5.4333
+!%CIProcessing Frame at time 5.4666
+!%CIProcessing Frame at time 5.4999
+!%CIProcessing Frame at time 5.5333
+!%CIProcessing Frame at time 5.5666
+!%CIProcessing Frame at time 5.5999
+!%CIProcessing Frame at time 5.6333
+!%CIProcessing Frame at time 5.6666
+!%CIProcessing Frame at time 5.6999
+!%CIProcessing Frame at time 5.7333
+!%CIProcessing Frame at time 5.7666
+!%CIProcessing Frame at time 5.7999
+!%CIProcessing Frame at time 5.8333
+!%CIProcessing Frame at time 5.8666
+!%CIProcessing Frame at time 5.8999
+!%CIProcessing Frame at time 5.9333
+!%CIProcessing Frame at time 5.9666
+!%CIProcessing Frame at time 5.9999
+!%CIProcessing Frame at time 6.0333
+!%CIProcessing Frame at time 6.0666
+!%CIProcessing Frame at time 6.0999
+!%CIProcessing Frame at time 6.1333
+!%CIProcessing Frame at time 6.1666
+!%CIProcessing Frame at time 6.1999
+!%CIProcessing Frame at time 6.2333
+!%CIProcessing Frame at time 6.2666
+!%CIProcessing Frame at time 6.2999
+!%CIProcessing Frame at time 6.3333
+!%CIProcessing Frame at time 6.3666
+!%CIProcessing Frame at time 6.3999
+!%CIProcessing Frame at time 6.4333
+!%CIProcessing Frame at time 6.4666
+!%CIProcessing Frame at time 6.4999
+!%CIProcessing Frame at time 6.5333
+!%CIProcessing Frame at time 6.5666
+!%CIProcessing Frame at time 6.5999
+!%CIProcessing Frame at time 6.6333
+!%CIProcessing Frame at time 6.6666
+!%CIProcessing Frame at time 6.6999
+!%CIProcessing Frame at time 6.7333
+!%CIProcessing Frame at time 6.7666
+!%CIProcessing Frame at time 6.7999
+!%CIProcessing Frame at time 6.8333
+!%CIProcessing Frame at time 6.8666
+!%CIProcessing Frame at time 6.8999
+!%CIProcessing Frame at time 6.9333
+!%CIProcessing Frame at time 6.9666
+!%CIProcessing Frame at time 6.9999
+!%CIProcessing Frame at time 7.0333
+!%CIProcessing Frame at time 7.0666
+!%CIProcessing Frame at time 7.0999
+!%CIProcessing Frame at time 7.1333
+!%CIProcessing Frame at time 7.1666
+!%CIProcessing Frame at time 7.1999
+!%CIProcessing Frame at time 7.2333
+!%CIProcessing Frame at time 7.2666
+!%CIProcessing Frame at time 7.2999
+!%CIProcessing Frame at time 7.3333
+!%CIProcessing Frame at time 7.3666
+!%CIProcessing Frame at time 7.3999
+!%CIProcessing Frame at time 7.4333
+!%CIProcessing Frame at time 7.4666
+!%CIProcessing Frame at time 7.4999
+!%CIProcessing Frame at time 7.5333
+!%CIProcessing Frame at time 7.5666
+!%CIProcessing Frame at time 7.5999
+!%CIProcessing Frame at time 7.6333
+!%CIProcessing Frame at time 7.6666
+!%CIProcessing Frame at time 7.6999
+!%CIProcessing Frame at time 7.7333
+!%CIProcessing Frame at time 7.7666
+!%CIProcessing Frame at time 7.7999
+!%CIProcessing Frame at time 7.8333
+!%CIProcessing Frame at time 7.8666
+!%CIProcessing Frame at time 7.8999
+!%CIProcessing Frame at time 7.9333
+!%CIProcessing Frame at time 7.9666
+!%CIProcessing Frame at time 7.9999
+!%CIProcessing Frame at time 8.0333
+!%CIProcessing Frame at time 8.0666
+!%CIProcessing Frame at time 8.0999
+!%CIProcessing Frame at time 8.1333
+!%CIProcessing Frame at time 8.1666
+!%CIProcessing Frame at time 8.1999
+!%CIProcessing Frame at time 8.2333
+!%CIProcessing Frame at time 8.2666
+!%CIProcessing Frame at time 8.2999
+!%CIProcessing Frame at time 8.3332
+!%CIProcessing Frame at time 8.3666
+!%CIProcessing Frame at time 8.3999
+!%CIProcessing Frame at time 8.4332
+!%CIProcessing Frame at time 8.4666
+!%CIProcessing Frame at time 8.4999
+!%CIProcessing Frame at time 8.5332
+!%CIProcessing Frame at time 8.5666
+!%CIProcessing Frame at time 8.5999
+!%CIProcessing Frame at time 8.6332
+!%CIProcessing Frame at time 8.6666
+!%CIProcessing Frame at time 8.6999
+!%CIProcessing Frame at time 8.7332
+!%CIProcessing Frame at time 8.7666
+!%CIProcessing Frame at time 8.7999
+!%CIProcessing Frame at time 8.8332
+!%CIProcessing Frame at time 8.8666
+!%CIProcessing Frame at time 8.8999
+!%CIProcessing Frame at time 8.9332
+!%CIProcessing Frame at time 8.9666
+!%CIProcessing Frame at time 8.9999
+!%CIProcessing Frame at time 9.0332
+!%CIProcessing Frame at time 9.0666
+!%CIProcessing Frame at time 9.0999
+!%CIProcessing Frame at time 9.1332
+!%CIProcessing Frame at time 9.1666
+!%CIProcessing Frame at time 9.1999
+!%CIProcessing Frame at time 9.2332
+!%CIProcessing Frame at time 9.2666
+!%CIProcessing Frame at time 9.2999
+!%CIProcessing Frame at time 9.3332
+!%CIProcessing Frame at time 9.3666
+!%CIProcessing Frame at time 9.3999
+!%CIProcessing Frame at time 9.4332
+!%CIProcessing Frame at time 9.4666
+!%CIProcessing Frame at time 9.4999
+!%CIProcessing Frame at time 9.5332
+!%CIProcessing Frame at time 9.5666
+!%CIProcessing Frame at time 9.5999
+!%CIProcessing Frame at time 9.6332
+!%CIProcessing Frame at time 9.6666
+!%CIProcessing Frame at time 9.6999
+!%CIProcessing Frame at time 9.7332
+!%CIProcessing Frame at time 9.7666
+!%CIProcessing Frame at time 9.7999
+!%CIProcessing Frame at time 9.8332
+!%CIProcessing Frame at time 9.8666
+!%CIProcessing Frame at time 9.8999
+!%CIProcessing Frame at time 9.9332
+!%CIProcessing Frame at time 9.9666
+!%CIProcessing Frame at time 9.9999
+!%CIProcessing Frame at time 10.0332
+!%CIProcessing Frame at time 10.0666
+!%CIProcessing Frame at time 10.0999
+!%CIProcessing Frame at time 10.1332
+!%CIProcessing Frame at time 10.1666
+!%CIProcessing Frame at time 10.1999
+!%CIProcessing Frame at time 10.2332
+!%CIProcessing Frame at time 10.2666
+!%CIProcessing Frame at time 10.2999
+!%CIProcessing Frame at time 10.3332
+!%CIProcessing Frame at time 10.3666
+!%CIProcessing Frame at time 10.3999
+!%CIProcessing Frame at time 10.4332
+!%CIProcessing Frame at time 10.4666
+!%CIProcessing Frame at time 10.4999
+!%CIProcessing Frame at time 10.5332
+!%CIProcessing Frame at time 10.5666
+!%CIProcessing Frame at time 10.5999
+!%CIProcessing Frame at time 10.6332
+!%CIProcessing Frame at time 10.6666
+!%CIProcessing Frame at time 10.6999
+!%CIProcessing Frame at time 10.7332
+!%CIProcessing Frame at time 10.7666
+!%CIProcessing Frame at time 10.7999
+!%CIProcessing Frame at time 10.8332
+!%CIProcessing Frame at time 10.8666
+!%CIProcessing Frame at time 10.8999
+!%CIProcessing Frame at time 10.9332
+!%CIProcessing Frame at time 10.9666
+!%CIProcessing Frame at time 10.9999
+!%CIProcessing Frame at time 11.0332
+!%CIProcessing Frame at time 11.0666
+!%CIProcessing Frame at time 11.0999
+!%CIProcessing Frame at time 11.1332
+!%CIProcessing Frame at time 11.1666
+!%CIProcessing Frame at time 11.1999
+!%CIProcessing Frame at time 11.2332
+!%CIProcessing Frame at time 11.2666
+!%CIProcessing Frame at time 11.2999
+!%CIProcessing Frame at time 11.3332
+!%CIProcessing Frame at time 11.3666
+!%CIProcessing Frame at time 11.3999
+!%CIProcessing Frame at time 11.4332
+!%CIProcessing Frame at time 11.4666
+!%CIProcessing Frame at time 11.4999
+!%CIProcessing Frame at time 11.5332
+!%CIProcessing Frame at time 11.5666
+!%CIProcessing Frame at time 11.5999
+!%CIProcessing Frame at time 11.6332
+!%CIProcessing Frame at time 11.6666
+!%CIProcessing Frame at time 11.6999
+!%CIProcessing Frame at time 11.7332
+!%CIProcessing Frame at time 11.7665
+!%CIProcessing Frame at time 11.7999
+!%CIProcessing Frame at time 11.8332
+!%CIProcessing Frame at time 11.8665
+!%CIProcessing Frame at time 11.8999
+!%CIProcessing Frame at time 11.9332
+!%CIProcessing Frame at time 11.9665
+!%CIProcessing Frame at time 11.9999
+!%CIProcessing Frame at time 12.0332
+!%CIProcessing Frame at time 12.0665
+!%CIProcessing Frame at time 12.0999
+!%CIProcessing Frame at time 12.1332
+!%CIProcessing Frame at time 12.1665
+!%CIProcessing Frame at time 12.1999
+!%CIProcessing Frame at time 12.2332
+!%CIProcessing Frame at time 12.2665
+!%CIProcessing Frame at time 12.2999
+!%CIProcessing Frame at time 12.3332
+!%CIProcessing Frame at time 12.3665
+!%CIProcessing Frame at time 12.3999
+!%CIProcessing Frame at time 12.4332
+!%CIProcessing Frame at time 12.4665
+!%CIProcessing Frame at time 12.4999
+!%CIProcessing Frame at time 12.5332
+!%CIProcessing Frame at time 12.5665
+!%CIProcessing Frame at time 12.5999
+!%CIProcessing Frame at time 12.6332
+!%CIProcessing Frame at time 12.6665
+!%CIProcessing Frame at time 12.6999
+!%CIProcessing Frame at time 12.7332
+!%CIProcessing Frame at time 12.7665
+!%CIProcessing Frame at time 12.7999
+!%CIProcessing Frame at time 12.8332
+!%CIProcessing Frame at time 12.8665
+!%CIProcessing Frame at time 12.8999
+!%CIProcessing Frame at time 12.9332
+!%CIProcessing Frame at time 12.9665
+!%CIProcessing Frame at time 12.9999
+!%CIProcessing Frame at time 13.0332
+!%CIProcessing Frame at time 13.0665
+!%CIProcessing Frame at time 13.0999
+!%CIProcessing Frame at time 13.1332
+!%CIProcessing Frame at time 13.1665
+!%CIProcessing Frame at time 13.1999
+!%CIProcessing Frame at time 13.2332
+!%CIProcessing Frame at time 13.2665
+!%CIProcessing Frame at time 13.2999
+!%CIProcessing Frame at time 13.3332
+!%CIProcessing Frame at time 13.3665
+!%CIProcessing Frame at time 13.3999
+!%CIProcessing Frame at time 13.4332
+!%CIProcessing Frame at time 13.4665
+!%CIProcessing Frame at time 13.4999
+!%CIProcessing Frame at time 13.5332
+!%CIProcessing Frame at time 13.5665
+!%CIProcessing Frame at time 13.5999
+!%CIProcessing Frame at time 13.6332
+!%CIProcessing Frame at time 13.6665
+!%CIProcessing Frame at time 13.6999
+!%CIProcessing Frame at time 13.7332
+!%CIProcessing Frame at time 13.7665
+!%CIProcessing Frame at time 13.7999
+!%CIProcessing Frame at time 13.8332
+!%CIProcessing Frame at time 13.8665
+!%CIProcessing Frame at time 13.8999
+!%CIProcessing Frame at time 13.9332
+!%CIProcessing Frame at time 13.9665
+!%CIProcessing Frame at time 13.9999
+!%CIProcessing Frame at time 14.0332
+!%CIProcessing Frame at time 14.0665
+!%CIProcessing Frame at time 14.0999
+!%CIProcessing Frame at time 14.1332
+!%CIProcessing Frame at time 14.1665
+!%CIProcessing Frame at time 14.1999
+!%CIProcessing Frame at time 14.2332
+!%CIProcessing Frame at time 14.2665
+!%CIProcessing Frame at time 14.2999
+!%CIProcessing Frame at time 14.3332
+!%CIProcessing Frame at time 14.3665
+!%CIProcessing Frame at time 14.3999
+!%CIProcessing Frame at time 14.4332
+!%CIProcessing Frame at time 14.4665
+!%CIProcessing Frame at time 14.4999
+!%CIProcessing Frame at time 14.5332
+!%CIProcessing Frame at time 14.5665
+!%CIProcessing Frame at time 14.5999
+!%CIProcessing Frame at time 14.6332
+!%CIProcessing Frame at time 14.6665
+!%CIProcessing Frame at time 14.6999
+!%CIProcessing Frame at time 14.7332
+!%CIProcessing Frame at time 14.7665
+!%CIProcessing Frame at time 14.7999
+!%CIProcessing Frame at time 14.8332
+!%CIProcessing Frame at time 14.8665
+!%CIProcessing Frame at time 14.8999
+!%CIProcessing Frame at time 14.9332
+!%CIProcessing Frame at time 14.9665
+!%CIProcessing Frame at time 14.9999
+!%CIProcessing Frame at time 15.0332
+!%CIProcessing Frame at time 15.0665
+!%CIProcessing Frame at time 15.0998
+!%CIProcessing Frame at time 15.1332
+!%CIProcessing Frame at time 15.1665
+!%CIProcessing Frame at time 15.1998
+!%CIProcessing Frame at time 15.2332
+!%CIProcessing Frame at time 15.2665
+!%CIProcessing Frame at time 15.2998
+!%CIProcessing Frame at time 15.3332
+!%CIProcessing Frame at time 15.3665
+!%CIProcessing Frame at time 15.3998
+!%CIProcessing Frame at time 15.4332
+!%CIProcessing Frame at time 15.4665
+!%CIProcessing Frame at time 15.4998
+!%CIProcessing Frame at time 15.5332
+!%CIProcessing Frame at time 15.5665
+!%CIProcessing Frame at time 15.5998
+!%CIProcessing Frame at time 15.6332
+!%CIProcessing Frame at time 15.6665
+!%CIProcessing Frame at time 15.6998
+!%CIProcessing Frame at time 15.7332
+!%CIProcessing Frame at time 15.7665
+!%CIProcessing Frame at time 15.7998
+!%CIProcessing Frame at time 15.8332
+!%CIProcessing Frame at time 15.8665
+!%CIProcessing Frame at time 15.8998
+!%CIProcessing Frame at time 15.9332
+!%CIProcessing Frame at time 15.9665
+!%CIProcessing Frame at time 15.9998
+!%CIProcessing Frame at time 16.0332
+!%CIProcessing Frame at time 16.0665
+!%CIProcessing Frame at time 16.0998
+!%CIProcessing Frame at time 16.1332
+!%CIProcessing Frame at time 16.1665
+!%CIProcessing Frame at time 16.1998
+!%CIProcessing Frame at time 16.2332
+!%CIProcessing Frame at time 16.2665
+!%CIProcessing Frame at time 16.2998
+!%CIProcessing Frame at time 16.3332
+!%CIProcessing Frame at time 16.3665
+!%CIProcessing Frame at time 16.3998
+!%CIProcessing Frame at time 16.4332
+!%CIProcessing Frame at time 16.4665
+!%CIProcessing Frame at time 16.4998
+!%CIProcessing Frame at time 16.5332
+!%CIProcessing Frame at time 16.5665
+!%CIProcessing Frame at time 16.5998
+!%CIProcessing Frame at time 16.6332
+!%CIProcessing Frame at time 16.6665
+!%CIProcessing Frame at time 16.6998
+!%CIProcessing Frame at time 16.7332
+!%CIProcessing Frame at time 16.7665
+!%CIProcessing Frame at time 16.7998
+!%CIProcessing Frame at time 16.8332
+!%CIProcessing Frame at time 16.8665
+!%CIProcessing Frame at time 16.8998
+!%CIProcessing Frame at time 16.9332
+!%CIProcessing Frame at time 16.9665
+!%CIProcessing Frame at time 16.9998
+!%CIProcessing Frame at time 17.0332
+!%CIProcessing Frame at time 17.0665
+!%CIProcessing Frame at time 17.0998
+!%CIProcessing Frame at time 17.1332
+!%CIProcessing Frame at time 17.1665
+!%CIProcessing Frame at time 17.1998
+!%CIProcessing Frame at time 17.2332
+!%CIProcessing Frame at time 17.2665
+!%CIProcessing Frame at time 17.2998
+!%CIProcessing Frame at time 17.3332
+!%CIProcessing Frame at time 17.3665
+!%CIProcessing Frame at time 17.3998
+!%CIProcessing Frame at time 17.4332
+!%CIProcessing Frame at time 17.4665
+!%CIProcessing Frame at time 17.4998
+!%CIProcessing Frame at time 17.5332
+!%CIProcessing Frame at time 17.5665
+!%CIProcessing Frame at time 17.5998
+!%CIProcessing Frame at time 17.6332
+!%CIProcessing Frame at time 17.6665
+!%CIProcessing Frame at time 17.6998
+!%CIProcessing Frame at time 17.7332
+!%CIProcessing Frame at time 17.7665
+!%CIProcessing Frame at time 17.7998
+!%CIProcessing Frame at time 17.8332
+!%CIProcessing Frame at time 17.8665
+!%CIProcessing Frame at time 17.8998
+!%CIProcessing Frame at time 17.9332
+!%CIProcessing Frame at time 17.9665
+!%CIProcessing Frame at time 17.9998
+!%CIProcessing Frame at time 18.0332
+!%CIProcessing Frame at time 18.0665
+!%CIProcessing Frame at time 18.0998
+!%CIProcessing Frame at time 18.1332
+!%CIProcessing Frame at time 18.1665
+!%CIProcessing Frame at time 18.1998
+!%CIProcessing Frame at time 18.2332
+!%CIProcessing Frame at time 18.2665
+!%CIProcessing Frame at time 18.2998
+!%CIProcessing Frame at time 18.3331
+!%CIProcessing Frame at time 18.3665
+!%CIProcessing Frame at time 18.3998
+!%CIProcessing Frame at time 18.4331
+!%CIProcessing Frame at time 18.4665
+!%CIProcessing Frame at time 18.4998
+!%CIProcessing Frame at time 18.5331
+!%CIProcessing Frame at time 18.5665
+!%CIProcessing Frame at time 18.5998
+!%CIProcessing Frame at time 18.6331
+!%CIProcessing Frame at time 18.6665
+!%CIProcessing Frame at time 18.6998
+!%CIProcessing Frame at time 18.7331
+!%CIProcessing Frame at time 18.7665
+!%CIProcessing Frame at time 18.7998
+!%CIProcessing Frame at time 18.8331
+!%CIProcessing Frame at time 18.8665
+!%CIProcessing Frame at time 18.8998
+!%CIProcessing Frame at time 18.9331
+!%CIProcessing Frame at time 18.9665
+!%CIProcessing Frame at time 18.9998
+!%CIProcessing Frame at time 19.0331
+!%CIProcessing Frame at time 19.0665
+!%CIProcessing Frame at time 19.0998
+!%CIProcessing Frame at time 19.1331
+!%CIProcessing Frame at time 19.1665
+!%CIProcessing Frame at time 19.1998
+!%CIProcessing Frame at time 19.2331
+!%CIProcessing Frame at time 19.2665
+!%CIProcessing Frame at time 19.2998
+!%CIProcessing Frame at time 19.3331
+!%CIProcessing Frame at time 19.3665
+!%CIProcessing Frame at time 19.3998
+!%CIProcessing Frame at time 19.4331
+!%CIProcessing Frame at time 19.4665
+!%CIProcessing Frame at time 19.4998
+!%CIProcessing Frame at time 19.5331
+!%CIProcessing Frame at time 19.5665
+!%CIProcessing Frame at time 19.5998
+!%CIProcessing Frame at time 19.6331
+!%CIProcessing Frame at time 19.6665
+!%CIProcessing Frame at time 19.6998
+!%CIProcessing Frame at time 19.7331
+!%CIProcessing Frame at time 19.7665
+!%CIProcessing Frame at time 19.7998
+!%CIProcessing Frame at time 19.8331
+!%CIProcessing Frame at time 19.8665
+!%CIProcessing Frame at time 19.8998
+!%CIProcessing Frame at time 19.9331
+!%CIProcessing Frame at time 19.9665
+!%CIProcessing Frame at time 19.9998
+!Command AnimCmdDummy was pushed from the software.
+~ Enter `main_dlg_cur` `time_scale` 3 616 16 0
+~ Move `main_dlg_cur` `time_scale` 3 616 16 0
+~ Move `main_dlg_cur` `time_scale` 3 616 15 0
+~ Move `main_dlg_cur` `time_scale` 3 616 13 0
+~ Move `main_dlg_cur` `time_scale` 3 616 12 0
+~ Move `main_dlg_cur` `time_scale` 3 613 11 0
+~ Move `main_dlg_cur` `time_scale` 3 612 11 0
+~ Move `main_dlg_cur` `time_scale` 3 609 10 0
+~ Move `main_dlg_cur` `time_scale` 3 603 9 0
+~ Move `main_dlg_cur` `time_scale` 3 598 7 0
+~ Move `main_dlg_cur` `time_scale` 3 593 7 0
+~ Move `main_dlg_cur` `time_scale` 3 592 7 0
+~ Move `main_dlg_cur` `time_scale` 3 592 6 0
+~ Move `main_dlg_cur` `time_scale` 3 593 6 0
+~ Move `main_dlg_cur` `time_scale` 3 595 6 0
+~ Move `main_dlg_cur` `time_scale` 3 597 6 0
+~ Move `main_dlg_cur` `time_scale` 3 598 6 0
+~ Move `main_dlg_cur` `time_scale` 3 599 6 0
+~ Move `main_dlg_cur` `time_scale` 3 600 6 0
+~ Move `main_dlg_cur` `time_scale` 3 601 6 0
+~ Move `main_dlg_cur` `time_scale` 3 602 6 0
+~ Move `main_dlg_cur` `time_scale` 3 603 6 0
+~ Move `main_dlg_cur` `time_scale` 3 601 6 0
+~ Move `main_dlg_cur` `time_scale` 3 600 5 0
+~ Move `main_dlg_cur` `time_scale` 3 599 4 0
+~ Move `main_dlg_cur` `time_scale` 3 598 3 0
+~ Move `main_dlg_cur` `time_scale` 3 598 2 0
+~ Move `main_dlg_cur` `time_scale` 3 598 0 0
+~ Exit `main_dlg_cur` `time_scale` 3 597 -4 0
+~ Activate `main_dlg_cur` `playBtn`
+*ANIMATION_FRAME 1.000000 0 0 
+*ANIMATION_FRAME 2.000000 0 0 
+*ANIMATION_FRAME 3.000000 0 0 
+*ANIMATION_FRAME 4.000000 0 0 
+*ANIMATION_FRAME 5.000000 0 0 
+*ANIMATION_FRAME 6.000000 0 0 
+*ANIMATION_FRAME 7.000000 0 0 
+*ANIMATION_FRAME 8.000000 0 0 
+*ANIMATION_FRAME 9.000000 0 0 
+*ANIMATION_FRAME 10.000000 0 0 
+*ANIMATION_FRAME 11.000000 0 0 
+*ANIMATION_FRAME 12.000000 0 0 
+*ANIMATION_FRAME 13.000000 0 0 
+*ANIMATION_FRAME 14.000000 0 0 
+*ANIMATION_FRAME 15.000000 0 0 
+*ANIMATION_FRAME 16.000000 0 0 
+*ANIMATION_FRAME 17.000000 0 0 
+*ANIMATION_FRAME 18.000000 0 0 
+*ANIMATION_FRAME 19.000000 0 0 
+*ANIMATION_FRAME 20.000000 0 0 
+*ANIMATION_FRAME 21.000000 0 0 
+*ANIMATION_FRAME 22.000000 0 0 
+*ANIMATION_FRAME 23.000000 0 0 
+*ANIMATION_FRAME 24.000000 0 0 
+*ANIMATION_FRAME 25.000000 0 0 
+*ANIMATION_FRAME 26.000000 0 0 
+*ANIMATION_FRAME 27.000000 0 0 
+*ANIMATION_FRAME 28.000000 0 0 
+*ANIMATION_FRAME 29.000000 0 0 
+*ANIMATION_FRAME 30.000000 0 0 
+*ANIMATION_FRAME 31.000000 0 0 
+*ANIMATION_FRAME 32.000000 0 0 
+*ANIMATION_FRAME 33.000000 0 0 
+*ANIMATION_FRAME 34.000000 0 0 
+*ANIMATION_FRAME 35.000000 0 0 
+*ANIMATION_FRAME 36.000000 0 0 
+*ANIMATION_FRAME 37.000000 0 0 
+*ANIMATION_FRAME 38.000000 0 0 
+*ANIMATION_FRAME 39.000000 0 0 
+*ANIMATION_FRAME 40.000000 0 0 
+*ANIMATION_FRAME 41.000000 0 0 
+*ANIMATION_FRAME 42.000000 0 0 
+*ANIMATION_FRAME 43.000000 0 0 
+*ANIMATION_FRAME 44.000000 0 0 
+*ANIMATION_FRAME 45.000000 0 0 
+*ANIMATION_FRAME 46.000000 0 0 
+*ANIMATION_FRAME 47.000000 0 0 
+*ANIMATION_FRAME 48.000000 0 0 
+*ANIMATION_FRAME 49.000000 0 0 
+*ANIMATION_FRAME 50.000000 0 0 
+*ANIMATION_FRAME 51.000000 0 0 
+*ANIMATION_FRAME 52.000000 0 0 
+*ANIMATION_FRAME 53.000000 0 0 
+*ANIMATION_FRAME 54.000000 0 0 
+*ANIMATION_FRAME 55.000000 0 0 
+*ANIMATION_FRAME 56.000000 0 0 
+*ANIMATION_FRAME 57.000000 0 0 
+*ANIMATION_FRAME 58.000000 0 0 
+*ANIMATION_FRAME 59.000000 0 0 
+*ANIMATION_FRAME 60.000000 0 0 
+*ANIMATION_FRAME 61.000000 0 0 
+*ANIMATION_FRAME 62.000000 0 0 
+*ANIMATION_FRAME 63.000000 0 0 
+*ANIMATION_FRAME 64.000000 0 0 
+*ANIMATION_FRAME 65.000000 0 0 
+*ANIMATION_FRAME 66.000000 0 0 
+*ANIMATION_FRAME 67.000000 0 0 
+*ANIMATION_FRAME 68.000000 0 0 
+*ANIMATION_FRAME 69.000000 0 0 
+*ANIMATION_FRAME 70.000000 0 0 
+*ANIMATION_FRAME 71.000000 0 0 
+*ANIMATION_FRAME 72.000000 0 0 
+*ANIMATION_FRAME 73.000000 0 0 
+*ANIMATION_FRAME 74.000000 0 0 
+*ANIMATION_FRAME 75.000000 0 0 
+*ANIMATION_FRAME 76.000000 0 0 
+*ANIMATION_FRAME 77.000000 0 0 
+*ANIMATION_FRAME 78.000000 0 0 
+*ANIMATION_FRAME 79.000000 0 0 
+*ANIMATION_FRAME 80.000000 0 0 
+*ANIMATION_FRAME 81.000000 0 0 
+*ANIMATION_FRAME 82.000000 0 0 
+*ANIMATION_FRAME 83.000000 0 0 
+*ANIMATION_FRAME 84.000000 0 0 
+*ANIMATION_FRAME 85.000000 0 0 
+*ANIMATION_FRAME 86.000000 0 0 
+*ANIMATION_FRAME 87.000000 0 0 
+*ANIMATION_FRAME 88.000000 0 0 
+*ANIMATION_FRAME 89.000000 0 0 
+*ANIMATION_FRAME 90.000000 0 0 
+*ANIMATION_FRAME 91.000000 0 0 
+*ANIMATION_FRAME 92.000000 0 0 
+*ANIMATION_FRAME 93.000000 0 0 
+*ANIMATION_FRAME 94.000000 0 0 
+*ANIMATION_FRAME 95.000000 0 0 
+*ANIMATION_FRAME 96.000000 0 0 
+*ANIMATION_FRAME 97.000000 0 0 
+*ANIMATION_FRAME 98.000000 0 0 
+*ANIMATION_FRAME 99.000000 0 0 
+*ANIMATION_FRAME 100.000000 0 0 
+*ANIMATION_FRAME 101.000000 0 0 
+*ANIMATION_FRAME 102.000000 0 0 
+*ANIMATION_FRAME 103.000000 0 0 
+*ANIMATION_FRAME 104.000000 0 0 
+*ANIMATION_FRAME 105.000000 0 0 
+*ANIMATION_FRAME 106.000000 0 0 
+*ANIMATION_FRAME 107.000000 0 0 
+*ANIMATION_FRAME 108.000000 0 0 
+*ANIMATION_FRAME 109.000000 0 0 
+*ANIMATION_FRAME 110.000000 0 0 
+*ANIMATION_FRAME 111.000000 0 0 
+*ANIMATION_FRAME 112.000000 0 0 
+*ANIMATION_FRAME 113.000000 0 0 
+*ANIMATION_FRAME 114.000000 0 0 
+*ANIMATION_FRAME 115.000000 0 0 
+*ANIMATION_FRAME 116.000000 0 0 
+*ANIMATION_FRAME 117.000000 0 0 
+*ANIMATION_FRAME 118.000000 0 0 
+*ANIMATION_FRAME 119.000000 0 0 
+*ANIMATION_FRAME 120.000000 0 0 
+*ANIMATION_FRAME 121.000000 0 0 
+*ANIMATION_FRAME 122.000000 0 0 
+*ANIMATION_FRAME 123.000000 0 0 
+*ANIMATION_FRAME 124.000000 0 0 
+*ANIMATION_FRAME 125.000000 0 0 
+*ANIMATION_FRAME 126.000000 0 0 
+*ANIMATION_FRAME 127.000000 0 0 
+*ANIMATION_FRAME 128.000000 0 0 
+*ANIMATION_FRAME 129.000000 0 0 
+*ANIMATION_FRAME 130.000000 0 0 
+*ANIMATION_FRAME 131.000000 0 0 
+*ANIMATION_FRAME 132.000000 0 0 
+*ANIMATION_FRAME 133.000000 0 0 
+*ANIMATION_FRAME 134.000000 0 0 
+*ANIMATION_FRAME 135.000000 0 0 
+*ANIMATION_FRAME 136.000000 0 0 
+*ANIMATION_FRAME 137.000000 0 0 
+*ANIMATION_FRAME 138.000000 0 0 
+*ANIMATION_FRAME 139.000000 0 0 
+*ANIMATION_FRAME 140.000000 0 0 
+*ANIMATION_FRAME 141.000000 0 0 
+*ANIMATION_FRAME 142.000000 0 0 
+*ANIMATION_FRAME 143.000000 0 0 
+*ANIMATION_FRAME 144.000000 0 0 
+*ANIMATION_FRAME 145.000000 0 0 
+*ANIMATION_FRAME 146.000000 0 0 
+*ANIMATION_FRAME 147.000000 0 0 
+*ANIMATION_FRAME 148.000000 0 0 
+*ANIMATION_FRAME 149.000000 0 0 
+*ANIMATION_FRAME 150.000000 0 0 
+*ANIMATION_FRAME 151.000000 0 0 
+*ANIMATION_FRAME 152.000000 0 0 
+*ANIMATION_FRAME 153.000000 0 0 
+*ANIMATION_FRAME 154.000000 0 0 
+*ANIMATION_FRAME 155.000000 0 0 
+*ANIMATION_FRAME 156.000000 0 0 
+*ANIMATION_FRAME 157.000000 0 0 
+*ANIMATION_FRAME 158.000000 0 0 
+*ANIMATION_FRAME 159.000000 0 0 
+*ANIMATION_FRAME 160.000000 0 0 
+*ANIMATION_FRAME 161.000000 0 0 
+*ANIMATION_FRAME 162.000000 0 0 
+*ANIMATION_FRAME 163.000000 0 0 
+*ANIMATION_FRAME 164.000000 0 0 
+*ANIMATION_FRAME 165.000000 0 0 
+*ANIMATION_FRAME 166.000000 0 0 
+*ANIMATION_FRAME 167.000000 0 0 
+*ANIMATION_FRAME 168.000000 0 0 
+*ANIMATION_FRAME 169.000000 0 0 
+*ANIMATION_FRAME 170.000000 0 0 
+*ANIMATION_FRAME 171.000000 0 0 
+*ANIMATION_FRAME 172.000000 0 0 
+*ANIMATION_FRAME 173.000000 0 0 
+*ANIMATION_FRAME 174.000000 0 0 
+*ANIMATION_FRAME 175.000000 0 0 
+*ANIMATION_FRAME 176.000000 0 0 
+*ANIMATION_FRAME 177.000000 0 0 
+*ANIMATION_FRAME 178.000000 0 0 
+*ANIMATION_FRAME 179.000000 0 0 
+*ANIMATION_FRAME 180.000000 0 0 
+*ANIMATION_FRAME 181.000000 0 0 
+*ANIMATION_FRAME 182.000000 0 0 
+*ANIMATION_FRAME 183.000000 0 0 
+*ANIMATION_FRAME 184.000000 0 0 
+*ANIMATION_FRAME 185.000000 0 0 
+*ANIMATION_FRAME 186.000000 0 0 
+*ANIMATION_FRAME 187.000000 0 0 
+*ANIMATION_FRAME 188.000000 0 0 
+*ANIMATION_FRAME 189.000000 0 0 
+*ANIMATION_FRAME 190.000000 0 0 
+*ANIMATION_FRAME 191.000000 0 0 
+*ANIMATION_FRAME 192.000000 0 0 
+*ANIMATION_FRAME 193.000000 0 0 
+*ANIMATION_FRAME 194.000000 0 0 
+*ANIMATION_FRAME 195.000000 0 0 
+*ANIMATION_FRAME 196.000000 0 0 
+*ANIMATION_FRAME 197.000000 0 0 
+*ANIMATION_FRAME 198.000000 0 0 
+*ANIMATION_FRAME 199.000000 0 0 
+*ANIMATION_FRAME 200.000000 0 0 
+*ANIMATION_FRAME 201.000000 0 0 
+*ANIMATION_FRAME 202.000000 0 0 
+*ANIMATION_FRAME 203.000000 0 0 
+*ANIMATION_FRAME 204.000000 0 0 
+*ANIMATION_FRAME 205.000000 0 0 
+*ANIMATION_FRAME 206.000000 0 0 
+*ANIMATION_FRAME 207.000000 0 0 
+*ANIMATION_FRAME 208.000000 0 0 
+*ANIMATION_FRAME 209.000000 0 0 
+*ANIMATION_FRAME 210.000000 0 0 
+*ANIMATION_FRAME 211.000000 0 0 
+*ANIMATION_FRAME 212.000000 0 0 
+*ANIMATION_FRAME 213.000000 0 0 
+*ANIMATION_FRAME 214.000000 0 0 
+*ANIMATION_FRAME 215.000000 0 0 
+*ANIMATION_FRAME 216.000000 0 0 
+*ANIMATION_FRAME 217.000000 0 0 
+*ANIMATION_FRAME 218.000000 0 0 
+*ANIMATION_FRAME 219.000000 0 0 
+*ANIMATION_FRAME 220.000000 0 0 
+*ANIMATION_FRAME 221.000000 0 0 
+*ANIMATION_FRAME 222.000000 0 0 
+*ANIMATION_FRAME 223.000000 0 0 
+*ANIMATION_FRAME 224.000000 0 0 
+*ANIMATION_FRAME 225.000000 0 0 
+*ANIMATION_FRAME 226.000000 0 0 
+*ANIMATION_FRAME 227.000000 0 0 
+*ANIMATION_FRAME 228.000000 0 0 
+*ANIMATION_FRAME 229.000000 0 0 
+*ANIMATION_FRAME 230.000000 0 0 
+*ANIMATION_FRAME 231.000000 0 0 
+*ANIMATION_FRAME 232.000000 0 0 
+*ANIMATION_FRAME 233.000000 0 0 
+*ANIMATION_FRAME 234.000000 0 0 
+*ANIMATION_FRAME 235.000000 0 0 
+*ANIMATION_FRAME 236.000000 0 0 
+*ANIMATION_FRAME 237.000000 0 0 
+*ANIMATION_FRAME 238.000000 0 0 
+*ANIMATION_FRAME 239.000000 0 0 
+*ANIMATION_FRAME 240.000000 0 0 
+*ANIMATION_FRAME 241.000000 0 0 
+*ANIMATION_FRAME 242.000000 0 0 
+*ANIMATION_FRAME 243.000000 0 0 
+*ANIMATION_FRAME 244.000000 0 0 
+*ANIMATION_FRAME 245.000000 0 0 
+*ANIMATION_FRAME 246.000000 0 0 
+*ANIMATION_FRAME 247.000000 0 0 
+*ANIMATION_FRAME 248.000000 0 0 
+*ANIMATION_FRAME 249.000000 0 0 
+*ANIMATION_FRAME 250.000000 0 0 
+*ANIMATION_FRAME 251.000000 0 0 
+*ANIMATION_FRAME 252.000000 0 0 
+*ANIMATION_FRAME 253.000000 0 0 
+*ANIMATION_FRAME 254.000000 0 0 
+*ANIMATION_FRAME 255.000000 0 0 
+*ANIMATION_FRAME 256.000000 0 0 
+*ANIMATION_FRAME 257.000000 0 0 
+*ANIMATION_FRAME 258.000000 0 0 
+*ANIMATION_FRAME 259.000000 0 0 
+*ANIMATION_FRAME 260.000000 0 0 
+*ANIMATION_FRAME 261.000000 0 0 
+*ANIMATION_FRAME 262.000000 0 0 
+*ANIMATION_FRAME 263.000000 0 0 
+*ANIMATION_FRAME 264.000000 0 0 
+*ANIMATION_FRAME 265.000000 0 0 
+*ANIMATION_FRAME 266.000000 0 0 
+*ANIMATION_FRAME 267.000000 0 0 
+*ANIMATION_FRAME 268.000000 0 0 
+*ANIMATION_FRAME 269.000000 0 0 
+*ANIMATION_FRAME 270.000000 0 0 
+*ANIMATION_FRAME 271.000000 0 0 
+*ANIMATION_FRAME 272.000000 0 0 
+*ANIMATION_FRAME 273.000000 0 0 
+*ANIMATION_FRAME 274.000000 0 0 
+*ANIMATION_FRAME 275.000000 0 0 
+*ANIMATION_FRAME 276.000000 0 0 
+*ANIMATION_FRAME 277.000000 0 0 
+*ANIMATION_FRAME 278.000000 0 0 
+*ANIMATION_FRAME 279.000000 0 0 
+*ANIMATION_FRAME 280.000000 0 0 
+*ANIMATION_FRAME 281.000000 0 0 
+*ANIMATION_FRAME 282.000000 0 0 
+*ANIMATION_FRAME 283.000000 0 0 
+*ANIMATION_FRAME 284.000000 0 0 
+*ANIMATION_FRAME 285.000000 0 0 
+*ANIMATION_FRAME 286.000000 0 0 
+*ANIMATION_FRAME 287.000000 0 0 
+*ANIMATION_FRAME 288.000000 0 0 
+*ANIMATION_FRAME 289.000000 0 0 
+*ANIMATION_FRAME 290.000000 0 0 
+*ANIMATION_FRAME 291.000000 0 0 
+*ANIMATION_FRAME 292.000000 0 0 
+*ANIMATION_FRAME 293.000000 0 0 
+*ANIMATION_FRAME 294.000000 0 0 
+*ANIMATION_FRAME 295.000000 0 0 
+*ANIMATION_FRAME 296.000000 0 0 
+*ANIMATION_FRAME 297.000000 0 0 
+*ANIMATION_FRAME 298.000000 0 0 
+*ANIMATION_FRAME 299.000000 0 0 
+*ANIMATION_FRAME 300.000000 0 0 
+*ANIMATION_FRAME 301.000000 0 0 
+*ANIMATION_FRAME 302.000000 0 0 
+*ANIMATION_FRAME 303.000000 0 0 
+*ANIMATION_FRAME 304.000000 0 0 
+*ANIMATION_FRAME 305.000000 0 0 
+*ANIMATION_FRAME 306.000000 0 0 
+*ANIMATION_FRAME 307.000000 0 0 
+*ANIMATION_FRAME 308.000000 0 0 
+*ANIMATION_FRAME 309.000000 0 0 
+*ANIMATION_FRAME 310.000000 0 0 
+*ANIMATION_FRAME 311.000000 0 0 
+*ANIMATION_FRAME 312.000000 0 0 
+*ANIMATION_FRAME 313.000000 0 0 
+*ANIMATION_FRAME 314.000000 0 0 
+*ANIMATION_FRAME 315.000000 0 0 
+*ANIMATION_FRAME 316.000000 0 0 
+*ANIMATION_FRAME 317.000000 0 0 
+*ANIMATION_FRAME 318.000000 0 0 
+*ANIMATION_FRAME 319.000000 0 0 
+*ANIMATION_FRAME 320.000000 0 0 
+*ANIMATION_FRAME 321.000000 0 0 
+*ANIMATION_FRAME 322.000000 0 0 
+*ANIMATION_FRAME 323.000000 0 0 
+*ANIMATION_FRAME 324.000000 0 0 
+*ANIMATION_FRAME 325.000000 0 0 
+*ANIMATION_FRAME 326.000000 0 0 
+*ANIMATION_FRAME 327.000000 0 0 
+*ANIMATION_FRAME 328.000000 0 0 
+*ANIMATION_FRAME 329.000000 0 0 
+*ANIMATION_FRAME 330.000000 0 0 
+*ANIMATION_FRAME 331.000000 0 0 
+*ANIMATION_FRAME 332.000000 0 0 
+*ANIMATION_FRAME 333.000000 0 0 
+*ANIMATION_FRAME 334.000000 0 0 
+*ANIMATION_FRAME 335.000000 0 0 
+*ANIMATION_FRAME 336.000000 0 0 
+*ANIMATION_FRAME 337.000000 0 0 
+*ANIMATION_FRAME 338.000000 0 0 
+*ANIMATION_FRAME 339.000000 0 0 
+*ANIMATION_FRAME 340.000000 0 0 
+*ANIMATION_FRAME 341.000000 0 0 
+*ANIMATION_FRAME 342.000000 0 0 
+*ANIMATION_FRAME 343.000000 0 0 
+*ANIMATION_FRAME 344.000000 0 0 
+*ANIMATION_FRAME 345.000000 0 0 
+*ANIMATION_FRAME 346.000000 0 0 
+*ANIMATION_FRAME 347.000000 0 0 
+*ANIMATION_FRAME 348.000000 0 0 
+*ANIMATION_FRAME 349.000000 0 0 
+*ANIMATION_FRAME 350.000000 0 0 
+*ANIMATION_FRAME 351.000000 0 0 
+*ANIMATION_FRAME 352.000000 0 0 
+*ANIMATION_FRAME 353.000000 0 0 
+*ANIMATION_FRAME 354.000000 0 0 
+*ANIMATION_FRAME 355.000000 0 0 
+*ANIMATION_FRAME 356.000000 0 0 
+*ANIMATION_FRAME 357.000000 0 0 
+*ANIMATION_FRAME 358.000000 0 0 
+*ANIMATION_FRAME 359.000000 0 0 
+*ANIMATION_FRAME 360.000000 0 0 
+*ANIMATION_FRAME 361.000000 0 0 
+*ANIMATION_FRAME 362.000000 0 0 
+*ANIMATION_FRAME 363.000000 0 0 
+*ANIMATION_FRAME 364.000000 0 0 
+*ANIMATION_FRAME 365.000000 0 0 
+*ANIMATION_FRAME 366.000000 0 0 
+*ANIMATION_FRAME 367.000000 0 0 
+*ANIMATION_FRAME 368.000000 0 0 
+*ANIMATION_FRAME 369.000000 0 0 
+*ANIMATION_FRAME 370.000000 0 0 
+*ANIMATION_FRAME 371.000000 0 0 
+*ANIMATION_FRAME 372.000000 0 0 
+*ANIMATION_FRAME 373.000000 0 0 
+*ANIMATION_FRAME 374.000000 0 0 
+*ANIMATION_FRAME 375.000000 0 0 
+*ANIMATION_FRAME 376.000000 0 0 
+*ANIMATION_FRAME 377.000000 0 0 
+*ANIMATION_FRAME 378.000000 0 0 
+*ANIMATION_FRAME 379.000000 0 0 
+*ANIMATION_FRAME 380.000000 0 0 
+*ANIMATION_FRAME 381.000000 0 0 
+*ANIMATION_FRAME 382.000000 0 0 
+*ANIMATION_FRAME 383.000000 0 0 
+*ANIMATION_FRAME 384.000000 0 0 
+*ANIMATION_FRAME 385.000000 0 0 
+*ANIMATION_FRAME 386.000000 0 0 
+*ANIMATION_FRAME 387.000000 0 0 
+*ANIMATION_FRAME 388.000000 0 0 
+*ANIMATION_FRAME 389.000000 0 0 
+*ANIMATION_FRAME 390.000000 0 0 
+*ANIMATION_FRAME 391.000000 0 0 
+*ANIMATION_FRAME 392.000000 0 0 
+*ANIMATION_FRAME 393.000000 0 0 
+*ANIMATION_FRAME 394.000000 0 0 
+*ANIMATION_FRAME 395.000000 0 0 
+*ANIMATION_FRAME 396.000000 0 0 
+*ANIMATION_FRAME 397.000000 0 0 
+*ANIMATION_FRAME 398.000000 0 0 
+*ANIMATION_FRAME 399.000000 0 0 
+*ANIMATION_FRAME 400.000000 0 0 
+*ANIMATION_FRAME 401.000000 0 0 
+*ANIMATION_FRAME 402.000000 0 0 
+*ANIMATION_FRAME 403.000000 0 0 
+*ANIMATION_FRAME 404.000000 0 0 
+*ANIMATION_FRAME 405.000000 0 0 
+*ANIMATION_FRAME 406.000000 0 0 
+*ANIMATION_FRAME 407.000000 0 0 
+*ANIMATION_FRAME 408.000000 0 0 
+*ANIMATION_FRAME 409.000000 0 0 
+*ANIMATION_FRAME 410.000000 0 0 
+*ANIMATION_FRAME 411.000000 0 0 
+*ANIMATION_FRAME 412.000000 0 0 
+*ANIMATION_FRAME 413.000000 0 0 
+*ANIMATION_FRAME 414.000000 0 0 
+*ANIMATION_FRAME 415.000000 0 0 
+*ANIMATION_FRAME 416.000000 0 0 
+*ANIMATION_FRAME 417.000000 0 0 
+*ANIMATION_FRAME 418.000000 0 0 
+*ANIMATION_FRAME 419.000000 0 0 
+*ANIMATION_FRAME 420.000000 0 0 
+*ANIMATION_FRAME 421.000000 0 0 
+*ANIMATION_FRAME 422.000000 0 0 
+*ANIMATION_FRAME 423.000000 0 0 
+*ANIMATION_FRAME 424.000000 0 0 
+*ANIMATION_FRAME 425.000000 0 0 
+*ANIMATION_FRAME 426.000000 0 0 
+*ANIMATION_FRAME 427.000000 0 0 
+*ANIMATION_FRAME 428.000000 0 0 
+*ANIMATION_FRAME 429.000000 0 0 
+*ANIMATION_FRAME 430.000000 0 0 
+*ANIMATION_FRAME 431.000000 0 0 
+*ANIMATION_FRAME 432.000000 0 0 
+*ANIMATION_FRAME 433.000000 0 0 
+*ANIMATION_FRAME 434.000000 0 0 
+*ANIMATION_FRAME 435.000000 0 0 
+*ANIMATION_FRAME 436.000000 0 0 
+*ANIMATION_FRAME 437.000000 0 0 
+*ANIMATION_FRAME 438.000000 0 0 
+*ANIMATION_FRAME 439.000000 0 0 
+*ANIMATION_FRAME 440.000000 0 0 
+*ANIMATION_FRAME 441.000000 0 0 
+*ANIMATION_FRAME 442.000000 0 0 
+*ANIMATION_FRAME 443.000000 0 0 
+*ANIMATION_FRAME 444.000000 0 0 
+*ANIMATION_FRAME 445.000000 0 0 
+*ANIMATION_FRAME 446.000000 0 0 
+*ANIMATION_FRAME 447.000000 0 0 
+*ANIMATION_FRAME 448.000000 0 0 
+*ANIMATION_FRAME 449.000000 0 0 
+*ANIMATION_FRAME 450.000000 0 0 
+*ANIMATION_FRAME 451.000000 0 0 
+*ANIMATION_FRAME 452.000000 0 0 
+*ANIMATION_FRAME 453.000000 0 0 
+*ANIMATION_FRAME 454.000000 0 0 
+*ANIMATION_FRAME 455.000000 0 0 
+*ANIMATION_FRAME 456.000000 0 0 
+*ANIMATION_FRAME 457.000000 0 0 
+*ANIMATION_FRAME 458.000000 0 0 
+*ANIMATION_FRAME 459.000000 0 0 
+*ANIMATION_FRAME 460.000000 0 0 
+*ANIMATION_FRAME 461.000000 0 0 
+*ANIMATION_FRAME 462.000000 0 0 
+*ANIMATION_FRAME 463.000000 0 0 
+*ANIMATION_FRAME 464.000000 0 0 
+*ANIMATION_FRAME 465.000000 0 0 
+*ANIMATION_FRAME 466.000000 0 0 
+*ANIMATION_FRAME 467.000000 0 0 
+*ANIMATION_FRAME 468.000000 0 0 
+*ANIMATION_FRAME 469.000000 0 0 
+*ANIMATION_FRAME 470.000000 0 0 
+*ANIMATION_FRAME 471.000000 0 0 
+*ANIMATION_FRAME 472.000000 0 0 
+*ANIMATION_FRAME 473.000000 0 0 
+*ANIMATION_FRAME 474.000000 0 0 
+*ANIMATION_FRAME 475.000000 0 0 
+*ANIMATION_FRAME 476.000000 0 0 
+*ANIMATION_FRAME 477.000000 0 0 
+*ANIMATION_FRAME 478.000000 0 0 
+*ANIMATION_FRAME 479.000000 0 0 
+*ANIMATION_FRAME 480.000000 0 0 
+*ANIMATION_FRAME 481.000000 0 0 
+*ANIMATION_FRAME 482.000000 0 0 
+*ANIMATION_FRAME 483.000000 0 0 
+*ANIMATION_FRAME 484.000000 0 0 
+*ANIMATION_FRAME 485.000000 0 0 
+*ANIMATION_FRAME 486.000000 0 0 
+*ANIMATION_FRAME 487.000000 0 0 
+*ANIMATION_FRAME 488.000000 0 0 
+*ANIMATION_FRAME 489.000000 0 0 
+*ANIMATION_FRAME 490.000000 0 0 
+*ANIMATION_FRAME 491.000000 0 0 
+*ANIMATION_FRAME 492.000000 0 0 
+*ANIMATION_FRAME 493.000000 0 0 
+*ANIMATION_FRAME 494.000000 0 0 
+*ANIMATION_FRAME 495.000000 0 0 
+*ANIMATION_FRAME 496.000000 0 0 
+*ANIMATION_FRAME 497.000000 0 0 
+*ANIMATION_FRAME 498.000000 0 0 
+*ANIMATION_FRAME 499.000000 0 0 
+*ANIMATION_FRAME 500.000000 0 0 
+*ANIMATION_FRAME 501.000000 0 0 
+*ANIMATION_FRAME 502.000000 0 0 
+*ANIMATION_FRAME 503.000000 0 0 
+*ANIMATION_FRAME 504.000000 0 0 
+*ANIMATION_FRAME 505.000000 0 0 
+*ANIMATION_FRAME 506.000000 0 0 
+*ANIMATION_FRAME 507.000000 0 0 
+*ANIMATION_FRAME 508.000000 0 0 
+*ANIMATION_FRAME 509.000000 0 0 
+*ANIMATION_FRAME 510.000000 0 0 
+*ANIMATION_FRAME 511.000000 0 0 
+*ANIMATION_FRAME 512.000000 0 0 
+*ANIMATION_FRAME 513.000000 0 0 
+*ANIMATION_FRAME 514.000000 0 0 
+*ANIMATION_FRAME 515.000000 0 0 
+*ANIMATION_FRAME 516.000000 0 0 
+*ANIMATION_FRAME 517.000000 0 0 
+*ANIMATION_FRAME 518.000000 0 0 
+*ANIMATION_FRAME 519.000000 0 0 
+*ANIMATION_FRAME 520.000000 0 0 
+*ANIMATION_FRAME 521.000000 0 0 
+*ANIMATION_FRAME 522.000000 0 0 
+*ANIMATION_FRAME 523.000000 0 0 
+*ANIMATION_FRAME 524.000000 0 0 
+*ANIMATION_FRAME 525.000000 0 0 
+*ANIMATION_FRAME 526.000000 0 0 
+*ANIMATION_FRAME 527.000000 0 0 
+*ANIMATION_FRAME 528.000000 0 0 
+*ANIMATION_FRAME 529.000000 0 0 
+*ANIMATION_FRAME 530.000000 0 0 
+*ANIMATION_FRAME 531.000000 0 0 
+*ANIMATION_FRAME 532.000000 0 0 
+*ANIMATION_FRAME 533.000000 0 0 
+*ANIMATION_FRAME 534.000000 0 0 
+*ANIMATION_FRAME 535.000000 0 0 
+*ANIMATION_FRAME 536.000000 0 0 
+*ANIMATION_FRAME 537.000000 0 0 
+*ANIMATION_FRAME 538.000000 0 0 
+*ANIMATION_FRAME 539.000000 0 0 
+*ANIMATION_FRAME 540.000000 0 0 
+*ANIMATION_FRAME 541.000000 0 0 
+*ANIMATION_FRAME 542.000000 0 0 
+*ANIMATION_FRAME 543.000000 0 0 
+*ANIMATION_FRAME 544.000000 0 0 
+*ANIMATION_FRAME 545.000000 0 0 
+*ANIMATION_FRAME 546.000000 0 0 
+*ANIMATION_FRAME 547.000000 0 0 
+*ANIMATION_FRAME 548.000000 0 0 
+*ANIMATION_FRAME 549.000000 0 0 
+*ANIMATION_FRAME 550.000000 0 0 
+*ANIMATION_FRAME 551.000000 0 0 
+*ANIMATION_FRAME 552.000000 0 0 
+*ANIMATION_FRAME 553.000000 0 0 
+*ANIMATION_FRAME 554.000000 0 0 
+*ANIMATION_FRAME 555.000000 0 0 
+*ANIMATION_FRAME 556.000000 0 0 
+*ANIMATION_FRAME 557.000000 0 0 
+*ANIMATION_FRAME 558.000000 0 0 
+*ANIMATION_FRAME 559.000000 0 0 
+*ANIMATION_FRAME 560.000000 0 0 
+*ANIMATION_FRAME 561.000000 0 0 
+*ANIMATION_FRAME 562.000000 0 0 
+*ANIMATION_FRAME 563.000000 0 0 
+*ANIMATION_FRAME 564.000000 0 0 
+*ANIMATION_FRAME 565.000000 0 0 
+*ANIMATION_FRAME 566.000000 0 0 
+*ANIMATION_FRAME 567.000000 0 0 
+*ANIMATION_FRAME 568.000000 0 0 
+*ANIMATION_FRAME 569.000000 0 0 
+*ANIMATION_FRAME 570.000000 0 0 
+*ANIMATION_FRAME 571.000000 0 0 
+*ANIMATION_FRAME 572.000000 0 0 
+*ANIMATION_FRAME 573.000000 0 0 
+*ANIMATION_FRAME 574.000000 0 0 
+*ANIMATION_FRAME 575.000000 0 0 
+*ANIMATION_FRAME 576.000000 0 0 
+*ANIMATION_FRAME 577.000000 0 0 
+*ANIMATION_FRAME 578.000000 0 0 
+*ANIMATION_FRAME 579.000000 0 0 
+*ANIMATION_FRAME 580.000000 0 0 
+*ANIMATION_FRAME 581.000000 0 0 
+*ANIMATION_FRAME 582.000000 0 0 
+*ANIMATION_FRAME 583.000000 0 0 
+*ANIMATION_FRAME 584.000000 0 0 
+*ANIMATION_FRAME 585.000000 0 0 
+*ANIMATION_FRAME 586.000000 0 0 
+*ANIMATION_FRAME 587.000000 0 0 
+*ANIMATION_FRAME 588.000000 0 0 
+*ANIMATION_FRAME 589.000000 0 0 
+*ANIMATION_FRAME 590.000000 0 0 
+*ANIMATION_FRAME 591.000000 0 0 
+*ANIMATION_FRAME 592.000000 0 0 
+*ANIMATION_FRAME 593.000000 0 0 
+*ANIMATION_FRAME 594.000000 0 0 
+*ANIMATION_FRAME 595.000000 0 0 
+*ANIMATION_FRAME 596.000000 0 0 
+*ANIMATION_FRAME 597.000000 0 0 
+*ANIMATION_FRAME 598.000000 0 0 
+*ANIMATION_FRAME 599.000000 0 0 
+*ANIMATION_FRAME 600.000000 0 0 
+*ANIMATION_FRAME 0.000000 0 0 
+*ANIMATION_FRAME 1.000000 0 0 
+*ANIMATION_FRAME 2.000000 0 0 
+*ANIMATION_FRAME 3.000000 0 0 
+*ANIMATION_FRAME 4.000000 0 0 
+*ANIMATION_FRAME 5.000000 0 0 
+*ANIMATION_FRAME 6.000000 0 0 
+*ANIMATION_FRAME 7.000000 0 0 
+*ANIMATION_FRAME 8.000000 0 0 
+*ANIMATION_FRAME 9.000000 0 0 
+*ANIMATION_FRAME 10.000000 0 0 
+*ANIMATION_FRAME 11.000000 0 0 
+*ANIMATION_FRAME 12.000000 0 0 
+*ANIMATION_FRAME 13.000000 0 0 
+*ANIMATION_FRAME 14.000000 0 0 
+*ANIMATION_FRAME 15.000000 0 0 
+*ANIMATION_FRAME 16.000000 0 0 
+*ANIMATION_FRAME 17.000000 0 0 
+*ANIMATION_FRAME 18.000000 0 0 
+*ANIMATION_FRAME 19.000000 0 0 
+*ANIMATION_FRAME 20.000000 0 0 
+*ANIMATION_FRAME 21.000000 0 0 
+*ANIMATION_FRAME 22.000000 0 0 
+*ANIMATION_FRAME 23.000000 0 0 
+*ANIMATION_FRAME 24.000000 0 0 
+*ANIMATION_FRAME 25.000000 0 0 
+*ANIMATION_FRAME 26.000000 0 0 
+*ANIMATION_FRAME 27.000000 0 0 
+*ANIMATION_FRAME 28.000000 0 0 
+*ANIMATION_FRAME 29.000000 0 0 
+*ANIMATION_FRAME 30.000000 0 0 
+*ANIMATION_FRAME 31.000000 0 0 
+*ANIMATION_FRAME 32.000000 0 0 
+*ANIMATION_FRAME 33.000000 0 0 
+*ANIMATION_FRAME 34.000000 0 0 
+*ANIMATION_FRAME 35.000000 0 0 
+*ANIMATION_FRAME 36.000000 0 0 
+*ANIMATION_FRAME 37.000000 0 0 
+*ANIMATION_FRAME 38.000000 0 0 
+*ANIMATION_FRAME 39.000000 0 0 
+*ANIMATION_FRAME 40.000000 0 0 
+*ANIMATION_FRAME 41.000000 0 0 
+*ANIMATION_FRAME 42.000000 0 0 
+*ANIMATION_FRAME 43.000000 0 0 
+*ANIMATION_FRAME 44.000000 0 0 
+*ANIMATION_FRAME 45.000000 0 0 
+*ANIMATION_FRAME 46.000000 0 0 
+*ANIMATION_FRAME 47.000000 0 0 
+*ANIMATION_FRAME 48.000000 0 0 
+*ANIMATION_FRAME 49.000000 0 0 
+*ANIMATION_FRAME 50.000000 0 0 
+*ANIMATION_FRAME 51.000000 0 0 
+*ANIMATION_FRAME 52.000000 0 0 
+*ANIMATION_FRAME 53.000000 0 0 
+*ANIMATION_FRAME 54.000000 0 0 
+*ANIMATION_FRAME 55.000000 0 0 
+*ANIMATION_FRAME 56.000000 0 0 
+*ANIMATION_FRAME 57.000000 0 0 
+*ANIMATION_FRAME 58.000000 0 0 
+*ANIMATION_FRAME 59.000000 0 0 
+*ANIMATION_FRAME 60.000000 0 0 
+*ANIMATION_FRAME 61.000000 0 0 
+*ANIMATION_FRAME 62.000000 0 0 
+*ANIMATION_FRAME 63.000000 0 0 
+*ANIMATION_FRAME 64.000000 0 0 
+*ANIMATION_FRAME 65.000000 0 0 
+*ANIMATION_FRAME 66.000000 0 0 
+*ANIMATION_FRAME 67.000000 0 0 
+*ANIMATION_FRAME 68.000000 0 0 
+*ANIMATION_FRAME 69.000000 0 0 
+*ANIMATION_FRAME 70.000000 0 0 
+*ANIMATION_FRAME 71.000000 0 0 
+*ANIMATION_FRAME 72.000000 0 0 
+*ANIMATION_FRAME 73.000000 0 0 
+*ANIMATION_FRAME 74.000000 0 0 
+*ANIMATION_FRAME 75.000000 0 0 
+*ANIMATION_FRAME 76.000000 0 0 
+*ANIMATION_FRAME 77.000000 0 0 
+*ANIMATION_FRAME 78.000000 0 0 
+*ANIMATION_FRAME 79.000000 0 0 
+*ANIMATION_FRAME 80.000000 0 0 
+*ANIMATION_FRAME 81.000000 0 0 
+*ANIMATION_FRAME 82.000000 0 0 
+*ANIMATION_FRAME 83.000000 0 0 
+*ANIMATION_FRAME 84.000000 0 0 
+*ANIMATION_FRAME 85.000000 0 0 
+*ANIMATION_FRAME 86.000000 0 0 
+*ANIMATION_FRAME 87.000000 0 0 
+*ANIMATION_FRAME 88.000000 0 0 
+*ANIMATION_FRAME 89.000000 0 0 
+*ANIMATION_FRAME 90.000000 0 0 
+*ANIMATION_FRAME 91.000000 0 0 
+*ANIMATION_FRAME 92.000000 0 0 
+*ANIMATION_FRAME 93.000000 0 0 
+*ANIMATION_FRAME 94.000000 0 0 
+*ANIMATION_FRAME 95.000000 0 0 
+*ANIMATION_FRAME 96.000000 0 0 
+*ANIMATION_FRAME 97.000000 0 0 
+*ANIMATION_FRAME 98.000000 0 0 
+*ANIMATION_FRAME 99.000000 0 0 
+*ANIMATION_FRAME 100.000000 0 0 
+*ANIMATION_FRAME 101.000000 0 0 
+*ANIMATION_FRAME 102.000000 0 0 
+*ANIMATION_FRAME 103.000000 0 0 
+*ANIMATION_FRAME 104.000000 0 0 
+*ANIMATION_FRAME 105.000000 0 0 
+*ANIMATION_FRAME 106.000000 0 0 
+*ANIMATION_FRAME 107.000000 0 0 
+*ANIMATION_FRAME 108.000000 0 0 
+*ANIMATION_FRAME 109.000000 0 0 
+*ANIMATION_FRAME 110.000000 0 0 
+*ANIMATION_FRAME 111.000000 0 0 
+*ANIMATION_FRAME 112.000000 0 0 
+*ANIMATION_FRAME 113.000000 0 0 
+*ANIMATION_FRAME 114.000000 0 0 
+*ANIMATION_FRAME 115.000000 0 0 
+*ANIMATION_FRAME 116.000000 0 0 
+*ANIMATION_FRAME 117.000000 0 0 
+*ANIMATION_FRAME 118.000000 0 0 
+*ANIMATION_FRAME 119.000000 0 0 
+*ANIMATION_FRAME 120.000000 0 0 
+*ANIMATION_FRAME 121.000000 0 0 
+*ANIMATION_FRAME 122.000000 0 0 
+*ANIMATION_FRAME 123.000000 0 0 
+*ANIMATION_FRAME 124.000000 0 0 
+*ANIMATION_FRAME 125.000000 0 0 
+*ANIMATION_FRAME 126.000000 0 0 
+*ANIMATION_FRAME 127.000000 0 0 
+*ANIMATION_FRAME 128.000000 0 0 
+*ANIMATION_FRAME 129.000000 0 0 
+*ANIMATION_FRAME 130.000000 0 0 
+*ANIMATION_FRAME 131.000000 0 0 
+*ANIMATION_FRAME 132.000000 0 0 
+*ANIMATION_FRAME 133.000000 0 0 
+*ANIMATION_FRAME 134.000000 0 0 
+*ANIMATION_FRAME 135.000000 0 0 
+*ANIMATION_FRAME 136.000000 0 0 
+*ANIMATION_FRAME 137.000000 0 0 
+*ANIMATION_FRAME 138.000000 0 0 
+*ANIMATION_FRAME 139.000000 0 0 
+*ANIMATION_FRAME 140.000000 0 0 
+*ANIMATION_FRAME 141.000000 0 0 
+*ANIMATION_FRAME 142.000000 0 0 
+*ANIMATION_FRAME 143.000000 0 0 
+*ANIMATION_FRAME 144.000000 0 0 
+*ANIMATION_FRAME 145.000000 0 0 
+*ANIMATION_FRAME 146.000000 0 0 
+*ANIMATION_FRAME 147.000000 0 0 
+*ANIMATION_FRAME 148.000000 0 0 
+*ANIMATION_FRAME 149.000000 0 0 
+*ANIMATION_FRAME 150.000000 0 0 
+*ANIMATION_FRAME 151.000000 0 0 
+*ANIMATION_FRAME 152.000000 0 0 
+*ANIMATION_FRAME 153.000000 0 0 
+*ANIMATION_FRAME 154.000000 0 0 
+*ANIMATION_FRAME 155.000000 0 0 
+*ANIMATION_FRAME 156.000000 0 0 
+*ANIMATION_FRAME 157.000000 0 0 
+*ANIMATION_FRAME 158.000000 0 0 
+*ANIMATION_FRAME 159.000000 0 0 
+*ANIMATION_FRAME 160.000000 0 0 
+*ANIMATION_FRAME 161.000000 0 0 
+*ANIMATION_FRAME 162.000000 0 0 
+*ANIMATION_FRAME 163.000000 0 0 
+*ANIMATION_FRAME 164.000000 0 0 
+*ANIMATION_FRAME 165.000000 0 0 
+*ANIMATION_FRAME 166.000000 0 0 
+*ANIMATION_FRAME 167.000000 0 0 
+*ANIMATION_FRAME 168.000000 0 0 
+*ANIMATION_FRAME 169.000000 0 0 
+*ANIMATION_FRAME 170.000000 0 0 
+*ANIMATION_FRAME 171.000000 0 0 
+*ANIMATION_FRAME 172.000000 0 0 
+*ANIMATION_FRAME 173.000000 0 0 
+*ANIMATION_FRAME 174.000000 0 0 
+*ANIMATION_FRAME 175.000000 0 0 
+*ANIMATION_FRAME 176.000000 0 0 
+*ANIMATION_FRAME 177.000000 0 0 
+*ANIMATION_FRAME 178.000000 0 0 
+*ANIMATION_FRAME 179.000000 0 0 
+*ANIMATION_FRAME 180.000000 0 0 
+*ANIMATION_FRAME 181.000000 0 0 
+*ANIMATION_FRAME 182.000000 0 0 
+*ANIMATION_FRAME 183.000000 0 0 
+*ANIMATION_FRAME 184.000000 0 0 
+*ANIMATION_FRAME 185.000000 0 0 
+*ANIMATION_FRAME 186.000000 0 0 
+*ANIMATION_FRAME 187.000000 0 0 
+*ANIMATION_FRAME 188.000000 0 0 
+*ANIMATION_FRAME 189.000000 0 0 
+*ANIMATION_FRAME 190.000000 0 0 
+*ANIMATION_FRAME 191.000000 0 0 
+*ANIMATION_FRAME 192.000000 0 0 
+*ANIMATION_FRAME 193.000000 0 0 
+*ANIMATION_FRAME 194.000000 0 0 
+*ANIMATION_FRAME 195.000000 0 0 
+*ANIMATION_FRAME 196.000000 0 0 
+*ANIMATION_FRAME 197.000000 0 0 
+*ANIMATION_FRAME 198.000000 0 0 
+*ANIMATION_FRAME 199.000000 0 0 
+*ANIMATION_FRAME 200.000000 0 0 
+*ANIMATION_FRAME 201.000000 0 0 
+*ANIMATION_FRAME 202.000000 0 0 
+*ANIMATION_FRAME 203.000000 0 0 
+*ANIMATION_FRAME 204.000000 0 0 
+*ANIMATION_FRAME 205.000000 0 0 
+*ANIMATION_FRAME 206.000000 0 0 
+*ANIMATION_FRAME 207.000000 0 0 
+~ Activate `main_dlg_cur` `stopBtn`
+!Command AnimCmdDummy was pushed from the software.
+~ Enter `main_dlg_cur` `time_scale` 3 599 2 0
+~ Move `main_dlg_cur` `time_scale` 3 599 2 0
+~ Move `main_dlg_cur` `time_scale` 3 608 7 0
+~ Move `main_dlg_cur` `time_scale` 3 616 12 0
+~ Move `main_dlg_cur` `time_scale` 3 622 15 0
+~ Move `main_dlg_cur` `time_scale` 3 632 22 0
+~ Move `main_dlg_cur` `time_scale` 3 639 26 0
+~ Move `main_dlg_cur` `time_scale` 3 640 27 0
+~ Move `main_dlg_cur` `time_scale` 3 642 28 0
+~ Move `main_dlg_cur` `time_scale` 3 648 31 0
+~ Move `main_dlg_cur` `time_scale` 3 654 34 0
+~ Move `main_dlg_cur` `time_scale` 3 658 37 0
+~ Move `main_dlg_cur` `time_scale` 3 661 39 0
+~ Exit `main_dlg_cur` `time_scale` 3 667 44 0
+~ Command `ProCmdViewSpinCntr`  0
+!%CISpin Center will not be displayed.
+~ Command `AnimCmdCapture` 
+~ Move `capture` `capture` 2 2.863813 4.171206
+~ Open `capture` `FileResolution`
+~ Close `capture` `FileResolution`
+~ Select `capture` `FileResolution` 1 `1920 x1368`
+~ Open `capture` `OutputTypeMenu`
+~ Close `capture` `OutputTypeMenu`
+~ Select `capture` `OutputTypeMenu` 1 `AVI`
+~ Update `capture` `WidthPanel` `1920`
+~ Activate `capture` `WidthPanel`
+~ FocusOut `capture` `WidthPanel`
+~ LButtonArm `main_dlg_cur` `drawinarea_resizer` 3 3 688 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 3 688 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 4 688 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 5 688 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 6 688 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 8 688 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 12 688 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 16 688 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 21 688 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 22 688 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 25 688 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 26 688 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 29 688 0
+< 0 1.160296 2390 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 66 691 0
+< 0 1.160296 2376 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 79 692 0
+< 0 1.160296 2349 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 85 692 0
+< 0 1.160296 2322 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 112 692 0
+< 0 1.160296 2295 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 129 692 0
+< 0 1.160296 2268 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 143 692 0
+< 0 1.160296 2228 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 136 692 0
+< 0 1.160296 2187 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 120 692 0
+< 0 1.160296 2160 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 117 692 0
+< 0 1.160296 2133 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 118 692 0
+< 0 1.160296 2106 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 125 692 0
+< 0 1.160296 2079 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 115 692 0
+< 0 1.160296 2052 0 0 979 2880 0 0 1800 13
+~ LButtonDisarm `main_dlg_cur` `drawinarea_resizer` 3 88 692 0
+~ LButtonArm `main_dlg_cur` `drawinarea_resizer` 3 4 710 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 5 710 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 8 710 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 13 710 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 17 710 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 21 710 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 28 710 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 29 710 0
+< 0 1.160296 2039 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 52 710 0
+< 0 1.160296 2026 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 87 710 0
+< 0 1.160296 1998 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 110 710 0
+< 0 1.160296 1971 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 136 710 0
+< 0 1.160296 1931 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 166 710 0
+< 0 1.160296 1890 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 186 710 0
+< 0 1.160296 1836 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 239 710 0
+< 0 1.160296 1769 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 257 710 0
+< 0 1.160296 1701 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 256 710 0
+< 0 1.160296 1634 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 221 709 0
+< 0 1.160296 1580 0 0 979 2880 0 0 1800 13
+~ LButtonDisarm `main_dlg_cur` `drawinarea_resizer` 3 167 709 0
+~ LButtonArm `main_dlg_cur` `drawinarea_resizer` 3 3 609 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 4 609 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 6 609 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 8 609 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 12 609 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 15 609 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 19 609 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 23 609 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 24 609 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 27 609 0
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 33 609 0
+< 0 1.160296 1567 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 39 609 0
+< 0 1.160296 1553 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 63 609 0
+< 0 1.160296 1539 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 85 610 0
+< 0 1.160296 1512 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 105 610 0
+< 0 1.160296 1485 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 102 610 0
+< 0 1.160296 1458 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 102 610 0
+< 0 1.160296 1431 0 0 979 2880 0 0 1800 13
+~ Move `main_dlg_cur` `drawinarea_resizer` 3 80 610 0
+< 0 1.160296 1404 0 0 979 2880 0 0 1800 13
+~ LButtonDisarm `main_dlg_cur` `drawinarea_resizer` 3 53 610 0
+~ FocusOut `capture` `WidthPanel`
+~ Open `capture` `FPSMenu`
+~ Close `capture` `FPSMenu`
+~ Select `capture` `FPSMenu` 1 `30`
+~ Activate `capture` `BrowsePB`
+~ Activate `file_saveas` `desktop_pb`
+~ Update `file_saveas` `Inputname` `part`
+~ Activate `file_saveas` `OK`
+~ Activate `capture` `OK`
+!%CIGenerating frame 0 of 600
+!%CIGenerating frame 1 of 600
+!%CIGenerating frame 2 of 600
+!%CIGenerating frame 3 of 600
+!%CIGenerating frame 4 of 600
+!%CIGenerating frame 5 of 600
+!%CIGenerating frame 6 of 600
+!%CIGenerating frame 7 of 600
+!%CIGenerating frame 8 of 600
+!%CIGenerating frame 9 of 600
+!%CIGenerating frame 10 of 600
+!%CIGenerating frame 11 of 600
+!%CIGenerating frame 12 of 600
+!%CIGenerating frame 13 of 600
+!%CIGenerating frame 14 of 600
+!%CIGenerating frame 15 of 600
+!%CIGenerating frame 16 of 600
+!%CIGenerating frame 17 of 600
+!%CIGenerating frame 18 of 600
+!%CIGenerating frame 19 of 600
+!%CIGenerating frame 20 of 600
+!%CIGenerating frame 21 of 600
+!%CIGenerating frame 22 of 600
+!%CIGenerating frame 23 of 600
+!%CIGenerating frame 24 of 600
+!%CIGenerating frame 25 of 600
+!%CIGenerating frame 26 of 600
+!%CIGenerating frame 27 of 600
+!%CIGenerating frame 28 of 600
+!%CIGenerating frame 29 of 600
+!%CIGenerating frame 30 of 600
+!%CIGenerating frame 31 of 600
+!%CIGenerating frame 32 of 600
+!%CIGenerating frame 33 of 600
+!%CIGenerating frame 34 of 600
+!%CIGenerating frame 35 of 600
+!%CIGenerating frame 36 of 600
+!%CIGenerating frame 37 of 600
+!%CIGenerating frame 38 of 600
+!%CIGenerating frame 39 of 600
+!%CIGenerating frame 40 of 600
+!%CIGenerating frame 41 of 600
+!%CIGenerating frame 42 of 600
+!%CIGenerating frame 43 of 600
+!%CIGenerating frame 44 of 600
+!%CIGenerating frame 45 of 600
+!%CIGenerating frame 46 of 600
+!%CIGenerating frame 47 of 600
+!%CIGenerating frame 48 of 600
+!%CIGenerating frame 49 of 600
+!%CIGenerating frame 50 of 600
+!%CIGenerating frame 51 of 600
+!%CIGenerating frame 52 of 600
+!%CIGenerating frame 53 of 600
+!%CIGenerating frame 54 of 600
+!%CIGenerating frame 55 of 600
+!%CIGenerating frame 56 of 600
+!%CIGenerating frame 57 of 600
+!%CIGenerating frame 58 of 600
+!%CIGenerating frame 59 of 600
+!%CIGenerating frame 60 of 600
+!%CIGenerating frame 61 of 600
+!%CIGenerating frame 62 of 600
+!%CIGenerating frame 63 of 600
+!%CIGenerating frame 64 of 600
+!%CIGenerating frame 65 of 600
+!%CIGenerating frame 66 of 600
+!%CIGenerating frame 67 of 600
+!%CIGenerating frame 68 of 600
+!%CIGenerating frame 69 of 600
+!%CIGenerating frame 70 of 600
+!%CIGenerating frame 71 of 600
+!%CIGenerating frame 72 of 600
+!%CIGenerating frame 73 of 600
+!%CIGenerating frame 74 of 600
+!%CIGenerating frame 75 of 600
+!%CIGenerating frame 76 of 600
+!%CIGenerating frame 77 of 600
+!%CIGenerating frame 78 of 600
+!%CIGenerating frame 79 of 600
+!%CIGenerating frame 80 of 600
+!%CIGenerating frame 81 of 600
+!%CIGenerating frame 82 of 600
+!%CIGenerating frame 83 of 600
+!%CIGenerating frame 84 of 600
+!%CIGenerating frame 85 of 600
+!%CIGenerating frame 86 of 600
+!%CIGenerating frame 87 of 600
+!%CIGenerating frame 88 of 600
+!%CIGenerating frame 89 of 600
+!%CIGenerating frame 90 of 600
+!%CIGenerating frame 91 of 600
+!%CIGenerating frame 92 of 600
+!%CIGenerating frame 93 of 600
+!%CIGenerating frame 94 of 600
+!%CIGenerating frame 95 of 600
+!%CIGenerating frame 96 of 600
+!%CIGenerating frame 97 of 600
+!%CIGenerating frame 98 of 600
+!%CIGenerating frame 99 of 600
+!%CIGenerating frame 100 of 600
+!%CIGenerating frame 101 of 600
+!%CIGenerating frame 102 of 600
+!%CIGenerating frame 103 of 600
+!%CIGenerating frame 104 of 600
+!%CIGenerating frame 105 of 600
+!%CIGenerating frame 106 of 600
+!%CIGenerating frame 107 of 600
+!%CIGenerating frame 108 of 600
+!%CIGenerating frame 109 of 600
+!%CIGenerating frame 110 of 600
+!%CIGenerating frame 111 of 600
+!%CIGenerating frame 112 of 600
+!%CIGenerating frame 113 of 600
+!%CIGenerating frame 114 of 600
+!%CIGenerating frame 115 of 600
+!%CIGenerating frame 116 of 600
+!%CIGenerating frame 117 of 600
+!%CIGenerating frame 118 of 600
+!%CIGenerating frame 119 of 600
+!%CIGenerating frame 120 of 600
+!%CIGenerating frame 121 of 600
+!%CIGenerating frame 122 of 600
+!%CIGenerating frame 123 of 600
+!%CIGenerating frame 124 of 600
+!%CIGenerating frame 125 of 600
+!%CIGenerating frame 126 of 600
+!%CIGenerating frame 127 of 600
+!%CIGenerating frame 128 of 600
+!%CIGenerating frame 129 of 600
+!%CIGenerating frame 130 of 600
+!%CIGenerating frame 131 of 600
+!%CIGenerating frame 132 of 600
+!%CIGenerating frame 133 of 600
+!%CIGenerating frame 134 of 600
+!%CIGenerating frame 135 of 600
+!%CIGenerating frame 136 of 600
+!%CIGenerating frame 137 of 600
+!%CIGenerating frame 138 of 600
+!%CIGenerating frame 139 of 600
+!%CIGenerating frame 140 of 600
+!%CIGenerating frame 141 of 600
+!%CIGenerating frame 142 of 600
+!%CIGenerating frame 143 of 600
+!%CIGenerating frame 144 of 600
+!%CIGenerating frame 145 of 600
+!%CIGenerating frame 146 of 600
+!%CIGenerating frame 147 of 600
+!%CIGenerating frame 148 of 600
+!%CIGenerating frame 149 of 600
+!%CIGenerating frame 150 of 600
+!%CIGenerating frame 151 of 600
+!%CIGenerating frame 152 of 600
+!%CIGenerating frame 153 of 600
+!%CIGenerating frame 154 of 600
+!%CIGenerating frame 155 of 600
+!%CIGenerating frame 156 of 600
+!%CIGenerating frame 157 of 600
+!%CIGenerating frame 158 of 600
+!%CIGenerating frame 159 of 600
+!%CIGenerating frame 160 of 600
+!%CIGenerating frame 161 of 600
+!%CIGenerating frame 162 of 600
+!%CIGenerating frame 163 of 600
+!%CIGenerating frame 164 of 600
+!%CIGenerating frame 165 of 600
+!%CIGenerating frame 166 of 600
+!%CIGenerating frame 167 of 600
+!%CIGenerating frame 168 of 600
+!%CIGenerating frame 169 of 600
+!%CIGenerating frame 170 of 600
+!%CIGenerating frame 171 of 600
+!%CIGenerating frame 172 of 600
+!%CIGenerating frame 173 of 600
+!%CIGenerating frame 174 of 600
+!%CIGenerating frame 175 of 600
+!%CIGenerating frame 176 of 600
+!%CIGenerating frame 177 of 600
+!%CIGenerating frame 178 of 600
+!%CIGenerating frame 179 of 600
+!%CIGenerating frame 180 of 600
+!%CIGenerating frame 181 of 600
+!%CIGenerating frame 182 of 600
+!%CIGenerating frame 183 of 600
+!%CIGenerating frame 184 of 600
+!%CIGenerating frame 185 of 600
+!%CIGenerating frame 186 of 600
+!%CIGenerating frame 187 of 600
+!%CIGenerating frame 188 of 600
+!%CIGenerating frame 189 of 600
+!%CIGenerating frame 190 of 600
+!%CIGenerating frame 191 of 600
+!%CIGenerating frame 192 of 600
+!%CIGenerating frame 193 of 600
+!%CIGenerating frame 194 of 600
+!%CIGenerating frame 195 of 600
+!%CIGenerating frame 196 of 600
+!%CIGenerating frame 197 of 600
+!%CIGenerating frame 198 of 600
+!%CIGenerating frame 199 of 600
+!%CIGenerating frame 200 of 600
+!%CIGenerating frame 201 of 600
+!%CIGenerating frame 202 of 600
+!%CIGenerating frame 203 of 600
+!%CIGenerating frame 204 of 600
+!%CIGenerating frame 205 of 600
+!%CIGenerating frame 206 of 600
+!%CIGenerating frame 207 of 600
+!%CIGenerating frame 208 of 600
+!%CIGenerating frame 209 of 600
+!%CIGenerating frame 210 of 600
+!%CIGenerating frame 211 of 600
+!%CIGenerating frame 212 of 600
+!%CIGenerating frame 213 of 600
+!%CIGenerating frame 214 of 600
+!%CIGenerating frame 215 of 600
+!%CIGenerating frame 216 of 600
+!%CIGenerating frame 217 of 600
+!%CIGenerating frame 218 of 600
+!%CIGenerating frame 219 of 600
+!%CIGenerating frame 220 of 600
+!%CIGenerating frame 221 of 600
+!%CIGenerating frame 222 of 600
+!%CIGenerating frame 223 of 600
+!%CIGenerating frame 224 of 600
+!%CIGenerating frame 225 of 600
+!%CIGenerating frame 226 of 600
+!%CIGenerating frame 227 of 600
+!%CIGenerating frame 228 of 600
+!%CIGenerating frame 229 of 600
+!%CIGenerating frame 230 of 600
+!%CIGenerating frame 231 of 600
+!%CIGenerating frame 232 of 600
+!%CIGenerating frame 233 of 600
+!%CIGenerating frame 234 of 600
+!%CIGenerating frame 235 of 600
+!%CIGenerating frame 236 of 600
+!%CIGenerating frame 237 of 600
+!%CIGenerating frame 238 of 600
+!%CIGenerating frame 239 of 600
+!%CIGenerating frame 240 of 600
+!%CIGenerating frame 241 of 600
+!%CIGenerating frame 242 of 600
+!%CIGenerating frame 243 of 600
+!%CIGenerating frame 244 of 600
+!%CIGenerating frame 245 of 600
+!%CIGenerating frame 246 of 600
+!%CIGenerating frame 247 of 600
+!%CIGenerating frame 248 of 600
+!%CIGenerating frame 249 of 600
+!%CIGenerating frame 250 of 600
+!%CIGenerating frame 251 of 600
+!%CIGenerating frame 252 of 600
+!%CIGenerating frame 253 of 600
+!%CIGenerating frame 254 of 600
+!%CIGenerating frame 255 of 600
+!%CIGenerating frame 256 of 600
+!%CIGenerating frame 257 of 600
+!%CIGenerating frame 258 of 600
+!%CIGenerating frame 259 of 600
+!%CIGenerating frame 260 of 600
+!%CIGenerating frame 261 of 600
+!%CIGenerating frame 262 of 600
+!%CIGenerating frame 263 of 600
+!%CIGenerating frame 264 of 600
+!%CIGenerating frame 265 of 600
+!%CIGenerating frame 266 of 600
+!%CIGenerating frame 267 of 600
+!%CIGenerating frame 268 of 600
+!%CIGenerating frame 269 of 600
+!%CIGenerating frame 270 of 600
+!%CIGenerating frame 271 of 600
+!%CIGenerating frame 272 of 600
+!%CIGenerating frame 273 of 600
+!%CIGenerating frame 274 of 600
+!%CIGenerating frame 275 of 600
+!%CIGenerating frame 276 of 600
+!%CIGenerating frame 277 of 600
+!%CIGenerating frame 278 of 600
+!%CIGenerating frame 279 of 600
+!%CIGenerating frame 280 of 600
+!%CIGenerating frame 281 of 600
+!%CIGenerating frame 282 of 600
+!%CIGenerating frame 283 of 600
+!%CIGenerating frame 284 of 600
+!%CIGenerating frame 285 of 600
+!%CIGenerating frame 286 of 600
+!%CIGenerating frame 287 of 600
+!%CIGenerating frame 288 of 600
+!%CIGenerating frame 289 of 600
+!%CIGenerating frame 290 of 600
+!%CIGenerating frame 291 of 600
+!%CIGenerating frame 292 of 600
+!%CIGenerating frame 293 of 600
+!%CIGenerating frame 294 of 600
+!%CIGenerating frame 295 of 600
+!%CIGenerating frame 296 of 600
+!%CIGenerating frame 297 of 600
+!%CIGenerating frame 298 of 600
+!%CIGenerating frame 299 of 600
+!%CIGenerating frame 300 of 600
+!%CIGenerating frame 301 of 600
+!%CIGenerating frame 302 of 600
+!%CIGenerating frame 303 of 600
+!%CIGenerating frame 304 of 600
+!%CIGenerating frame 305 of 600
+!%CIGenerating frame 306 of 600
+!%CIGenerating frame 307 of 600
+!%CIGenerating frame 308 of 600
+!%CIGenerating frame 309 of 600
+!%CIGenerating frame 310 of 600
+!%CIGenerating frame 311 of 600
+!%CIGenerating frame 312 of 600
+!%CIGenerating frame 313 of 600
+!%CIGenerating frame 314 of 600
+!%CIGenerating frame 315 of 600
+!%CIGenerating frame 316 of 600
+!%CIGenerating frame 317 of 600
+!%CIGenerating frame 318 of 600
+!%CIGenerating frame 319 of 600
+!%CIGenerating frame 320 of 600
+!%CIGenerating frame 321 of 600
+!%CIGenerating frame 322 of 600
+!%CIGenerating frame 323 of 600
+!%CIGenerating frame 324 of 600
+!%CIGenerating frame 325 of 600
+!%CIGenerating frame 326 of 600
+!%CIGenerating frame 327 of 600
+!%CIGenerating frame 328 of 600
+!%CIGenerating frame 329 of 600
+!%CIGenerating frame 330 of 600
+!%CIGenerating frame 331 of 600
+!%CIGenerating frame 332 of 600
+!%CIGenerating frame 333 of 600
+!%CIGenerating frame 334 of 600
+!%CIGenerating frame 335 of 600
+!%CIGenerating frame 336 of 600
+!%CIGenerating frame 337 of 600
+!%CIGenerating frame 338 of 600
+!%CIGenerating frame 339 of 600
+!%CIGenerating frame 340 of 600
+!%CIGenerating frame 341 of 600
+!%CIGenerating frame 342 of 600
+!%CIGenerating frame 343 of 600
+!%CIGenerating frame 344 of 600
+!%CIGenerating frame 345 of 600
+!%CIGenerating frame 346 of 600
+!%CIGenerating frame 347 of 600
+!%CIGenerating frame 348 of 600
+!%CIGenerating frame 349 of 600
+!%CIGenerating frame 350 of 600
+!%CIGenerating frame 351 of 600
+!%CIGenerating frame 352 of 600
+!%CIGenerating frame 353 of 600
+!%CIGenerating frame 354 of 600
+!%CIGenerating frame 355 of 600
+!%CIGenerating frame 356 of 600
+!%CIGenerating frame 357 of 600
+!%CIGenerating frame 358 of 600
+!%CIGenerating frame 359 of 600
+!%CIGenerating frame 360 of 600
+!%CIGenerating frame 361 of 600
+!%CIGenerating frame 362 of 600
+!%CIGenerating frame 363 of 600
+!%CIGenerating frame 364 of 600
+!%CIGenerating frame 365 of 600
+!%CIGenerating frame 366 of 600
+!%CIGenerating frame 367 of 600
+!%CIGenerating frame 368 of 600
+!%CIGenerating frame 369 of 600
+!%CIGenerating frame 370 of 600
+!%CIGenerating frame 371 of 600
+!%CIGenerating frame 372 of 600
+!%CIGenerating frame 373 of 600
+!%CIGenerating frame 374 of 600
+!%CIGenerating frame 375 of 600
+!%CIGenerating frame 376 of 600
+!%CIGenerating frame 377 of 600
+!%CIGenerating frame 378 of 600
+!%CIGenerating frame 379 of 600
+!%CIGenerating frame 380 of 600
+!%CIGenerating frame 381 of 600
+!%CIGenerating frame 382 of 600
+!%CIGenerating frame 383 of 600
+!%CIGenerating frame 384 of 600
+!%CIGenerating frame 385 of 600
+!%CIGenerating frame 386 of 600
+!%CIGenerating frame 387 of 600
+!%CIGenerating frame 388 of 600
+!%CIGenerating frame 389 of 600
+!%CIGenerating frame 390 of 600
+!%CIGenerating frame 391 of 600
+!%CIGenerating frame 392 of 600
+!%CIGenerating frame 393 of 600
+!%CIGenerating frame 394 of 600
+!%CIGenerating frame 395 of 600
+!%CIGenerating frame 396 of 600
+!%CIGenerating frame 397 of 600
+!%CIGenerating frame 398 of 600
+!%CIGenerating frame 399 of 600
+!%CIGenerating frame 400 of 600
+!%CIGenerating frame 401 of 600
+!%CIGenerating frame 402 of 600
+!%CIGenerating frame 403 of 600
+!%CIGenerating frame 404 of 600
+!%CIGenerating frame 405 of 600
+!%CIGenerating frame 406 of 600
+!%CIGenerating frame 407 of 600
+!%CIGenerating frame 408 of 600
+!%CIGenerating frame 409 of 600
+!%CIGenerating frame 410 of 600
+!%CIGenerating frame 411 of 600
+!%CIGenerating frame 412 of 600
+!%CIGenerating frame 413 of 600
+!%CIGenerating frame 414 of 600
+!%CIGenerating frame 415 of 600
+!%CIGenerating frame 416 of 600
+!%CIGenerating frame 417 of 600
+!%CIGenerating frame 418 of 600
+!%CIGenerating frame 419 of 600
+!%CIGenerating frame 420 of 600
+!%CIGenerating frame 421 of 600
+!%CIGenerating frame 422 of 600
+!%CIGenerating frame 423 of 600
+!%CIGenerating frame 424 of 600
+!%CIGenerating frame 425 of 600
+!%CIGenerating frame 426 of 600
+!%CIGenerating frame 427 of 600
+!%CIGenerating frame 428 of 600
+!%CIGenerating frame 429 of 600
+!%CIGenerating frame 430 of 600
+!%CIGenerating frame 431 of 600
+!%CIGenerating frame 432 of 600
+!%CIGenerating frame 433 of 600
+!%CIGenerating frame 434 of 600
+!%CIGenerating frame 435 of 600
+!%CIGenerating frame 436 of 600
+!%CIGenerating frame 437 of 600
+!%CIGenerating frame 438 of 600
+!%CIGenerating frame 439 of 600
+!%CIGenerating frame 440 of 600
+!%CIGenerating frame 441 of 600
+!%CIGenerating frame 442 of 600
+!%CIGenerating frame 443 of 600
+!%CIGenerating frame 444 of 600
+!%CIGenerating frame 445 of 600
+!%CIGenerating frame 446 of 600
+!%CIGenerating frame 447 of 600
+!%CIGenerating frame 448 of 600
+!%CIGenerating frame 449 of 600
+!%CIGenerating frame 450 of 600
+!%CIGenerating frame 451 of 600
+!%CIGenerating frame 452 of 600
+!%CIGenerating frame 453 of 600
+!%CIGenerating frame 454 of 600
+!%CIGenerating frame 455 of 600
+!%CIGenerating frame 456 of 600
+!%CIGenerating frame 457 of 600
+!%CIGenerating frame 458 of 600
+!%CIGenerating frame 459 of 600
+!%CIGenerating frame 460 of 600
+!%CIGenerating frame 461 of 600
+!%CIGenerating frame 462 of 600
+!%CIGenerating frame 463 of 600
+!%CIGenerating frame 464 of 600
+!%CIGenerating frame 465 of 600
+!%CIGenerating frame 466 of 600
+!%CIGenerating frame 467 of 600
+!%CIGenerating frame 468 of 600
+!%CIGenerating frame 469 of 600
+!%CIGenerating frame 470 of 600
+!%CIGenerating frame 471 of 600
+!%CIGenerating frame 472 of 600
+!%CIGenerating frame 473 of 600
+!%CIGenerating frame 474 of 600
+!%CIGenerating frame 475 of 600
+!%CIGenerating frame 476 of 600
+!%CIGenerating frame 477 of 600
+!%CIGenerating frame 478 of 600
+!%CIGenerating frame 479 of 600
+!%CIGenerating frame 480 of 600
+!%CIGenerating frame 481 of 600
+!%CIGenerating frame 482 of 600
+!%CIGenerating frame 483 of 600
+!%CIGenerating frame 484 of 600
+!%CIGenerating frame 485 of 600
+!%CIGenerating frame 486 of 600
+!%CIGenerating frame 487 of 600
+!%CIGenerating frame 488 of 600
+!%CIGenerating frame 489 of 600
+!%CIGenerating frame 490 of 600
+!%CIGenerating frame 491 of 600
+!%CIGenerating frame 492 of 600
+!%CIGenerating frame 493 of 600
+!%CIGenerating frame 494 of 600
+!%CIGenerating frame 495 of 600
+!%CIGenerating frame 496 of 600
+!%CIGenerating frame 497 of 600
+!%CIGenerating frame 498 of 600
+!%CIGenerating frame 499 of 600
+!%CIGenerating frame 500 of 600
+!%CIGenerating frame 501 of 600
+!%CIGenerating frame 502 of 600
+!%CIGenerating frame 503 of 600
+!%CIGenerating frame 504 of 600
+!%CIGenerating frame 505 of 600
+!%CIGenerating frame 506 of 600
+!%CIGenerating frame 507 of 600
+!%CIGenerating frame 508 of 600
+!%CIGenerating frame 509 of 600
+!%CIGenerating frame 510 of 600
+!%CIGenerating frame 511 of 600
+!%CIGenerating frame 512 of 600
+!%CIGenerating frame 513 of 600
+!%CIGenerating frame 514 of 600
+!%CIGenerating frame 515 of 600
+!%CIGenerating frame 516 of 600
+!%CIGenerating frame 517 of 600
+!%CIGenerating frame 518 of 600
+!%CIGenerating frame 519 of 600
+!%CIGenerating frame 520 of 600
+!%CIGenerating frame 521 of 600
+!%CIGenerating frame 522 of 600
+!%CIGenerating frame 523 of 600
+!%CIGenerating frame 524 of 600
+!%CIGenerating frame 525 of 600
+!%CIGenerating frame 526 of 600
+!%CIGenerating frame 527 of 600
+!%CIGenerating frame 528 of 600
+!%CIGenerating frame 529 of 600
+!%CIGenerating frame 530 of 600
+!%CIGenerating frame 531 of 600
+!%CIGenerating frame 532 of 600
+!%CIGenerating frame 533 of 600
+!%CIGenerating frame 534 of 600
+!%CIGenerating frame 535 of 600
+!%CIGenerating frame 536 of 600
+!%CIGenerating frame 537 of 600
+!%CIGenerating frame 538 of 600
+!%CIGenerating frame 539 of 600
+!%CIGenerating frame 540 of 600
+!%CIGenerating frame 541 of 600
+!%CIGenerating frame 542 of 600
+!%CIGenerating frame 543 of 600
+!%CIGenerating frame 544 of 600
+!%CIGenerating frame 545 of 600
+!%CIGenerating frame 546 of 600
+!%CIGenerating frame 547 of 600
+!%CIGenerating frame 548 of 600
+!%CIGenerating frame 549 of 600
+!%CIGenerating frame 550 of 600
+!%CIGenerating frame 551 of 600
+!%CIGenerating frame 552 of 600
+!%CIGenerating frame 553 of 600
+!%CIGenerating frame 554 of 600
+!%CIGenerating frame 555 of 600
+!%CIGenerating frame 556 of 600
+!%CIGenerating frame 557 of 600
+!%CIGenerating frame 558 of 600
+!%CIGenerating frame 559 of 600
+!%CIGenerating frame 560 of 600
+!%CIGenerating frame 561 of 600
+!%CIGenerating frame 562 of 600
+!%CIGenerating frame 563 of 600
+!%CIGenerating frame 564 of 600
+!%CIGenerating frame 565 of 600
+!%CIGenerating frame 566 of 600
+!%CIGenerating frame 567 of 600
+!%CIGenerating frame 568 of 600
+!%CIGenerating frame 569 of 600
+!%CIGenerating frame 570 of 600
+!%CIGenerating frame 571 of 600
+!%CIGenerating frame 572 of 600
+!%CIGenerating frame 573 of 600
+!%CIGenerating frame 574 of 600
+!%CIGenerating frame 575 of 600
+!%CIGenerating frame 576 of 600
+!%CIGenerating frame 577 of 600
+!%CIGenerating frame 578 of 600
+!%CIGenerating frame 579 of 600
+!%CIGenerating frame 580 of 600
+!%CIGenerating frame 581 of 600
+!%CIGenerating frame 582 of 600
+!%CIGenerating frame 583 of 600
+!%CIGenerating frame 584 of 600
+!%CIGenerating frame 585 of 600
+!%CIGenerating frame 586 of 600
+!%CIGenerating frame 587 of 600
+!%CIGenerating frame 588 of 600
+!%CIGenerating frame 589 of 600
+!%CIGenerating frame 590 of 600
+!%CIGenerating frame 591 of 600
+!%CIGenerating frame 592 of 600
+!%CIGenerating frame 593 of 600
+!%CIGenerating frame 594 of 600
+!%CIGenerating frame 595 of 600
+!%CIGenerating frame 596 of 600
+!%CIGenerating frame 597 of 600
+!%CIGenerating frame 598 of 600
+!%CIGenerating frame 599 of 600
+!%CIGenerating frame 600 of 600
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Enter `main_dlg_cur` `time_scale` 3 688 30 0
+~ Move `main_dlg_cur` `time_scale` 3 688 30 0
+~ Move `main_dlg_cur` `time_scale` 3 701 20 0
+~ Move `main_dlg_cur` `time_scale` 3 714 9 0
+~ Move `main_dlg_cur` `time_scale` 3 727 0 0
+~ Exit `main_dlg_cur` `time_scale` 3 740 -11 0
+~ Enter `main_dlg_cur` `time_scale` 3 224 39 0
+~ Move `main_dlg_cur` `time_scale` 3 224 39 0
+~ Move `main_dlg_cur` `time_scale` 3 224 34 0
+~ Move `main_dlg_cur` `time_scale` 3 224 27 0
+~ Move `main_dlg_cur` `time_scale` 3 224 22 0
+~ Move `main_dlg_cur` `time_scale` 3 224 15 0
+~ Move `main_dlg_cur` `time_scale` 3 224 11 0
+~ Move `main_dlg_cur` `time_scale` 3 224 4 0
+~ Move `main_dlg_cur` `time_scale` 3 224 3 0
+~ Exit `main_dlg_cur` `time_scale` 3 223 -1 0
+~ Command `AnimCmdCapture` 
+~ Open `capture` `OutputTypeMenu`
+~ Close `capture` `OutputTypeMenu`
+~ Open `capture` `FileResolution`
+~ Close `capture` `FileResolution`
+~ Select `capture` `FileResolution` 1 `1600 x 1140`
+~ Open `capture` `FPSMenu`
+~ Close `capture` `FPSMenu`
+~ Select `capture` `FPSMenu` 1 `30`
+~ Activate `capture` `PhotoRenderCB` 1
+~ Activate `capture` `PhotoRealSettings`
+~ Activate `renderframeoption` `Cancel`
+~ Activate `capture` `PhotoRenderCB` 0
+~ Activate `capture` `OK`
+!%CIGenerating frame 0 of 600
+!%CIGenerating frame 1 of 600
+!%CIGenerating frame 2 of 600
+!%CIGenerating frame 3 of 600
+!%CIGenerating frame 4 of 600
+!%CIGenerating frame 5 of 600
+!%CIGenerating frame 6 of 600
+!%CIGenerating frame 7 of 600
+!%CIGenerating frame 8 of 600
+!%CIGenerating frame 9 of 600
+!%CIGenerating frame 10 of 600
+!%CIGenerating frame 11 of 600
+!%CIGenerating frame 12 of 600
+!%CIGenerating frame 13 of 600
+!%CIGenerating frame 14 of 600
+!%CIGenerating frame 15 of 600
+!%CIGenerating frame 16 of 600
+!%CIGenerating frame 17 of 600
+!%CIGenerating frame 18 of 600
+!%CIGenerating frame 19 of 600
+!%CIGenerating frame 20 of 600
+!%CIGenerating frame 21 of 600
+!%CIGenerating frame 22 of 600
+!%CIGenerating frame 23 of 600
+!%CIGenerating frame 24 of 600
+!%CIGenerating frame 25 of 600
+!%CIGenerating frame 26 of 600
+!%CIGenerating frame 27 of 600
+!%CIGenerating frame 28 of 600
+!%CIGenerating frame 29 of 600
+!%CIGenerating frame 30 of 600
+!%CIGenerating frame 31 of 600
+!%CIGenerating frame 32 of 600
+!%CIGenerating frame 33 of 600
+!%CIGenerating frame 34 of 600
+!%CIGenerating frame 35 of 600
+!%CIGenerating frame 36 of 600
+!%CIGenerating frame 37 of 600
+!%CIGenerating frame 38 of 600
+!%CIGenerating frame 39 of 600
+!%CIGenerating frame 40 of 600
+!%CIGenerating frame 41 of 600
+!%CIGenerating frame 42 of 600
+!%CIGenerating frame 43 of 600
+!%CIGenerating frame 44 of 600
+!%CIGenerating frame 45 of 600
+!%CIGenerating frame 46 of 600
+!%CIGenerating frame 47 of 600
+!%CIGenerating frame 48 of 600
+!%CIGenerating frame 49 of 600
+!%CIGenerating frame 50 of 600
+!%CIGenerating frame 51 of 600
+!%CIGenerating frame 52 of 600
+!%CIGenerating frame 53 of 600
+!%CIGenerating frame 54 of 600
+!%CIGenerating frame 55 of 600
+!%CIGenerating frame 56 of 600
+!%CIGenerating frame 57 of 600
+!%CIGenerating frame 58 of 600
+!%CIGenerating frame 59 of 600
+!%CIGenerating frame 60 of 600
+!%CIGenerating frame 61 of 600
+!%CIGenerating frame 62 of 600
+!%CIGenerating frame 63 of 600
+!%CIGenerating frame 64 of 600
+!%CIGenerating frame 65 of 600
+!%CIGenerating frame 66 of 600
+!%CIGenerating frame 67 of 600
+!%CIGenerating frame 68 of 600
+!%CIGenerating frame 69 of 600
+!%CIGenerating frame 70 of 600
+!%CIGenerating frame 71 of 600
+!%CIGenerating frame 72 of 600
+!%CIGenerating frame 73 of 600
+!%CIGenerating frame 74 of 600
+!%CIGenerating frame 75 of 600
+!%CIGenerating frame 76 of 600
+!%CIGenerating frame 77 of 600
+!%CIGenerating frame 78 of 600
+!%CIGenerating frame 79 of 600
+!%CIGenerating frame 80 of 600
+!%CIGenerating frame 81 of 600
+!%CIGenerating frame 82 of 600
+!%CIGenerating frame 83 of 600
+!%CIGenerating frame 84 of 600
+!%CIGenerating frame 85 of 600
+!%CIGenerating frame 86 of 600
+!%CIGenerating frame 87 of 600
+!%CIGenerating frame 88 of 600
+!%CIGenerating frame 89 of 600
+!%CIGenerating frame 90 of 600
+!%CIGenerating frame 91 of 600
+!%CIGenerating frame 92 of 600
+!%CIGenerating frame 93 of 600
+!%CIGenerating frame 94 of 600
+!%CIGenerating frame 95 of 600
+!%CIGenerating frame 96 of 600
+!%CIGenerating frame 97 of 600
+!%CIGenerating frame 98 of 600
+!%CIGenerating frame 99 of 600
+!%CIGenerating frame 100 of 600
+!%CIGenerating frame 101 of 600
+!%CIGenerating frame 102 of 600
+!%CIGenerating frame 103 of 600
+!%CIGenerating frame 104 of 600
+!%CIGenerating frame 105 of 600
+!%CIGenerating frame 106 of 600
+!%CIGenerating frame 107 of 600
+!%CIGenerating frame 108 of 600
+!%CIGenerating frame 109 of 600
+!%CIGenerating frame 110 of 600
+!%CIGenerating frame 111 of 600
+!%CIGenerating frame 112 of 600
+!%CIGenerating frame 113 of 600
+!%CIGenerating frame 114 of 600
+!%CIGenerating frame 115 of 600
+!%CIGenerating frame 116 of 600
+!%CIGenerating frame 117 of 600
+!%CIGenerating frame 118 of 600
+!%CIGenerating frame 119 of 600
+!%CIGenerating frame 120 of 600
+!%CIGenerating frame 121 of 600
+!%CIGenerating frame 122 of 600
+!%CIGenerating frame 123 of 600
+!%CIGenerating frame 124 of 600
+!%CIGenerating frame 125 of 600
+!%CIGenerating frame 126 of 600
+!%CIGenerating frame 127 of 600
+!%CIGenerating frame 128 of 600
+!%CIGenerating frame 129 of 600
+!%CIGenerating frame 130 of 600
+!%CIGenerating frame 131 of 600
+!%CIGenerating frame 132 of 600
+!%CIGenerating frame 133 of 600
+!%CIGenerating frame 134 of 600
+!%CIGenerating frame 135 of 600
+!%CIGenerating frame 136 of 600
+!%CIGenerating frame 137 of 600
+!%CIGenerating frame 138 of 600
+!%CIGenerating frame 139 of 600
+!%CIGenerating frame 140 of 600
+!%CIGenerating frame 141 of 600
+!%CIGenerating frame 142 of 600
+!%CIGenerating frame 143 of 600
+!%CIGenerating frame 144 of 600
+!%CIGenerating frame 145 of 600
+!%CIGenerating frame 146 of 600
+!%CIGenerating frame 147 of 600
+!%CIGenerating frame 148 of 600
+!%CIGenerating frame 149 of 600
+!%CIGenerating frame 150 of 600
+!%CIGenerating frame 151 of 600
+!%CIGenerating frame 152 of 600
+!%CIGenerating frame 153 of 600
+!%CIGenerating frame 154 of 600
+!%CIGenerating frame 155 of 600
+!%CIGenerating frame 156 of 600
+!%CIGenerating frame 157 of 600
+!%CIGenerating frame 158 of 600
+!%CIGenerating frame 159 of 600
+!%CIGenerating frame 160 of 600
+!%CIGenerating frame 161 of 600
+!%CIGenerating frame 162 of 600
+!%CIGenerating frame 163 of 600
+!%CIGenerating frame 164 of 600
+!%CIGenerating frame 165 of 600
+!%CIGenerating frame 166 of 600
+!%CIGenerating frame 167 of 600
+!%CIGenerating frame 168 of 600
+!%CIGenerating frame 169 of 600
+!%CIGenerating frame 170 of 600
+!%CIGenerating frame 171 of 600
+!%CIGenerating frame 172 of 600
+!%CIGenerating frame 173 of 600
+!%CIGenerating frame 174 of 600
+!%CIGenerating frame 175 of 600
+!%CIGenerating frame 176 of 600
+!%CIGenerating frame 177 of 600
+!%CIGenerating frame 178 of 600
+!%CIGenerating frame 179 of 600
+!%CIGenerating frame 180 of 600
+!%CIGenerating frame 181 of 600
+!%CIGenerating frame 182 of 600
+!%CIGenerating frame 183 of 600
+!%CIGenerating frame 184 of 600
+!%CIGenerating frame 185 of 600
+!%CIGenerating frame 186 of 600
+!%CIGenerating frame 187 of 600
+!%CIGenerating frame 188 of 600
+!%CIGenerating frame 189 of 600
+!%CIGenerating frame 190 of 600
+!%CIGenerating frame 191 of 600
+!%CIGenerating frame 192 of 600
+!%CIGenerating frame 193 of 600
+!%CIGenerating frame 194 of 600
+!%CIGenerating frame 195 of 600
+!%CIGenerating frame 196 of 600
+!%CIGenerating frame 197 of 600
+!%CIGenerating frame 198 of 600
+!%CIGenerating frame 199 of 600
+!%CIGenerating frame 200 of 600
+!%CIGenerating frame 201 of 600
+!%CIGenerating frame 202 of 600
+!%CIGenerating frame 203 of 600
+!%CIGenerating frame 204 of 600
+!%CIGenerating frame 205 of 600
+!%CIGenerating frame 206 of 600
+!%CIGenerating frame 207 of 600
+!%CIGenerating frame 208 of 600
+!%CIGenerating frame 209 of 600
+!%CIGenerating frame 210 of 600
+!%CIGenerating frame 211 of 600
+!%CIGenerating frame 212 of 600
+!%CIGenerating frame 213 of 600
+!%CIGenerating frame 214 of 600
+!%CIGenerating frame 215 of 600
+!%CIGenerating frame 216 of 600
+!%CIGenerating frame 217 of 600
+!%CIGenerating frame 218 of 600
+!%CIGenerating frame 219 of 600
+!%CIGenerating frame 220 of 600
+!%CIGenerating frame 221 of 600
+!%CIGenerating frame 222 of 600
+!%CIGenerating frame 223 of 600
+!%CIGenerating frame 224 of 600
+!%CIGenerating frame 225 of 600
+!%CIGenerating frame 226 of 600
+!%CIGenerating frame 227 of 600
+!%CIGenerating frame 228 of 600
+!%CIGenerating frame 229 of 600
+!%CIGenerating frame 230 of 600
+!%CIGenerating frame 231 of 600
+!%CIGenerating frame 232 of 600
+!%CIGenerating frame 233 of 600
+!%CIGenerating frame 234 of 600
+!%CIGenerating frame 235 of 600
+!%CIGenerating frame 236 of 600
+!%CIGenerating frame 237 of 600
+!%CIGenerating frame 238 of 600
+!%CIGenerating frame 239 of 600
+!%CIGenerating frame 240 of 600
+!%CIGenerating frame 241 of 600
+!%CIGenerating frame 242 of 600
+!%CIGenerating frame 243 of 600
+!%CIGenerating frame 244 of 600
+!%CIGenerating frame 245 of 600
+!%CIGenerating frame 246 of 600
+!%CIGenerating frame 247 of 600
+!%CIGenerating frame 248 of 600
+!%CIGenerating frame 249 of 600
+!%CIGenerating frame 250 of 600
+!%CIGenerating frame 251 of 600
+!%CIGenerating frame 252 of 600
+!%CIGenerating frame 253 of 600
+!%CIGenerating frame 254 of 600
+!%CIGenerating frame 255 of 600
+!%CIGenerating frame 256 of 600
+!%CIGenerating frame 257 of 600
+!%CIGenerating frame 258 of 600
+!%CIGenerating frame 259 of 600
+!%CIGenerating frame 260 of 600
+!%CIGenerating frame 261 of 600
+!%CIGenerating frame 262 of 600
+!%CIGenerating frame 263 of 600
+!%CIGenerating frame 264 of 600
+!%CIGenerating frame 265 of 600
+!%CIGenerating frame 266 of 600
+!%CIGenerating frame 267 of 600
+!%CIGenerating frame 268 of 600
+!%CIGenerating frame 269 of 600
+!%CIGenerating frame 270 of 600
+!%CIGenerating frame 271 of 600
+!%CIGenerating frame 272 of 600
+!%CIGenerating frame 273 of 600
+!%CIGenerating frame 274 of 600
+!%CIGenerating frame 275 of 600
+!%CIGenerating frame 276 of 600
+!%CIGenerating frame 277 of 600
+!%CIGenerating frame 278 of 600
+!%CIGenerating frame 279 of 600
+!%CIGenerating frame 280 of 600
+!%CIGenerating frame 281 of 600
+!%CIGenerating frame 282 of 600
+!%CIGenerating frame 283 of 600
+!%CIGenerating frame 284 of 600
+!%CIGenerating frame 285 of 600
+!%CIGenerating frame 286 of 600
+!%CIGenerating frame 287 of 600
+!%CIGenerating frame 288 of 600
+!%CIGenerating frame 289 of 600
+!%CIGenerating frame 290 of 600
+!%CIGenerating frame 291 of 600
+!%CIGenerating frame 292 of 600
+!%CIGenerating frame 293 of 600
+!%CIGenerating frame 294 of 600
+!%CIGenerating frame 295 of 600
+!%CIGenerating frame 296 of 600
+!%CIGenerating frame 297 of 600
+!%CIGenerating frame 298 of 600
+!%CIGenerating frame 299 of 600
+!%CIGenerating frame 300 of 600
+!%CIGenerating frame 301 of 600
+!%CIGenerating frame 302 of 600
+!%CIGenerating frame 303 of 600
+!%CIGenerating frame 304 of 600
+!%CIGenerating frame 305 of 600
+!%CIGenerating frame 306 of 600
+!%CIGenerating frame 307 of 600
+!%CIGenerating frame 308 of 600
+!%CIGenerating frame 309 of 600
+!%CIGenerating frame 310 of 600
+!%CIGenerating frame 311 of 600
+!%CIGenerating frame 312 of 600
+!%CIGenerating frame 313 of 600
+!%CIGenerating frame 314 of 600
+!%CIGenerating frame 315 of 600
+!%CIGenerating frame 316 of 600
+!%CIGenerating frame 317 of 600
+!%CIGenerating frame 318 of 600
+!%CIGenerating frame 319 of 600
+!%CIGenerating frame 320 of 600
+!%CIGenerating frame 321 of 600
+!%CIGenerating frame 322 of 600
+!%CIGenerating frame 323 of 600
+!%CIGenerating frame 324 of 600
+!%CIGenerating frame 325 of 600
+!%CIGenerating frame 326 of 600
+!%CIGenerating frame 327 of 600
+!%CIGenerating frame 328 of 600
+!%CIGenerating frame 329 of 600
+!%CIGenerating frame 330 of 600
+!%CIGenerating frame 331 of 600
+!%CIGenerating frame 332 of 600
+!%CIGenerating frame 333 of 600
+!%CIGenerating frame 334 of 600
+!%CIGenerating frame 335 of 600
+!%CIGenerating frame 336 of 600
+!%CIGenerating frame 337 of 600
+!%CIGenerating frame 338 of 600
+!%CIGenerating frame 339 of 600
+!%CIGenerating frame 340 of 600
+!%CIGenerating frame 341 of 600
+!%CIGenerating frame 342 of 600
+!%CIGenerating frame 343 of 600
+!%CIGenerating frame 344 of 600
+!%CIGenerating frame 345 of 600
+!%CIGenerating frame 346 of 600
+!%CIGenerating frame 347 of 600
+!%CIGenerating frame 348 of 600
+!%CIGenerating frame 349 of 600
+!%CIGenerating frame 350 of 600
+!%CIGenerating frame 351 of 600
+!%CIGenerating frame 352 of 600
+!%CIGenerating frame 353 of 600
+!%CIGenerating frame 354 of 600
+!%CIGenerating frame 355 of 600
+!%CIGenerating frame 356 of 600
+!%CIGenerating frame 357 of 600
+!%CIGenerating frame 358 of 600
+!%CIGenerating frame 359 of 600
+!%CIGenerating frame 360 of 600
+!%CIGenerating frame 361 of 600
+!%CIGenerating frame 362 of 600
+!%CIGenerating frame 363 of 600
+!%CIGenerating frame 364 of 600
+!%CIGenerating frame 365 of 600
+!%CIGenerating frame 366 of 600
+!%CIGenerating frame 367 of 600
+!%CIGenerating frame 368 of 600
+!%CIGenerating frame 369 of 600
+!%CIGenerating frame 370 of 600
+!%CIGenerating frame 371 of 600
+!%CIGenerating frame 372 of 600
+!%CIGenerating frame 373 of 600
+!%CIGenerating frame 374 of 600
+!%CIGenerating frame 375 of 600
+!%CIGenerating frame 376 of 600
+!%CIGenerating frame 377 of 600
+!%CIGenerating frame 378 of 600
+!%CIGenerating frame 379 of 600
+!%CIGenerating frame 380 of 600
+!%CIGenerating frame 381 of 600
+!%CIGenerating frame 382 of 600
+!%CIGenerating frame 383 of 600
+!%CIGenerating frame 384 of 600
+!%CIGenerating frame 385 of 600
+!%CIGenerating frame 386 of 600
+!%CIGenerating frame 387 of 600
+!%CIGenerating frame 388 of 600
+!%CIGenerating frame 389 of 600
+!%CIGenerating frame 390 of 600
+!%CIGenerating frame 391 of 600
+!%CIGenerating frame 392 of 600
+!%CIGenerating frame 393 of 600
+!%CIGenerating frame 394 of 600
+!%CIGenerating frame 395 of 600
+!%CIGenerating frame 396 of 600
+!%CIGenerating frame 397 of 600
+!%CIGenerating frame 398 of 600
+!%CIGenerating frame 399 of 600
+!%CIGenerating frame 400 of 600
+!%CIGenerating frame 401 of 600
+!%CIGenerating frame 402 of 600
+!%CIGenerating frame 403 of 600
+!%CIGenerating frame 404 of 600
+!%CIGenerating frame 405 of 600
+!%CIGenerating frame 406 of 600
+!%CIGenerating frame 407 of 600
+!%CIGenerating frame 408 of 600
+!%CIGenerating frame 409 of 600
+!%CIGenerating frame 410 of 600
+!%CIGenerating frame 411 of 600
+!%CIGenerating frame 412 of 600
+!%CIGenerating frame 413 of 600
+!%CIGenerating frame 414 of 600
+!%CIGenerating frame 415 of 600
+!%CIGenerating frame 416 of 600
+!%CIGenerating frame 417 of 600
+!%CIGenerating frame 418 of 600
+!%CIGenerating frame 419 of 600
+!%CIGenerating frame 420 of 600
+!%CIGenerating frame 421 of 600
+!%CIGenerating frame 422 of 600
+!%CIGenerating frame 423 of 600
+!%CIGenerating frame 424 of 600
+!%CIGenerating frame 425 of 600
+!%CIGenerating frame 426 of 600
+!%CIGenerating frame 427 of 600
+!%CIGenerating frame 428 of 600
+!%CIGenerating frame 429 of 600
+!%CIGenerating frame 430 of 600
+!%CIGenerating frame 431 of 600
+!%CIGenerating frame 432 of 600
+!%CIGenerating frame 433 of 600
+!%CIGenerating frame 434 of 600
+!%CIGenerating frame 435 of 600
+!%CIGenerating frame 436 of 600
+!%CIGenerating frame 437 of 600
+!%CIGenerating frame 438 of 600
+!%CIGenerating frame 439 of 600
+!%CIGenerating frame 440 of 600
+!%CIGenerating frame 441 of 600
+!%CIGenerating frame 442 of 600
+!%CIGenerating frame 443 of 600
+!%CIGenerating frame 444 of 600
+!%CIGenerating frame 445 of 600
+!%CIGenerating frame 446 of 600
+!%CIGenerating frame 447 of 600
+!%CIGenerating frame 448 of 600
+!%CIGenerating frame 449 of 600
+!%CIGenerating frame 450 of 600
+!%CIGenerating frame 451 of 600
+!%CIGenerating frame 452 of 600
+!%CIGenerating frame 453 of 600
+!%CIGenerating frame 454 of 600
+!%CIGenerating frame 455 of 600
+!%CIGenerating frame 456 of 600
+!%CIGenerating frame 457 of 600
+!%CIGenerating frame 458 of 600
+!%CIGenerating frame 459 of 600
+!%CIGenerating frame 460 of 600
+!%CIGenerating frame 461 of 600
+!%CIGenerating frame 462 of 600
+!%CIGenerating frame 463 of 600
+!%CIGenerating frame 464 of 600
+!%CIGenerating frame 465 of 600
+!%CIGenerating frame 466 of 600
+!%CIGenerating frame 467 of 600
+!%CIGenerating frame 468 of 600
+!%CIGenerating frame 469 of 600
+!%CIGenerating frame 470 of 600
+!%CIGenerating frame 471 of 600
+!%CIGenerating frame 472 of 600
+!%CIGenerating frame 473 of 600
+!%CIGenerating frame 474 of 600
+!%CIGenerating frame 475 of 600
+!%CIGenerating frame 476 of 600
+!%CIGenerating frame 477 of 600
+!%CIGenerating frame 478 of 600
+!%CIGenerating frame 479 of 600
+!%CIGenerating frame 480 of 600
+!%CIGenerating frame 481 of 600
+!%CIGenerating frame 482 of 600
+!%CIGenerating frame 483 of 600
+!%CIGenerating frame 484 of 600
+!%CIGenerating frame 485 of 600
+!%CIGenerating frame 486 of 600
+!%CIGenerating frame 487 of 600
+!%CIGenerating frame 488 of 600
+!%CIGenerating frame 489 of 600
+!%CIGenerating frame 490 of 600
+!%CIGenerating frame 491 of 600
+!%CIGenerating frame 492 of 600
+!%CIGenerating frame 493 of 600
+!%CIGenerating frame 494 of 600
+!%CIGenerating frame 495 of 600
+!%CIGenerating frame 496 of 600
+!%CIGenerating frame 497 of 600
+!%CIGenerating frame 498 of 600
+!%CIGenerating frame 499 of 600
+!%CIGenerating frame 500 of 600
+!%CIGenerating frame 501 of 600
+!%CIGenerating frame 502 of 600
+!%CIGenerating frame 503 of 600
+!%CIGenerating frame 504 of 600
+!%CIGenerating frame 505 of 600
+!%CIGenerating frame 506 of 600
+!%CIGenerating frame 507 of 600
+!%CIGenerating frame 508 of 600
+!%CIGenerating frame 509 of 600
+!%CIGenerating frame 510 of 600
+!%CIGenerating frame 511 of 600
+!%CIGenerating frame 512 of 600
+!%CIGenerating frame 513 of 600
+!%CIGenerating frame 514 of 600
+!%CIGenerating frame 515 of 600
+!%CIGenerating frame 516 of 600
+!%CIGenerating frame 517 of 600
+!%CIGenerating frame 518 of 600
+!%CIGenerating frame 519 of 600
+!%CIGenerating frame 520 of 600
+!%CIGenerating frame 521 of 600
+!%CIGenerating frame 522 of 600
+!%CIGenerating frame 523 of 600
+!%CIGenerating frame 524 of 600
+!%CIGenerating frame 525 of 600
+!%CIGenerating frame 526 of 600
+!%CIGenerating frame 527 of 600
+!%CIGenerating frame 528 of 600
+!%CIGenerating frame 529 of 600
+!%CIGenerating frame 530 of 600
+!%CIGenerating frame 531 of 600
+!%CIGenerating frame 532 of 600
+!%CIGenerating frame 533 of 600
+!%CIGenerating frame 534 of 600
+!%CIGenerating frame 535 of 600
+!%CIGenerating frame 536 of 600
+!%CIGenerating frame 537 of 600
+!%CIGenerating frame 538 of 600
+!%CIGenerating frame 539 of 600
+!%CIGenerating frame 540 of 600
+!%CIGenerating frame 541 of 600
+!%CIGenerating frame 542 of 600
+!%CIGenerating frame 543 of 600
+!%CIGenerating frame 544 of 600
+!%CIGenerating frame 545 of 600
+!%CIGenerating frame 546 of 600
+!%CIGenerating frame 547 of 600
+!%CIGenerating frame 548 of 600
+!%CIGenerating frame 549 of 600
+!%CIGenerating frame 550 of 600
+!%CIGenerating frame 551 of 600
+!%CIGenerating frame 552 of 600
+!%CIGenerating frame 553 of 600
+!%CIGenerating frame 554 of 600
+!%CIGenerating frame 555 of 600
+!%CIGenerating frame 556 of 600
+!%CIGenerating frame 557 of 600
+!%CIGenerating frame 558 of 600
+!%CIGenerating frame 559 of 600
+!%CIGenerating frame 560 of 600
+!%CIGenerating frame 561 of 600
+!%CIGenerating frame 562 of 600
+!%CIGenerating frame 563 of 600
+!%CIGenerating frame 564 of 600
+!%CIGenerating frame 565 of 600
+!%CIGenerating frame 566 of 600
+!%CIGenerating frame 567 of 600
+!%CIGenerating frame 568 of 600
+!%CIGenerating frame 569 of 600
+!%CIGenerating frame 570 of 600
+!%CIGenerating frame 571 of 600
+!%CIGenerating frame 572 of 600
+!%CIGenerating frame 573 of 600
+!%CIGenerating frame 574 of 600
+!%CIGenerating frame 575 of 600
+!%CIGenerating frame 576 of 600
+!%CIGenerating frame 577 of 600
+!%CIGenerating frame 578 of 600
+!%CIGenerating frame 579 of 600
+!%CIGenerating frame 580 of 600
+!%CIGenerating frame 581 of 600
+!%CIGenerating frame 582 of 600
+!%CIGenerating frame 583 of 600
+!%CIGenerating frame 584 of 600
+!%CIGenerating frame 585 of 600
+!%CIGenerating frame 586 of 600
+!%CIGenerating frame 587 of 600
+!%CIGenerating frame 588 of 600
+!%CIGenerating frame 589 of 600
+!%CIGenerating frame 590 of 600
+!%CIGenerating frame 591 of 600
+!%CIGenerating frame 592 of 600
+!%CIGenerating frame 593 of 600
+!%CIGenerating frame 594 of 600
+!%CIGenerating frame 595 of 600
+!%CIGenerating frame 596 of 600
+!%CIGenerating frame 597 of 600
+!%CIGenerating frame 598 of 600
+!%CIGenerating frame 599 of 600
+!%CIGenerating frame 600 of 600
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

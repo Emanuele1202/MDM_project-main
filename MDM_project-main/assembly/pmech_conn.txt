@@ -1,0 +1,13 @@
+       Error Diagnostics for Analysis/Assembly Failure
+
+  All acceleration constraints can't be simultaneously satisfied.
+The following acceleration constraints can't be satisfied:
+
+
+1) Lower limit of the first translation axis in connection Connection_13 in
+model ASM_BASE can't be satisfied.
+
+
+2) Gear GearPair2 in model ASM_BASE can't be satisfied.
+
+
